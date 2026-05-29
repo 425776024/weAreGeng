@@ -1,0 +1,337 @@
+{
+  "id": "中国科学院福建物质结构研究所",
+  "name": "中国科学院福建物质结构研究所",
+  "experts": [
+    {
+      "id": "杰青-鲍红丽",
+      "name": "鲍红丽",
+      "title": "化学",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "化学",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-鲍红丽",
+      "name": "鲍红丽",
+      "title": "有机过氧化物新反应探索",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "有机过氧化物新反应探索",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-曹荣",
+      "name": "曹荣",
+      "title": "无机化合物结构与性质",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "无机化合物结构与性质",
+      "tags": [
+        "杰青",
+        "2003"
+      ],
+      "honor": "杰青",
+      "year": 2003,
+      "source": "https://www.ncku1897.net/wiki/index.php/2003%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-陈玲",
+      "name": "陈玲",
+      "title": "无机固体材料",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "无机固体材料",
+      "tags": [
+        "杰青",
+        "2012"
+      ],
+      "honor": "杰青",
+      "year": 2012,
+      "source": "https://www.ncku1897.net/wiki/index.php/2012%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-陈学元",
+      "name": "陈学元",
+      "title": "无机发光材料电子结构与光学性能",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "无机发光材料电子结构与光学性能",
+      "tags": [
+        "杰青",
+        "2013"
+      ],
+      "honor": "杰青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-陈忠宁",
+      "name": "陈忠宁",
+      "title": "配位化学",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "配位化学",
+      "tags": [
+        "杰青",
+        "2006"
+      ],
+      "honor": "杰青",
+      "year": 2006,
+      "source": "https://www.ncku1897.net/wiki/index.php/2006%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-郭国聪",
+      "name": "郭国聪",
+      "title": "无机化学",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "无机化学",
+      "tags": [
+        "杰青",
+        "2004"
+      ],
+      "honor": "杰青",
+      "year": 2004,
+      "source": "https://www.ncku1897.net/wiki/index.php/2004%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-黄丰",
+      "name": "黄丰",
+      "title": "无机非金属类光电信息与功能材料",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "无机非金属类光电信息与功能材料",
+      "tags": [
+        "杰青",
+        "2006"
+      ],
+      "honor": "杰青",
+      "year": 2006,
+      "source": "https://www.ncku1897.net/wiki/index.php/2006%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-黄明东",
+      "name": "黄明东",
+      "title": "分子生物物理",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "分子生物物理",
+      "tags": [
+        "杰青",
+        "2006"
+      ],
+      "honor": "杰青",
+      "year": 2006,
+      "source": "https://www.ncku1897.net/wiki/index.php/2006%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-李广社",
+      "name": "李广社",
+      "title": "复合性能无机固体材料的合成和结构研究",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "复合性能无机固体材料的合成和结构研究",
+      "tags": [
+        "杰青",
+        "2010"
+      ],
+      "honor": "杰青",
+      "year": 2010,
+      "source": "https://www.ncku1897.net/wiki/index.php/2010%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-林璋",
+      "name": "林璋",
+      "title": "环境化学",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "环境化学",
+      "tags": [
+        "杰青",
+        "2011"
+      ],
+      "honor": "杰青",
+      "year": 2011,
+      "source": "https://www.ncku1897.net/wiki/index.php/2011%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-卢灿忠",
+      "name": "卢灿忠",
+      "title": "结构化学",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "结构化学",
+      "tags": [
+        "杰青",
+        "2004"
+      ],
+      "honor": "杰青",
+      "year": 2004,
+      "source": "https://www.ncku1897.net/wiki/index.php/2004%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-罗军华",
+      "name": "罗军华",
+      "title": "无机光电功能晶体材料",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "无机光电功能晶体材料",
+      "tags": [
+        "杰青",
+        "2015"
+      ],
+      "honor": "杰青",
+      "year": 2015,
+      "source": "https://www.ncku1897.net/wiki/index.php/2015%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-毛江高",
+      "name": "毛江高",
+      "title": "新型无机二阶非线性光学晶体的设计与合成",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "新型无机二阶非线性光学晶体的设计与合成",
+      "tags": [
+        "杰青",
+        "2008"
+      ],
+      "honor": "杰青",
+      "year": 2008,
+      "source": "https://www.ncku1897.net/wiki/index.php/2008%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-宋玉财",
+      "name": "宋玉财",
+      "title": "山东大学",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "山东大学",
+      "tags": [
+        "杰青",
+        "2021"
+      ],
+      "honor": "杰青",
+      "year": 2021,
+      "source": "https://www.ncku1897.net/wiki/index.php/2021%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-苏伟平",
+      "name": "苏伟平",
+      "title": "C-H键官能团化反应中的金属催化剂性质研究",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "C-H键官能团化反应中的金属催化剂性质研究",
+      "tags": [
+        "杰青",
+        "2009"
+      ],
+      "honor": "杰青",
+      "year": 2009,
+      "source": "https://www.ncku1897.net/wiki/index.php/2009%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-孙庆福",
+      "name": "孙庆福",
+      "title": "配位超分子化学",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "配位超分子化学",
+      "tags": [
+        "杰青",
+        "2018"
+      ],
+      "honor": "杰青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-孙志华",
+      "name": "孙志华",
+      "title": "极性分子基光电功能晶体材料",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "极性分子基光电功能晶体材料",
+      "tags": [
+        "优青",
+        "2016"
+      ],
+      "honor": "优青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-温珍海",
+      "name": "温珍海",
+      "title": "新型可持续电化学能源器件",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "新型可持续电化学能源器件",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-徐刚",
+      "name": "徐刚",
+      "title": "配位合成化学",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "配位合成化学",
+      "tags": [
+        "优青",
+        "2018"
+      ],
+      "honor": "优青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-叶宁",
+      "name": "叶宁",
+      "title": "无机非线性光学晶体材料",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "无机非线性光学晶体材料",
+      "tags": [
+        "杰青",
+        "2014"
+      ],
+      "honor": "杰青",
+      "year": 2014,
+      "source": "https://www.ncku1897.net/wiki/index.php/2014%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-郑庆东",
+      "name": "郑庆东",
+      "title": "有机光电子功能材料与器件",
+      "university": "中国科学院福建物质结构研究所",
+      "field": "有机光电子功能材料与器件",
+      "tags": [
+        "杰青",
+        "2013"
+      ],
+      "honor": "杰青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 22
+}

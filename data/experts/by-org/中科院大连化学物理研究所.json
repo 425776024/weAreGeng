@@ -1,0 +1,35 @@
+{
+  "id": "中科院大连化学物理研究所",
+  "name": "中科院大连化学物理研究所",
+  "experts": [
+    {
+      "id": "中科院院士-李灿",
+      "name": "李灿",
+      "title": "",
+      "university": "中科院大连化学物理研究所",
+      "field": "化学部",
+      "tags": [
+        "中科院院士",
+        "2003"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882104.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "中科院院士-张玉奎",
+      "name": "张玉奎",
+      "title": "",
+      "university": "中科院大连化学物理研究所",
+      "field": "化学部",
+      "tags": [
+        "中科院院士",
+        "2003"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882104.html",
+      "sourceOrg": "中国科学院学部"
+    }
+  ],
+  "count": 2
+}

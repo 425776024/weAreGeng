@@ -1,0 +1,53 @@
+{
+  "id": "中国医学科学院北京协和医院",
+  "name": "中国医学科学院北京协和医院",
+  "universityId": "pkuhsc",
+  "experts": [
+    {
+      "id": "优青-吴南",
+      "name": "吴南",
+      "title": "脊柱畸形的分子遗传学研究",
+      "university": "中国医学科学院北京协和医院",
+      "field": "脊柱畸形的分子遗传学研究",
+      "tags": [
+        "优青",
+        "2018"
+      ],
+      "honor": "优青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-徐蔚海",
+      "name": "徐蔚海",
+      "title": "颅内动脉粥样硬化性疾病的精准诊断",
+      "university": "中国医学科学院北京协和医院",
+      "field": "颅内动脉粥样硬化性疾病的精准诊断",
+      "tags": [
+        "杰青",
+        "2020"
+      ],
+      "honor": "杰青",
+      "year": 2020,
+      "source": "https://www.ncku1897.net/wiki/index.php/2020%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-张烜",
+      "name": "张烜",
+      "title": "风湿病和临床免疫",
+      "university": "中国医学科学院北京协和医院",
+      "field": "风湿病和临床免疫",
+      "tags": [
+        "杰青",
+        "2013"
+      ],
+      "honor": "杰青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 3
+}

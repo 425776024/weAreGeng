@@ -1,0 +1,67 @@
+{
+  "id": "中国科学院声学研究所",
+  "name": "中国科学院声学研究所",
+  "experts": [
+    {
+      "id": "杰青-李风华",
+      "name": "李风华",
+      "title": "深海与过渡海区声场相干特性及其应用研究",
+      "university": "中国科学院声学研究所",
+      "field": "深海与过渡海区声场相干特性及其应用研究",
+      "tags": [
+        "杰青",
+        "2011"
+      ],
+      "honor": "杰青",
+      "year": 2011,
+      "source": "https://www.ncku1897.net/wiki/index.php/2011%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-李整林",
+      "name": "李整林",
+      "title": "深海声学及其应用",
+      "university": "中国科学院声学研究所",
+      "field": "深海声学及其应用",
+      "tags": [
+        "杰青",
+        "2019"
+      ],
+      "honor": "杰青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-鄢社锋",
+      "name": "鄢社锋",
+      "title": "水声信号处理与通信",
+      "university": "中国科学院声学研究所",
+      "field": "水声信号处理与通信",
+      "tags": [
+        "杰青",
+        "2017"
+      ],
+      "honor": "杰青",
+      "year": 2017,
+      "source": "https://www.ncku1897.net/wiki/index.php/2017%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-颜永红",
+      "name": "颜永红",
+      "title": "面向语音处理的言语声学数字化建模",
+      "university": "中国科学院声学研究所",
+      "field": "面向语音处理的言语声学数字化建模",
+      "tags": [
+        "杰青",
+        "2009"
+      ],
+      "honor": "杰青",
+      "year": 2009,
+      "source": "https://www.ncku1897.net/wiki/index.php/2009%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 4
+}

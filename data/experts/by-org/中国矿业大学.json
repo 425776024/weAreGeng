@@ -1,0 +1,203 @@
+{
+  "id": "中国矿业大学",
+  "name": "中国矿业大学",
+  "universityId": "cumt",
+  "experts": [
+    {
+      "id": "杰青-翟成",
+      "name": "翟成",
+      "title": "低透气性煤层致裂增透及瓦斯高效抽采",
+      "university": "中国矿业大学",
+      "field": "低透气性煤层致裂增透及瓦斯高效抽采",
+      "tags": [
+        "杰青",
+        "2019"
+      ],
+      "honor": "杰青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-段晨龙",
+      "name": "段晨龙",
+      "title": "中国矿业大学",
+      "university": "中国矿业大学",
+      "field": "中国矿业大学",
+      "tags": [
+        "杰青",
+        "2021"
+      ],
+      "honor": "杰青",
+      "year": 2021,
+      "source": "https://www.ncku1897.net/wiki/index.php/2021%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-葛世荣",
+      "name": "葛世荣",
+      "title": "中国矿业大学",
+      "university": "中国矿业大学",
+      "field": "中国矿业大学",
+      "tags": [
+        "杰青",
+        "2002"
+      ],
+      "honor": "杰青",
+      "year": 2002,
+      "source": "https://www.ncku1897.net/wiki/index.php/2002%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-桂夏辉",
+      "name": "桂夏辉",
+      "title": "低品质煤浮选提质",
+      "university": "中国矿业大学",
+      "field": "低品质煤浮选提质",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-刘炯天",
+      "name": "刘炯天",
+      "title": "矿物工程与物质分离科学",
+      "university": "中国矿业大学",
+      "field": "矿物工程与物质分离科学",
+      "tags": [
+        "杰青",
+        "2004"
+      ],
+      "honor": "杰青",
+      "year": 2004,
+      "source": "https://www.ncku1897.net/wiki/index.php/2004%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-缪协兴",
+      "name": "缪协兴",
+      "title": "中国矿业大学",
+      "university": "中国矿业大学",
+      "field": "中国矿业大学",
+      "tags": [
+        "杰青",
+        "2002"
+      ],
+      "honor": "杰青",
+      "year": 2002,
+      "source": "https://www.ncku1897.net/wiki/index.php/2002%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-浦海",
+      "name": "浦海",
+      "title": "中国矿业大学",
+      "university": "中国矿业大学",
+      "field": "中国矿业大学",
+      "tags": [
+        "优青",
+        "2013"
+      ],
+      "honor": "优青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-秦波涛",
+      "name": "秦波涛",
+      "title": "煤矿热动力灾害防治",
+      "university": "中国矿业大学",
+      "field": "煤矿热动力灾害防治",
+      "tags": [
+        "杰青",
+        "2018"
+      ],
+      "honor": "杰青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-张海军",
+      "name": "张海军",
+      "title": "化工学院",
+      "university": "中国矿业大学",
+      "field": "化工学院",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-张吉雄",
+      "name": "张吉雄",
+      "title": "充填开采与岩层控制",
+      "university": "中国矿业大学",
+      "field": "充填开采与岩层控制",
+      "tags": [
+        "杰青",
+        "2017"
+      ],
+      "honor": "杰青",
+      "year": 2017,
+      "source": "https://www.ncku1897.net/wiki/index.php/2017%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-赵跃民",
+      "name": "赵跃民",
+      "title": "教授",
+      "university": "中国矿业大学",
+      "field": "教授",
+      "tags": [
+        "杰青",
+        "2000"
+      ],
+      "honor": "杰青",
+      "year": 2000,
+      "source": "https://www.ncku1897.net/wiki/index.php/2000%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-赵跃民",
+      "name": "赵跃民",
+      "title": "",
+      "university": "中国矿业大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2023"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col2260/2023-11/23/20231123090216622511192_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/19506769.html"
+    },
+    {
+      "id": "杰青-周福宝",
+      "name": "周福宝",
+      "title": "矿井瓦斯抽采与安全",
+      "university": "中国矿业大学",
+      "field": "矿井瓦斯抽采与安全",
+      "tags": [
+        "杰青",
+        "2013"
+      ],
+      "honor": "杰青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 13
+}

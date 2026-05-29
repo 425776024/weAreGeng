@@ -1,0 +1,23 @@
+{
+  "id": "北京大学第三医院",
+  "name": "北京大学第三医院",
+  "universityId": "pku",
+  "experts": [
+    {
+      "id": "工程院院士-董尔丹",
+      "name": "董尔丹",
+      "title": "",
+      "university": "北京大学第三医院",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2019"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col323/2019-11/22/20191122095745643268594_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/89520132.html"
+    }
+  ],
+  "count": 1
+}

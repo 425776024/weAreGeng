@@ -1,0 +1,22 @@
+{
+  "id": "深圳市地铁集团有限公司",
+  "name": "深圳市地铁集团有限公司",
+  "experts": [
+    {
+      "id": "工程院院士-陈湘生",
+      "name": "陈湘生",
+      "title": "",
+      "university": "深圳市地铁集团有限公司",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2017"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col280/2017-11/27/20171127085337936142127_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/83010379.html"
+    }
+  ],
+  "count": 1
+}

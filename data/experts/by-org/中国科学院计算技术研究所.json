@@ -1,0 +1,202 @@
+{
+  "id": "中国科学院计算技术研究所",
+  "name": "中国科学院计算技术研究所",
+  "experts": [
+    {
+      "id": "杰青-陈熙霖",
+      "name": "陈熙霖",
+      "title": "图像与视频处理",
+      "university": "中国科学院计算技术研究所",
+      "field": "图像与视频处理",
+      "tags": [
+        "杰青",
+        "2010"
+      ],
+      "honor": "杰青",
+      "year": 2010,
+      "source": "https://www.ncku1897.net/wiki/index.php/2010%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-陈云霁",
+      "name": "陈云霁",
+      "title": "处理器体系结构",
+      "university": "中国科学院计算技术研究所",
+      "field": "处理器体系结构",
+      "tags": [
+        "杰青",
+        "2019"
+      ],
+      "honor": "杰青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-程学旗",
+      "name": "程学旗",
+      "title": "Web信息检索与数据挖掘",
+      "university": "中国科学院计算技术研究所",
+      "field": "Web信息检索与数据挖掘",
+      "tags": [
+        "杰青",
+        "2014"
+      ],
+      "honor": "杰青",
+      "year": 2014,
+      "source": "https://www.ncku1897.net/wiki/index.php/2014%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-韩银和",
+      "name": "韩银和",
+      "title": "专用处理器芯片设计",
+      "university": "中国科学院计算技术研究所",
+      "field": "专用处理器芯片设计",
+      "tags": [
+        "杰青",
+        "2020"
+      ],
+      "honor": "杰青",
+      "year": 2020,
+      "source": "https://www.ncku1897.net/wiki/index.php/2020%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-胡伟武",
+      "name": "胡伟武",
+      "title": "计算机系统结构",
+      "university": "中国科学院计算技术研究所",
+      "field": "计算机系统结构",
+      "tags": [
+        "杰青",
+        "2003"
+      ],
+      "honor": "杰青",
+      "year": 2003,
+      "source": "https://www.ncku1897.net/wiki/index.php/2003%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-蒋树强",
+      "name": "蒋树强",
+      "title": "中国科学院计算技术研究所",
+      "university": "中国科学院计算技术研究所",
+      "field": "中国科学院计算技术研究所",
+      "tags": [
+        "杰青",
+        "2021"
+      ],
+      "honor": "杰青",
+      "year": 2021,
+      "source": "https://www.ncku1897.net/wiki/index.php/2021%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-蒋树强",
+      "name": "蒋树强",
+      "title": "中国科学院计算技术研究所",
+      "university": "中国科学院计算技术研究所",
+      "field": "中国科学院计算技术研究所",
+      "tags": [
+        "优青",
+        "2013"
+      ],
+      "honor": "优青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-孙凝晖",
+      "name": "孙凝晖",
+      "title": "Exascale计算的基础研究",
+      "university": "中国科学院计算技术研究所",
+      "field": "Exascale计算的基础研究",
+      "tags": [
+        "杰青",
+        "2009"
+      ],
+      "honor": "杰青",
+      "year": 2009,
+      "source": "https://www.ncku1897.net/wiki/index.php/2009%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-孙凝晖",
+      "name": "孙凝晖",
+      "title": "",
+      "university": "中国科学院计算技术研究所",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2019"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col323/2019-11/22/20191122095745643268594_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/55288821.html"
+    },
+    {
+      "id": "杰青-谭光明",
+      "name": "谭光明",
+      "title": "中国科学院计算技术研究所",
+      "university": "中国科学院计算技术研究所",
+      "field": "中国科学院计算技术研究所",
+      "tags": [
+        "杰青",
+        "2021"
+      ],
+      "honor": "杰青",
+      "year": 2021,
+      "source": "https://www.ncku1897.net/wiki/index.php/2021%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-王瑞平",
+      "name": "王瑞平",
+      "title": "视觉数据非线性建模与度量学习",
+      "university": "中国科学院计算技术研究所",
+      "field": "视觉数据非线性建模与度量学习",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-谢高岗",
+      "name": "谢高岗",
+      "title": "互联网性能研究",
+      "university": "中国科学院计算技术研究所",
+      "field": "互联网性能研究",
+      "tags": [
+        "杰青",
+        "2017"
+      ],
+      "honor": "杰青",
+      "year": 2017,
+      "source": "https://www.ncku1897.net/wiki/index.php/2017%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-张勇东",
+      "name": "张勇东",
+      "title": "互联网环境下大规模视频内容分析与处理",
+      "university": "中国科学院计算技术研究所",
+      "field": "互联网环境下大规模视频内容分析与处理",
+      "tags": [
+        "杰青",
+        "2015"
+      ],
+      "honor": "杰青",
+      "year": 2015,
+      "source": "https://www.ncku1897.net/wiki/index.php/2015%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 13
+}

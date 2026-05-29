@@ -1,0 +1,52 @@
+{
+  "id": "中国农业科学院北京畜牧兽医研究所",
+  "name": "中国农业科学院北京畜牧兽医研究所",
+  "experts": [
+    {
+      "id": "工程院院士-侯水生",
+      "name": "侯水生",
+      "title": "",
+      "university": "中国农业科学院北京畜牧兽医研究所",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2021"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col1/2021-11/18/20211118075007595415390_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/94855280.html"
+    },
+    {
+      "id": "杰青-王彦芳",
+      "name": "王彦芳",
+      "title": "猪功能基因组学",
+      "university": "中国农业科学院北京畜牧兽医研究所",
+      "field": "猪功能基因组学",
+      "tags": [
+        "杰青",
+        "2020"
+      ],
+      "honor": "杰青",
+      "year": 2020,
+      "source": "https://www.ncku1897.net/wiki/index.php/2020%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-周正奎",
+      "name": "周正奎",
+      "title": "中国农业科学院北京畜牧兽医研究所",
+      "university": "中国农业科学院北京畜牧兽医研究所",
+      "field": "中国农业科学院北京畜牧兽医研究所",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://www.ncku1897.net/wiki/index.php/2023%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 3
+}

@@ -1,0 +1,82 @@
+{
+  "id": "温州医科大学",
+  "name": "温州医科大学",
+  "experts": [
+    {
+      "id": "工程院院士-李校堃",
+      "name": "李校堃",
+      "title": "",
+      "university": "温州医科大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2019"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col323/2019-11/22/20191122095745643268594_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/62575345.html"
+    },
+    {
+      "id": "优青-梁广",
+      "name": "梁广",
+      "title": "药物化学与靶点确证",
+      "university": "温州医科大学",
+      "field": "药物化学与靶点确证",
+      "tags": [
+        "优青",
+        "2016"
+      ],
+      "honor": "优青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-林灼锋",
+      "name": "林灼锋",
+      "title": "脂肪细胞因子与心血管疾病",
+      "university": "温州医科大学",
+      "field": "脂肪细胞因子与心血管疾病",
+      "tags": [
+        "杰青",
+        "2019"
+      ],
+      "honor": "杰青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-周翔天",
+      "name": "周翔天",
+      "title": "近视发病机制研究",
+      "university": "温州医科大学",
+      "field": "近视发病机制研究",
+      "tags": [
+        "杰青",
+        "2020"
+      ],
+      "honor": "杰青",
+      "year": 2020,
+      "source": "https://www.ncku1897.net/wiki/index.php/2020%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-周翔天",
+      "name": "周翔天",
+      "title": "温州医科大学",
+      "university": "温州医科大学",
+      "field": "温州医科大学",
+      "tags": [
+        "优青",
+        "2014"
+      ],
+      "honor": "优青",
+      "year": 2014,
+      "source": "https://www.ncku1897.net/wiki/index.php/2014%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 5
+}

@@ -1,0 +1,457 @@
+{
+  "id": "中国科学院半导体研究所",
+  "name": "中国科学院半导体研究所",
+  "experts": [
+    {
+      "id": "杰青-常凯",
+      "name": "常凯",
+      "title": "半导体物理",
+      "university": "中国科学院半导体研究所",
+      "field": "半导体物理",
+      "tags": [
+        "杰青",
+        "2005"
+      ],
+      "honor": "杰青",
+      "year": 2005,
+      "source": "https://www.ncku1897.net/wiki/index.php/2005%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "中科院院士-常凯",
+      "name": "常凯",
+      "title": "",
+      "university": "中国科学院半导体研究所",
+      "field": "数学物理学部",
+      "tags": [
+        "中科院院士",
+        "2019"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882115.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "杰青-陈涌海",
+      "name": "陈涌海",
+      "title": "半导体异质结构（包括ＳＯＩ、ＳＯＳ材料）",
+      "university": "中国科学院半导体研究所",
+      "field": "半导体异质结构（包括ＳＯＩ、ＳＯＳ材料）",
+      "tags": [
+        "杰青",
+        "2006"
+      ],
+      "honor": "杰青",
+      "year": 2006,
+      "source": "https://www.ncku1897.net/wiki/index.php/2006%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-邓惠雄",
+      "name": "邓惠雄",
+      "title": "半导体中的缺陷物理与掺杂调控",
+      "university": "中国科学院半导体研究所",
+      "field": "半导体中的缺陷物理与掺杂调控",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-封松林",
+      "name": "封松林",
+      "title": "研究员",
+      "university": "中国科学院半导体研究所",
+      "field": "研究员",
+      "tags": [
+        "杰青",
+        "2000"
+      ],
+      "honor": "杰青",
+      "year": 2000,
+      "source": "https://www.ncku1897.net/wiki/index.php/2000%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-黄永箴",
+      "name": "黄永箴",
+      "title": "中国科学院半导体研究所",
+      "university": "中国科学院半导体研究所",
+      "field": "中国科学院半导体研究所",
+      "tags": [
+        "杰青",
+        "2002"
+      ],
+      "honor": "杰青",
+      "year": 2002,
+      "source": "https://www.ncku1897.net/wiki/index.php/2002%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-姬扬",
+      "name": "姬扬",
+      "title": "凝聚态物性Ⅱ:电子结构、电学、磁学和光学性质",
+      "university": "中国科学院半导体研究所",
+      "field": "凝聚态物性Ⅱ:电子结构、电学、磁学和光学性质",
+      "tags": [
+        "杰青",
+        "2004"
+      ],
+      "honor": "杰青",
+      "year": 2004,
+      "source": "https://www.ncku1897.net/wiki/index.php/2004%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-李京波",
+      "name": "李京波",
+      "title": "半导体掺杂机制和纳米材料的研究",
+      "university": "中国科学院半导体研究所",
+      "field": "半导体掺杂机制和纳米材料的研究",
+      "tags": [
+        "杰青",
+        "2009"
+      ],
+      "honor": "杰青",
+      "year": 2009,
+      "source": "https://www.ncku1897.net/wiki/index.php/2009%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-李明",
+      "name": "李明",
+      "title": "光子模拟信号处理",
+      "university": "中国科学院半导体研究所",
+      "field": "光子模拟信号处理",
+      "tags": [
+        "杰青",
+        "2019",
+        "2003",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-李树深",
+      "name": "李树深",
+      "title": "超晶格与量子阱物理",
+      "university": "中国科学院半导体研究所",
+      "field": "超晶格与量子阱物理",
+      "tags": [
+        "杰青",
+        "2003"
+      ],
+      "honor": "杰青",
+      "year": 2003,
+      "source": "https://www.ncku1897.net/wiki/index.php/2003%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "中科院院士-李树深",
+      "name": "李树深",
+      "title": "",
+      "university": "中国科学院半导体研究所",
+      "field": "信息技术科学部",
+      "tags": [
+        "中科院院士",
+        "2011"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882108.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "杰青-李新奇",
+      "name": "李新奇",
+      "title": "半导体中其他物理问题",
+      "university": "中国科学院半导体研究所",
+      "field": "半导体中其他物理问题",
+      "tags": [
+        "杰青",
+        "2004"
+      ],
+      "honor": "杰青",
+      "year": 2004,
+      "source": "https://www.ncku1897.net/wiki/index.php/2004%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-李舟",
+      "name": "李舟",
+      "title": "中国科学院半导体研究所",
+      "university": "中国科学院半导体研究所",
+      "field": "中国科学院半导体研究所",
+      "tags": [
+        "杰青",
+        "2021"
+      ],
+      "honor": "杰青",
+      "year": 2021,
+      "source": "https://www.ncku1897.net/wiki/index.php/2021%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-林学春",
+      "name": "林学春",
+      "title": "中国科学院半导体研究所",
+      "university": "中国科学院半导体研究所",
+      "field": "中国科学院半导体研究所",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-林学春",
+      "name": "林学春",
+      "title": "高功率激光器及其与物质相互作用",
+      "university": "中国科学院半导体研究所",
+      "field": "高功率激光器及其与物质相互作用",
+      "tags": [
+        "优青",
+        "2016"
+      ],
+      "honor": "优青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-刘峰奇",
+      "name": "刘峰奇",
+      "title": "新型红外技术",
+      "university": "中国科学院半导体研究所",
+      "field": "新型红外技术",
+      "tags": [
+        "杰青",
+        "2005"
+      ],
+      "honor": "杰青",
+      "year": 2005,
+      "source": "https://www.ncku1897.net/wiki/index.php/2005%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-刘建国",
+      "name": "刘建国",
+      "title": "高速光电子器件",
+      "university": "中国科学院半导体研究所",
+      "field": "高速光电子器件",
+      "tags": [
+        "杰青",
+        "2016"
+      ],
+      "honor": "杰青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-骆军委",
+      "name": "骆军委",
+      "title": "半导体物理与器件物理",
+      "university": "中国科学院半导体研究所",
+      "field": "半导体物理与器件物理",
+      "tags": [
+        "杰青",
+        "2019"
+      ],
+      "honor": "杰青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-牛智川",
+      "name": "牛智川",
+      "title": "超晶格与量子阱半导体材料",
+      "university": "中国科学院半导体研究所",
+      "field": "超晶格与量子阱半导体材料",
+      "tags": [
+        "杰青",
+        "2006"
+      ],
+      "honor": "杰青",
+      "year": 2006,
+      "source": "https://www.ncku1897.net/wiki/index.php/2006%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-沈国震",
+      "name": "沈国震",
+      "title": "柔性电子学",
+      "university": "中国科学院半导体研究所",
+      "field": "柔性电子学",
+      "tags": [
+        "杰青",
+        "2016"
+      ],
+      "honor": "杰青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-谭平恒",
+      "name": "谭平恒",
+      "title": "二维超薄层状晶体材料的光学性质研究",
+      "university": "中国科学院半导体研究所",
+      "field": "二维超薄层状晶体材料的光学性质研究",
+      "tags": [
+        "杰青",
+        "2012"
+      ],
+      "honor": "杰青",
+      "year": 2012,
+      "source": "https://www.ncku1897.net/wiki/index.php/2012%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-王开友",
+      "name": "王开友",
+      "title": "铁磁半导体及碳基自旋电子学",
+      "university": "中国科学院半导体研究所",
+      "field": "铁磁半导体及碳基自旋电子学",
+      "tags": [
+        "杰青",
+        "2012"
+      ],
+      "honor": "杰青",
+      "year": 2012,
+      "source": "https://www.ncku1897.net/wiki/index.php/2012%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-魏钟鸣",
+      "name": "魏钟鸣",
+      "title": "新型二维半导体与光电性能研究",
+      "university": "中国科学院半导体研究所",
+      "field": "新型二维半导体与光电性能研究",
+      "tags": [
+        "优青",
+        "2016"
+      ],
+      "honor": "优青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-吴晓光",
+      "name": "吴晓光",
+      "title": "半导体物理",
+      "university": "中国科学院半导体研究所",
+      "field": "半导体物理",
+      "tags": [
+        "杰青",
+        "2001"
+      ],
+      "honor": "杰青",
+      "year": 2001,
+      "source": "https://www.ncku1897.net/wiki/index.php/2001%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-薛春来",
+      "name": "薛春来",
+      "title": "中国科学院化学研究所",
+      "university": "中国科学院半导体研究所",
+      "field": "中国科学院化学研究所",
+      "tags": [
+        "杰青",
+        "2021"
+      ],
+      "honor": "杰青",
+      "year": 2021,
+      "source": "https://www.ncku1897.net/wiki/index.php/2021%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-杨林",
+      "name": "杨林",
+      "title": "硅基光子集成",
+      "university": "中国科学院半导体研究所",
+      "field": "硅基光子集成",
+      "tags": [
+        "杰青",
+        "2018"
+      ],
+      "honor": "杰青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-游经碧",
+      "name": "游经碧",
+      "title": "钙钛矿半导体光电器件",
+      "university": "中国科学院半导体研究所",
+      "field": "钙钛矿半导体光电器件",
+      "tags": [
+        "杰青",
+        "2019"
+      ],
+      "honor": "杰青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-袁国栋",
+      "name": "袁国栋",
+      "title": "中国科学院半导体研究所",
+      "university": "中国科学院半导体研究所",
+      "field": "中国科学院半导体研究所",
+      "tags": [
+        "优青",
+        "2014"
+      ],
+      "honor": "优青",
+      "year": 2014,
+      "source": "https://www.ncku1897.net/wiki/index.php/2014%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-赵德刚",
+      "name": "赵德刚",
+      "title": "GaN基光电子材料与器件的基础问题",
+      "university": "中国科学院半导体研究所",
+      "field": "GaN基光电子材料与器件的基础问题",
+      "tags": [
+        "杰青",
+        "2009"
+      ],
+      "honor": "杰青",
+      "year": 2009,
+      "source": "https://www.ncku1897.net/wiki/index.php/2009%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-郑婉华",
+      "name": "郑婉华",
+      "title": "基于人工微纳结构的高光束质量半导体激光器研究",
+      "university": "中国科学院半导体研究所",
+      "field": "基于人工微纳结构的高光束质量半导体激光器研究",
+      "tags": [
+        "杰青",
+        "2010"
+      ],
+      "honor": "杰青",
+      "year": 2010,
+      "source": "https://www.ncku1897.net/wiki/index.php/2010%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 30
+}

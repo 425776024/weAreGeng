@@ -1,0 +1,82 @@
+{
+  "id": "长沙理工大学",
+  "name": "长沙理工大学",
+  "experts": [
+    {
+      "id": "杰青-曾祥君",
+      "name": "曾祥君",
+      "title": "主动配电系统故障自愈控制理论与技术",
+      "university": "长沙理工大学",
+      "field": "主动配电系统故障自愈控制理论与技术",
+      "tags": [
+        "杰青",
+        "2014"
+      ],
+      "honor": "杰青",
+      "year": 2014,
+      "source": "https://www.ncku1897.net/wiki/index.php/2014%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-韩艳",
+      "name": "韩艳",
+      "title": "桥梁风致振动理论与试验技术",
+      "university": "长沙理工大学",
+      "field": "桥梁风致振动理论与试验技术",
+      "tags": [
+        "优青",
+        "2018"
+      ],
+      "honor": "优青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-吕松涛",
+      "name": "吕松涛",
+      "title": "交通运输工程学院",
+      "university": "长沙理工大学",
+      "field": "交通运输工程学院",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-肖伏良",
+      "name": "肖伏良",
+      "title": "径向扩散与波-粒相互作用对辐射带高能粒子的共同加速效应",
+      "university": "长沙理工大学",
+      "field": "径向扩散与波-粒相互作用对辐射带高能粒子的共同加速效应",
+      "tags": [
+        "杰青",
+        "2009"
+      ],
+      "honor": "杰青",
+      "year": 2009,
+      "source": "https://www.ncku1897.net/wiki/index.php/2009%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-张军辉",
+      "name": "张军辉",
+      "title": "路基工程",
+      "university": "长沙理工大学",
+      "field": "路基工程",
+      "tags": [
+        "杰青",
+        "2020"
+      ],
+      "honor": "杰青",
+      "year": 2020,
+      "source": "https://www.ncku1897.net/wiki/index.php/2020%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 5
+}

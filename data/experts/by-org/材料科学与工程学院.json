@@ -1,0 +1,247 @@
+{
+  "id": "材料科学与工程学院",
+  "name": "材料科学与工程学院",
+  "experts": [
+    {
+      "id": "杰青-陈先华",
+      "name": "陈先华",
+      "title": "材料科学与工程学院",
+      "university": "材料科学与工程学院",
+      "field": "材料科学与工程学院",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-何前军",
+      "name": "何前军",
+      "title": "上海交通大学",
+      "university": "材料科学与工程学院",
+      "field": "上海交通大学",
+      "tags": [
+        "杰青",
+        "2024"
+      ],
+      "honor": "杰青",
+      "year": 2024,
+      "source": "https://www.ncku1897.net/wiki/index.php/2024%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-胡蓉蓉",
+      "name": "胡蓉蓉",
+      "title": "华南理工大学",
+      "university": "材料科学与工程学院",
+      "field": "华南理工大学",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://www.ncku1897.net/wiki/index.php/2023%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-雷霆",
+      "name": "雷霆",
+      "title": "北京大学",
+      "university": "材料科学与工程学院",
+      "field": "北京大学",
+      "tags": [
+        "杰青",
+        "2024"
+      ],
+      "honor": "杰青",
+      "year": 2024,
+      "source": "https://www.ncku1897.net/wiki/index.php/2024%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-李苏植",
+      "name": "李苏植",
+      "title": "西安交通大学",
+      "university": "材料科学与工程学院",
+      "field": "西安交通大学",
+      "tags": [
+        "杰青",
+        "2024"
+      ],
+      "honor": "杰青",
+      "year": 2024,
+      "source": "https://www.ncku1897.net/wiki/index.php/2024%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-刘润辉",
+      "name": "刘润辉",
+      "title": "华东理工大学",
+      "university": "材料科学与工程学院",
+      "field": "华东理工大学",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://www.ncku1897.net/wiki/index.php/2023%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-刘知琪",
+      "name": "刘知琪",
+      "title": "北京航空航天大学",
+      "university": "材料科学与工程学院",
+      "field": "北京航空航天大学",
+      "tags": [
+        "杰青",
+        "2024"
+      ],
+      "honor": "杰青",
+      "year": 2024,
+      "source": "https://www.ncku1897.net/wiki/index.php/2024%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-吕学伟",
+      "name": "吕学伟",
+      "title": "重庆大学",
+      "university": "材料科学与工程学院",
+      "field": "重庆大学",
+      "tags": [
+        "杰青",
+        "2024"
+      ],
+      "honor": "杰青",
+      "year": 2024,
+      "source": "https://www.ncku1897.net/wiki/index.php/2024%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-罗维",
+      "name": "罗维",
+      "title": "材料科学与工程学院",
+      "university": "材料科学与工程学院",
+      "field": "材料科学与工程学院",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-屈雪",
+      "name": "屈雪",
+      "title": "华东理工大学",
+      "university": "材料科学与工程学院",
+      "field": "华东理工大学",
+      "tags": [
+        "杰青",
+        "2024"
+      ],
+      "honor": "杰青",
+      "year": 2024,
+      "source": "https://www.ncku1897.net/wiki/index.php/2024%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-陶光明",
+      "name": "陶光明",
+      "title": "华中科技大学",
+      "university": "材料科学与工程学院",
+      "field": "华中科技大学",
+      "tags": [
+        "杰青",
+        "2024"
+      ],
+      "honor": "杰青",
+      "year": 2024,
+      "source": "https://www.ncku1897.net/wiki/index.php/2024%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-田非",
+      "name": "田非",
+      "title": "中山大学",
+      "university": "材料科学与工程学院",
+      "field": "中山大学",
+      "tags": [
+        "杰青",
+        "2024"
+      ],
+      "honor": "杰青",
+      "year": 2024,
+      "source": "https://www.ncku1897.net/wiki/index.php/2024%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-徐大可",
+      "name": "徐大可",
+      "title": "东北大学",
+      "university": "材料科学与工程学院",
+      "field": "东北大学",
+      "tags": [
+        "杰青",
+        "2024"
+      ],
+      "honor": "杰青",
+      "year": 2024,
+      "source": "https://www.ncku1897.net/wiki/index.php/2024%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-余倩",
+      "name": "余倩",
+      "title": "浙江大学",
+      "university": "材料科学与工程学院",
+      "field": "浙江大学",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://www.ncku1897.net/wiki/index.php/2023%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-赵智胜",
+      "name": "赵智胜",
+      "title": "燕山大学",
+      "university": "材料科学与工程学院",
+      "field": "燕山大学",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://www.ncku1897.net/wiki/index.php/2023%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-周莹",
+      "name": "周莹",
+      "title": "西南石油大学",
+      "university": "材料科学与工程学院",
+      "field": "西南石油大学",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://www.ncku1897.net/wiki/index.php/2023%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 16
+}

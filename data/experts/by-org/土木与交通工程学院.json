@@ -1,0 +1,67 @@
+{
+  "id": "土木与交通工程学院",
+  "name": "土木与交通工程学院",
+  "experts": [
+    {
+      "id": "杰青-高明忠",
+      "name": "高明忠",
+      "title": "土木与交通工程学院",
+      "university": "土木与交通工程学院",
+      "field": "土木与交通工程学院",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-莫金汉",
+      "name": "莫金汉",
+      "title": "深圳大学",
+      "university": "土木与交通工程学院",
+      "field": "深圳大学",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://www.ncku1897.net/wiki/index.php/2023%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-周英武",
+      "name": "周英武",
+      "title": "深圳大学",
+      "university": "土木与交通工程学院",
+      "field": "深圳大学",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://www.ncku1897.net/wiki/index.php/2023%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-朱建波",
+      "name": "朱建波",
+      "title": "深圳大学",
+      "university": "土木与交通工程学院",
+      "field": "深圳大学",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://www.ncku1897.net/wiki/index.php/2023%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 4
+}

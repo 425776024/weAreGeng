@@ -1,0 +1,202 @@
+{
+  "id": "中国科学院深圳先进技术研究院",
+  "name": "中国科学院深圳先进技术研究院",
+  "experts": [
+    {
+      "id": "杰青-陈宝权",
+      "name": "陈宝权",
+      "title": "计算机图形学",
+      "university": "中国科学院深圳先进技术研究院",
+      "field": "计算机图形学",
+      "tags": [
+        "杰青",
+        "2010"
+      ],
+      "honor": "杰青",
+      "year": 2010,
+      "source": "https://rsrc.sdu.edu.cn/rscx/info/1027/5210.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-戴俊彪",
+      "name": "戴俊彪",
+      "title": "3172500338",
+      "university": "中国科学院深圳先进技术研究院",
+      "field": "3172500338",
+      "tags": [
+        "杰青",
+        "2017"
+      ],
+      "honor": "杰青",
+      "year": 2017,
+      "source": "https://www.ncku1897.net/wiki/index.php/2017%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-梁栋",
+      "name": "梁栋",
+      "title": "上海交通大学",
+      "university": "中国科学院深圳先进技术研究院",
+      "field": "上海交通大学",
+      "tags": [
+        "杰青",
+        "2021"
+      ],
+      "honor": "杰青",
+      "year": 2021,
+      "source": "https://www.ncku1897.net/wiki/index.php/2021%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-刘陈立",
+      "name": "刘陈立",
+      "title": "定量合成生物学",
+      "university": "中国科学院深圳先进技术研究院",
+      "field": "定量合成生物学",
+      "tags": [
+        "杰青",
+        "2020"
+      ],
+      "honor": "杰青",
+      "year": 2020,
+      "source": "https://www.ncku1897.net/wiki/index.php/2020%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-彭勃",
+      "name": "彭勃",
+      "title": "神经科学",
+      "university": "中国科学院深圳先进技术研究院",
+      "field": "神经科学",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-唐永炳",
+      "name": "唐永炳",
+      "title": "中国科学院金属研究所",
+      "university": "中国科学院深圳先进技术研究院",
+      "field": "中国科学院金属研究所",
+      "tags": [
+        "杰青",
+        "2021"
+      ],
+      "honor": "杰青",
+      "year": 2021,
+      "source": "https://www.ncku1897.net/wiki/index.php/2021%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-唐永炳",
+      "name": "唐永炳",
+      "title": "新型双离子电池及其电极材料研究",
+      "university": "中国科学院深圳先进技术研究院",
+      "field": "新型双离子电池及其电极材料研究",
+      "tags": [
+        "优青",
+        "2018"
+      ],
+      "honor": "优青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-王怀雨",
+      "name": "王怀雨",
+      "title": "骨科植入材料表/界面调控",
+      "university": "中国科学院深圳先进技术研究院",
+      "field": "骨科植入材料表/界面调控",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-张春阳",
+      "name": "张春阳",
+      "title": "",
+      "university": "中国科学院深圳先进技术研究院",
+      "field": "",
+      "tags": [
+        "杰青",
+        "2013"
+      ],
+      "honor": "杰青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-郑海荣",
+      "name": "郑海荣",
+      "title": "生物医学超声",
+      "university": "中国科学院深圳先进技术研究院",
+      "field": "生物医学超声",
+      "tags": [
+        "杰青",
+        "2013"
+      ],
+      "honor": "杰青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-郑炜",
+      "name": "郑炜",
+      "title": "生物医学光子学",
+      "university": "中国科学院深圳先进技术研究院",
+      "field": "生物医学光子学",
+      "tags": [
+        "优青",
+        "2018"
+      ],
+      "honor": "优青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-钟超",
+      "name": "钟超",
+      "title": "美国康奈尔大学",
+      "university": "中国科学院深圳先进技术研究院",
+      "field": "美国康奈尔大学",
+      "tags": [
+        "杰青",
+        "2021"
+      ],
+      "honor": "杰青",
+      "year": 2021,
+      "source": "https://www.ncku1897.net/wiki/index.php/2021%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-朱英杰",
+      "name": "朱英杰",
+      "title": "神经精神疾病的环路发病机制",
+      "university": "中国科学院深圳先进技术研究院",
+      "field": "神经精神疾病的环路发病机制",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 13
+}

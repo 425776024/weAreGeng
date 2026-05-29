@@ -1,0 +1,22 @@
+{
+  "id": "数学与交叉科学研究中心",
+  "name": "数学与交叉科学研究中心",
+  "experts": [
+    {
+      "id": "杰青-杨建益",
+      "name": "杨建益",
+      "title": "数学与交叉科学研究中心",
+      "university": "数学与交叉科学研究中心",
+      "field": "数学与交叉科学研究中心",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://rsrc.sdu.edu.cn/rscx/info/1027/5210.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 1
+}

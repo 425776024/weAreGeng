@@ -1,0 +1,64 @@
+{
+  "id": "中科院上海生命科学研究院",
+  "name": "中科院上海生命科学研究院",
+  "experts": [
+    {
+      "id": "中科院院士-陈晓亚",
+      "name": "陈晓亚",
+      "title": "",
+      "university": "中科院上海生命科学研究院",
+      "field": "生命科学和医学学部",
+      "tags": [
+        "中科院院士",
+        "2005"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882105.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "中科院院士-郭爱克",
+      "name": "郭爱克",
+      "title": "",
+      "university": "中科院上海生命科学研究院",
+      "field": "神经科学",
+      "tags": [
+        "中科院院士",
+        "2003"
+      ],
+      "honor": "中科院院士",
+      "year": 2003,
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882104.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "中科院院士-林其谁",
+      "name": "林其谁",
+      "title": "",
+      "university": "中科院上海生命科学研究院",
+      "field": "生命科学和医学学部",
+      "tags": [
+        "中科院院士",
+        "2003"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882104.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "中科院院士-赵国屏",
+      "name": "赵国屏",
+      "title": "",
+      "university": "中科院上海生命科学研究院",
+      "field": "生命科学和医学学部",
+      "tags": [
+        "中科院院士",
+        "2005"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882105.html",
+      "sourceOrg": "中国科学院学部"
+    }
+  ],
+  "count": 4
+}

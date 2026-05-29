@@ -1,0 +1,320 @@
+{
+  "id": "中国石油大学北京",
+  "name": "中国石油大学（北京）",
+  "experts": [
+    {
+      "id": "杰青-鲍晓军",
+      "name": "鲍晓军",
+      "title": "石油化工",
+      "university": "中国石油大学（北京）",
+      "field": "石油化工",
+      "tags": [
+        "杰青",
+        "2008"
+      ],
+      "honor": "杰青",
+      "year": 2008,
+      "source": "https://www.ncku1897.net/wiki/index.php/2008%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-陈光进",
+      "name": "陈光进",
+      "title": "气体水合物",
+      "university": "中国石油大学（北京）",
+      "field": "气体水合物",
+      "tags": [
+        "杰青",
+        "2009"
+      ],
+      "honor": "杰青",
+      "year": 2009,
+      "source": "https://www.ncku1897.net/wiki/index.php/2009%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "中科院院士-高德利",
+      "name": "高德利",
+      "title": "",
+      "university": "中国石油大学（北京）",
+      "field": "技术科学部",
+      "tags": [
+        "中科院院士",
+        "2013"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882109.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "杰青-黄中伟",
+      "name": "黄中伟",
+      "title": "油气井流体力学与工程",
+      "university": "中国石油大学（北京）",
+      "field": "油气井流体力学与工程",
+      "tags": [
+        "杰青",
+        "2017"
+      ],
+      "honor": "杰青",
+      "year": 2017,
+      "source": "https://www.ncku1897.net/wiki/index.php/2017%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-姜桂元",
+      "name": "姜桂元",
+      "title": "化学工程与环境学院",
+      "university": "中国石油大学（北京〉",
+      "field": "化学工程与环境学院",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-金衍",
+      "name": "金衍",
+      "title": "石油工程岩石力学",
+      "university": "中国石油大学（北京）",
+      "field": "石油工程岩石力学",
+      "tags": [
+        "杰青",
+        "2013"
+      ],
+      "honor": "杰青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-蓝兴英",
+      "name": "蓝兴英",
+      "title": "石油化工",
+      "university": "中国石油大学（北京）",
+      "field": "石油化工",
+      "tags": [
+        "优青",
+        "2016"
+      ],
+      "honor": "优青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-刘植昌",
+      "name": "刘植昌",
+      "title": "",
+      "university": "中国石油大学（北京）",
+      "field": "",
+      "tags": [
+        "杰青",
+        "2014"
+      ],
+      "honor": "杰青",
+      "year": 2014,
+      "source": "https://www.ncku1897.net/wiki/index.php/2014%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-邱楠生",
+      "name": "邱楠生",
+      "title": "石油与天然气地质学",
+      "university": "中国石油大学（北京）",
+      "field": "石油与天然气地质学",
+      "tags": [
+        "杰青",
+        "2011"
+      ],
+      "honor": "杰青",
+      "year": 2011,
+      "source": "https://www.ncku1897.net/wiki/index.php/2011%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-饶莹",
+      "name": "饶莹",
+      "title": "勘探地球物理",
+      "university": "中国石油大学（北京）",
+      "field": "勘探地球物理",
+      "tags": [
+        "杰青",
+        "2020"
+      ],
+      "honor": "杰青",
+      "year": 2020,
+      "source": "https://www.ncku1897.net/wiki/index.php/2020%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-饶莹",
+      "name": "饶莹",
+      "title": "勘探地球物理",
+      "university": "中国石油大学（北京）",
+      "field": "勘探地球物理",
+      "tags": [
+        "优青",
+        "2016"
+      ],
+      "honor": "优青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-宋先知",
+      "name": "宋先知",
+      "title": "中国石由大学(北京)",
+      "university": "中国石油大学(北京)",
+      "field": "中国石由大学(北京)",
+      "tags": [
+        "杰青",
+        "2021"
+      ],
+      "honor": "杰青",
+      "year": 2021,
+      "source": "https://www.ncku1897.net/wiki/index.php/2021%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-宋先知",
+      "name": "宋先知",
+      "title": "油气井流体力学与工程",
+      "university": "中国石油大学（北京）",
+      "field": "油气井流体力学与工程",
+      "tags": [
+        "优青",
+        "2018"
+      ],
+      "honor": "优青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-王海柱",
+      "name": "王海柱",
+      "title": "油气井流体力学与工程",
+      "university": "中国石油大学（北京）",
+      "field": "油气井流体力学与工程",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "中科院院士-王铁冠",
+      "name": "王铁冠",
+      "title": "",
+      "university": "中国石油大学(北京)",
+      "field": "地学部",
+      "tags": [
+        "中科院院士",
+        "2005"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882105.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "优青-王玮",
+      "name": "王玮",
+      "title": "中国石油大学(北京)",
+      "university": "中国石油大学(北京)",
+      "field": "中国石油大学(北京)",
+      "tags": [
+        "优青",
+        "2014",
+        "2018"
+      ],
+      "honor": "优青",
+      "year": 2014,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "中科院院士-徐春明",
+      "name": "徐春明",
+      "title": "",
+      "university": "中国石油大学（北京）",
+      "field": "化学部",
+      "tags": [
+        "中科院院士",
+        "2019"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882115.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "杰青-宇波",
+      "name": "宇波",
+      "title": "传热传质学",
+      "university": "中国石油大学（北京）",
+      "field": "传热传质学",
+      "tags": [
+        "杰青",
+        "2013"
+      ],
+      "honor": "杰青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-张广清",
+      "name": "张广清",
+      "title": "石油工程岩石力学",
+      "university": "中国石油大学（北京）",
+      "field": "石油工程岩石力学",
+      "tags": [
+        "杰青",
+        "2019"
+      ],
+      "honor": "杰青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-张来斌",
+      "name": "张来斌",
+      "title": "",
+      "university": "中国石油大学（北京）",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2021"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col1/2021-11/18/20211118075007595415390_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/84683593.html"
+    },
+    {
+      "id": "优青-赵亮",
+      "name": "赵亮",
+      "title": "石油化工",
+      "university": "中国石油大学（北京）",
+      "field": "石油化工",
+      "tags": [
+        "优青",
+        "2018"
+      ],
+      "honor": "优青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 21
+}

@@ -1,0 +1,68 @@
+{
+  "id": "上海中医药大学",
+  "name": "上海中医药大学",
+  "universityId": "cpu",
+  "experts": [
+    {
+      "id": "优青-葛广波",
+      "name": "葛广波",
+      "title": "药物代谢",
+      "university": "上海中医药大学",
+      "field": "药物代谢",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-梁倩倩",
+      "name": "梁倩倩",
+      "title": "中医药防治关节炎的应用基础研究",
+      "university": "上海中医药大学",
+      "field": "中医药防治关节炎的应用基础研究",
+      "tags": [
+        "优青",
+        "2018"
+      ],
+      "honor": "优青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-王拥军",
+      "name": "王拥军",
+      "title": "中医骨伤科学",
+      "university": "上海中医药大学",
+      "field": "中医骨伤科学",
+      "tags": [
+        "杰青",
+        "2006"
+      ],
+      "honor": "杰青",
+      "year": 2006,
+      "source": "https://www.ncku1897.net/wiki/index.php/2006%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-尹磊淼",
+      "name": "尹磊淼",
+      "title": "针灸治疗哮喘生物学机制研究",
+      "university": "上海中医药大学",
+      "field": "针灸治疗哮喘生物学机制研究",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 4
+}

@@ -1,0 +1,440 @@
+{
+  "id": "中国科学院广州地球化学研究所",
+  "name": "中国科学院广州地球化学研究所",
+  "experts": [
+    {
+      "id": "杰青-安太成",
+      "name": "安太成",
+      "title": "环境地球化学",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "环境地球化学",
+      "tags": [
+        "杰青",
+        "2014"
+      ],
+      "honor": "杰青",
+      "year": 2014,
+      "source": "https://www.ncku1897.net/wiki/index.php/2014%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-曾永平",
+      "name": "曾永平",
+      "title": "环境地球化学与生物地球化学",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "环境地球化学与生物地球化学",
+      "tags": [
+        "杰青",
+        "2005"
+      ],
+      "honor": "杰青",
+      "year": 2005,
+      "source": "https://www.ncku1897.net/wiki/index.php/2005%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-陈华勇",
+      "name": "陈华勇",
+      "title": "矿床学",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "矿床学",
+      "tags": [
+        "杰青",
+        "2017"
+      ],
+      "honor": "杰青",
+      "year": 2017,
+      "source": "https://www.ncku1897.net/wiki/index.php/2017%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-陈社军",
+      "name": "陈社军",
+      "title": "中国科学院广州地球化学研究所",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "中国科学院广州地球化学研究所",
+      "tags": [
+        "优青",
+        "2014"
+      ],
+      "honor": "优青",
+      "year": 2014,
+      "source": "https://www.ncku1897.net/wiki/index.php/2014%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-程和发",
+      "name": "程和发",
+      "title": "中国科学院广州地球化学研究所",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "中国科学院广州地球化学研究所",
+      "tags": [
+        "优青",
+        "2013"
+      ],
+      "honor": "优青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-郭锋",
+      "name": "郭锋",
+      "title": "岩石学",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "岩石学",
+      "tags": [
+        "杰青",
+        "2015"
+      ],
+      "honor": "杰青",
+      "year": 2015,
+      "source": "https://www.ncku1897.net/wiki/index.php/2015%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-黄小龙",
+      "name": "黄小龙",
+      "title": "岩石学",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "岩石学",
+      "tags": [
+        "杰青",
+        "2016"
+      ],
+      "honor": "杰青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-贾望鲁",
+      "name": "贾望鲁",
+      "title": "中国科学院广州地球化学研究所",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "中国科学院广州地球化学研究所",
+      "tags": [
+        "杰青",
+        "2021"
+      ],
+      "honor": "杰青",
+      "year": 2021,
+      "source": "https://www.ncku1897.net/wiki/index.php/2021%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-矿物学",
+      "name": "矿物学",
+      "title": "中国科学院广州地球化学研究所",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "中国科学院广州地球化学研究所",
+      "tags": [
+        "杰青",
+        "2007"
+      ],
+      "honor": "杰青",
+      "year": 2007,
+      "source": "https://www.ncku1897.net/wiki/index.php/2007%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-李洪颜",
+      "name": "李洪颜",
+      "title": "岩石地球化学",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "岩石地球化学",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-林莽",
+      "name": "林莽",
+      "title": "中国科学院广州地球化学研究所",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "中国科学院广州地球化学研究所",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://www.ncku1897.net/wiki/index.php/2023%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-林杨挺",
+      "name": "林杨挺",
+      "title": "研究员",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "研究员",
+      "tags": [
+        "杰青",
+        "2000"
+      ],
+      "honor": "杰青",
+      "year": 2000,
+      "source": "https://www.ncku1897.net/wiki/index.php/2000%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-罗春玲",
+      "name": "罗春玲",
+      "title": "中国科学院广州地球化学研究所",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "中国科学院广州地球化学研究所",
+      "tags": [
+        "优青",
+        "2013"
+      ],
+      "honor": "优青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-麦碧娴",
+      "name": "麦碧娴",
+      "title": "环境地球化学与生物地球化学",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "环境地球化学与生物地球化学",
+      "tags": [
+        "杰青",
+        "2005"
+      ],
+      "honor": "杰青",
+      "year": 2005,
+      "source": "https://www.ncku1897.net/wiki/index.php/2005%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "中科院院士-彭平安",
+      "name": "彭平安",
+      "title": "",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "地学部",
+      "tags": [
+        "中科院院士",
+        "2013"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882109.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "杰青-孙卫东",
+      "name": "孙卫东",
+      "title": "微量元素地球化学",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "微量元素地球化学",
+      "tags": [
+        "杰青",
+        "2005"
+      ],
+      "honor": "杰青",
+      "year": 2005,
+      "source": "https://www.ncku1897.net/wiki/index.php/2005%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-田辉",
+      "name": "田辉",
+      "title": "石油与天然气地球化学",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "石油与天然气地球化学",
+      "tags": [
+        "杰青",
+        "2019"
+      ],
+      "honor": "杰青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-王新明",
+      "name": "王新明",
+      "title": "环境地球化学",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "环境地球化学",
+      "tags": [
+        "杰青",
+        "2010"
+      ],
+      "honor": "杰青",
+      "year": 2010,
+      "source": "https://www.ncku1897.net/wiki/index.php/2010%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-王焰",
+      "name": "王焰",
+      "title": "",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "",
+      "tags": [
+        "杰青",
+        "2013"
+      ],
+      "honor": "杰青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-王岳军",
+      "name": "王岳军",
+      "title": "构造地质学",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "构造地质学",
+      "tags": [
+        "杰青",
+        "2008"
+      ],
+      "honor": "杰青",
+      "year": 2008,
+      "source": "https://www.ncku1897.net/wiki/index.php/2008%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-韦刚健",
+      "name": "韦刚健",
+      "title": "同位素地球化学",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "同位素地球化学",
+      "tags": [
+        "杰青",
+        "2013"
+      ],
+      "honor": "杰青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-肖贤明",
+      "name": "肖贤明",
+      "title": "矿床地球化学(含有机地球化学)",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "矿床地球化学(含有机地球化学)",
+      "tags": [
+        "杰青",
+        "2006"
+      ],
+      "honor": "杰青",
+      "year": 2006,
+      "source": "https://www.ncku1897.net/wiki/index.php/2006%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-熊小林",
+      "name": "熊小林",
+      "title": "实验地球化学",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "实验地球化学",
+      "tags": [
+        "杰青",
+        "2008"
+      ],
+      "honor": "杰青",
+      "year": 2008,
+      "source": "https://www.ncku1897.net/wiki/index.php/2008%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "中科院院士-徐义刚",
+      "name": "徐义刚",
+      "title": "",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "地学部",
+      "tags": [
+        "中科院院士",
+        "2017"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882118.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "杰青-许继峰",
+      "name": "许继峰",
+      "title": "岩石地球化学",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "岩石地球化学",
+      "tags": [
+        "杰青",
+        "2004"
+      ],
+      "honor": "杰青",
+      "year": 2004,
+      "source": "https://www.ncku1897.net/wiki/index.php/2004%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-于志强",
+      "name": "于志强",
+      "title": "环境地球化学",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "环境地球化学",
+      "tags": [
+        "杰青",
+        "2012"
+      ],
+      "honor": "杰青",
+      "year": 2012,
+      "source": "https://www.ncku1897.net/wiki/index.php/2012%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-张干",
+      "name": "张干",
+      "title": "环境地球化学",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "环境地球化学",
+      "tags": [
+        "杰青",
+        "2011"
+      ],
+      "honor": "杰青",
+      "year": 2011,
+      "source": "https://www.ncku1897.net/wiki/index.php/2011%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-朱建喜",
+      "name": "朱建喜",
+      "title": "矿物学",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "矿物学",
+      "tags": [
+        "杰青",
+        "2018"
+      ],
+      "honor": "杰青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-朱润良",
+      "name": "朱润良",
+      "title": "中国科学院广州地球化学研究所",
+      "university": "中国科学院广州地球化学研究所",
+      "field": "中国科学院广州地球化学研究所",
+      "tags": [
+        "优青",
+        "2013"
+      ],
+      "honor": "优青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 29
+}

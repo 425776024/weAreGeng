@@ -1,0 +1,81 @@
+{
+  "id": "昆明理工大学",
+  "name": "昆明理工大学",
+  "experts": [
+    {
+      "id": "中科院院士-季维智",
+      "name": "季维智",
+      "title": "",
+      "university": "昆明理工大学",
+      "field": "生命科学和医学学部",
+      "tags": [
+        "中科院院士",
+        "2017"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882118.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "优青-那靖",
+      "name": "那靖",
+      "title": "智能自适应控制理论及应用",
+      "university": "昆明理工大学",
+      "field": "智能自适应控制理论及应用",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-潘波",
+      "name": "潘波",
+      "title": "环境地球化学",
+      "university": "昆明理工大学",
+      "field": "环境地球化学",
+      "tags": [
+        "杰青",
+        "2017"
+      ],
+      "honor": "杰青",
+      "year": 2017,
+      "source": "https://www.ncku1897.net/wiki/index.php/2017%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-彭金辉",
+      "name": "彭金辉",
+      "title": "",
+      "university": "昆明理工大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2017"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col280/2017-11/27/20171127085337936142127_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/16797181.html"
+    },
+    {
+      "id": "杰青-赵长明",
+      "name": "赵长明",
+      "title": "中国科学院昆明动物研究所",
+      "university": "昆明理工大学",
+      "field": "中国科学院昆明动物研究所",
+      "tags": [
+        "杰青",
+        "2021"
+      ],
+      "honor": "杰青",
+      "year": 2021,
+      "source": "https://www.ncku1897.net/wiki/index.php/2021%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 5
+}

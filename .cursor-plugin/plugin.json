@@ -1,0 +1,7 @@
+{
+  "name": "we-are-geng",
+  "displayName": "WeAreGeng 学术打假",
+  "description": "中国高校论文学术打假搜索与分析 Agent Skill",
+  "version": "0.1.0",
+  "skills": "./skills/"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "中国科学院软件研究所",
+  "name": "中国科学院软件研究所",
+  "experts": [
+    {
+      "id": "杰青-冯登国",
+      "name": "冯登国",
+      "title": "研究员",
+      "university": "中国科学院软件研究所",
+      "field": "研究员",
+      "tags": [
+        "杰青",
+        "2000"
+      ],
+      "honor": "杰青",
+      "year": 2000,
+      "source": "https://www.ncku1897.net/wiki/index.php/2000%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-李昂生",
+      "name": "李昂生",
+      "title": "计算机科学技术的基础理论",
+      "university": "中国科学院软件研究所",
+      "field": "计算机科学技术的基础理论",
+      "tags": [
+        "杰青",
+        "2003"
+      ],
+      "honor": "杰青",
+      "year": 2003,
+      "source": "https://www.ncku1897.net/wiki/index.php/2003%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-詹乃军",
+      "name": "詹乃军",
+      "title": "复杂安全攸关嵌入式系统形式设计",
+      "university": "中国科学院软件研究所",
+      "field": "复杂安全攸关嵌入式系统形式设计",
+      "tags": [
+        "杰青",
+        "2016"
+      ],
+      "honor": "杰青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 3
+}

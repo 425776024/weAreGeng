@@ -1,0 +1,68 @@
+{
+  "id": "东北农业大学",
+  "name": "东北农业大学",
+  "experts": [
+    {
+      "id": "杰青-付强",
+      "name": "付强",
+      "title": "农田土壤冻融过程的水土环境效应",
+      "university": "东北农业大学",
+      "field": "农田土壤冻融过程的水土环境效应",
+      "tags": [
+        "杰青",
+        "2018"
+      ],
+      "honor": "杰青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-隋晓楠",
+      "name": "隋晓楠",
+      "title": "东北农业大学",
+      "university": "东北农业大学",
+      "field": "东北农业大学",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://www.ncku1897.net/wiki/index.php/2023%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-向文胜",
+      "name": "向文胜",
+      "title": "微生物天然产物农药",
+      "university": "东北农业大学",
+      "field": "微生物天然产物农药",
+      "tags": [
+        "杰青",
+        "2012"
+      ],
+      "honor": "杰青",
+      "year": 2012,
+      "source": "https://www.ncku1897.net/wiki/index.php/2012%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-张颖",
+      "name": "张颖",
+      "title": "黑土污染与生物修复",
+      "university": "东北农业大学",
+      "field": "黑土污染与生物修复",
+      "tags": [
+        "杰青",
+        "2016",
+        "2021"
+      ],
+      "honor": "杰青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2021%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 4
+}

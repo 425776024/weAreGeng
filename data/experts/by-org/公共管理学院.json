@@ -1,0 +1,22 @@
+{
+  "id": "公共管理学院",
+  "name": "公共管理学院",
+  "experts": [
+    {
+      "id": "杰青-陈劲",
+      "name": "陈劲",
+      "title": "浙江大学",
+      "university": "公共管理学院",
+      "field": "浙江大学",
+      "tags": [
+        "杰青",
+        "2002"
+      ],
+      "honor": "杰青",
+      "year": 2002,
+      "source": "http://ac.zju.edu.cn/17158/list.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 1
+}

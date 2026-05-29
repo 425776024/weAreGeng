@@ -1,0 +1,22 @@
+{
+  "id": "中山大学肿瘤防治中心",
+  "name": "中山大学肿瘤防治中心",
+  "universityId": "sysu",
+  "experts": [
+    {
+      "id": "中科院院士-曾益新",
+      "name": "曾益新",
+      "title": "",
+      "university": "中山大学肿瘤防治中心",
+      "field": "生命科学和医学学部",
+      "tags": [
+        "中科院院士",
+        "2005"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882105.html",
+      "sourceOrg": "中国科学院学部"
+    }
+  ],
+  "count": 1
+}

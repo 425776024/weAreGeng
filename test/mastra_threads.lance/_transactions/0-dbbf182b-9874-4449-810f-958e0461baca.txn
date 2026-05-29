@@ -1,0 +1,4 @@
+$dbbf182b-9874-4449-810f-958e0461baca²Ï"id ÿÿÿÿÿÿÿÿÿ*string8Zdefault,
+resourceId ÿÿÿÿÿÿÿÿÿ*string8Zdefault'title ÿÿÿÿÿÿÿÿÿ*string8Zdefault,metadata ÿÿÿÿÿÿÿÿÿ*string08Zdefault+	createdAt ÿÿÿÿÿÿÿÿÿ*double8Zdefault+	updatedAt ÿÿÿÿÿÿÿÿÿ*double8Zdefault"'
+lance.auto_cleanup.older_than14days"!
+lance.auto_cleanup.interval20

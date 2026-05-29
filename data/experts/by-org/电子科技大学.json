@@ -1,0 +1,414 @@
+{
+  "id": "电子科技大学",
+  "name": "电子科技大学",
+  "universityId": "uestc",
+  "experts": [
+    {
+      "id": "杰青-陈华富",
+      "name": "陈华富",
+      "title": "脑功能模式识别方法及应用研究",
+      "university": "电子科技大学",
+      "field": "脑功能模式识别方法及应用研究",
+      "tags": [
+        "杰青",
+        "2011"
+      ],
+      "honor": "杰青",
+      "year": 2011,
+      "source": "https://www.ncku1897.net/wiki/index.php/2011%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-程钰间",
+      "name": "程钰间",
+      "title": "毫米波天线阵列理论与技术",
+      "university": "电子科技大学",
+      "field": "毫米波天线阵列理论与技术",
+      "tags": [
+        "优青",
+        "2016"
+      ],
+      "honor": "优青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-邓龙江",
+      "name": "邓龙江",
+      "title": "基于周期结构材料的多频谱隐身机理研究",
+      "university": "电子科技大学",
+      "field": "基于周期结构材料的多频谱隐身机理研究",
+      "tags": [
+        "杰青",
+        "2010"
+      ],
+      "honor": "杰青",
+      "year": 2010,
+      "source": "https://www.ncku1897.net/wiki/index.php/2010%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-邓龙江",
+      "name": "邓龙江",
+      "title": "",
+      "university": "电子科技大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2021"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col1/2021-11/18/20211118075007595415390_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/64493006.html"
+    },
+    {
+      "id": "杰青-董帆",
+      "name": "董帆",
+      "title": "材料物理与化学",
+      "university": "电子科技大学",
+      "field": "材料物理与化学",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-宫玉彬",
+      "name": "宫玉彬",
+      "title": "Ka波段带状束行波放大器的理论与实验研究",
+      "university": "电子科技大学",
+      "field": "Ka波段带状束行波放大器的理论与实验研究",
+      "tags": [
+        "杰青",
+        "2011"
+      ],
+      "honor": "杰青",
+      "year": 2011,
+      "source": "https://www.ncku1897.net/wiki/index.php/2011%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-胡俊",
+      "name": "胡俊",
+      "title": "复杂目标电磁特性建模与分析",
+      "university": "电子科技大学",
+      "field": "复杂目标电磁特性建模与分析",
+      "tags": [
+        "杰青",
+        "2014",
+        "2016"
+      ],
+      "honor": "杰青",
+      "year": 2014,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-蒋亚东",
+      "name": "蒋亚东",
+      "title": "传感技术及其系统",
+      "university": "电子科技大学",
+      "field": "传感技术及其系统",
+      "tags": [
+        "杰青",
+        "2004"
+      ],
+      "honor": "杰青",
+      "year": 2004,
+      "source": "https://www.ncku1897.net/wiki/index.php/2004%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-康凯",
+      "name": "康凯",
+      "title": "毫米波集成电路设计",
+      "university": "电子科技大学",
+      "field": "毫米波集成电路设计",
+      "tags": [
+        "杰青",
+        "2020"
+      ],
+      "honor": "杰青",
+      "year": 2020,
+      "source": "https://www.ncku1897.net/wiki/index.php/2020%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-康凯",
+      "name": "康凯",
+      "title": "电子科技大学",
+      "university": "电子科技大学",
+      "field": "电子科技大学",
+      "tags": [
+        "优青",
+        "2014"
+      ],
+      "honor": "优青",
+      "year": 2014,
+      "source": "https://www.ncku1897.net/wiki/index.php/2014%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-李宏亮",
+      "name": "李宏亮",
+      "title": "图像视频分割与编码",
+      "university": "电子科技大学",
+      "field": "图像视频分割与编码",
+      "tags": [
+        "杰青",
+        "2015"
+      ],
+      "honor": "杰青",
+      "year": 2015,
+      "source": "https://www.ncku1897.net/wiki/index.php/2015%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-李言荣",
+      "name": "李言荣",
+      "title": "压电与铁电陶瓷材料",
+      "university": "电子科技大学",
+      "field": "压电与铁电陶瓷材料",
+      "tags": [
+        "杰青",
+        "2004"
+      ],
+      "honor": "杰青",
+      "year": 2004,
+      "source": "https://www.ncku1897.net/wiki/index.php/2004%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-林媛",
+      "name": "林媛",
+      "title": "可延展柔性无机薄膜传感器",
+      "university": "电子科技大学",
+      "field": "可延展柔性无机薄膜传感器",
+      "tags": [
+        "杰青",
+        "2018"
+      ],
+      "honor": "杰青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-刘永",
+      "name": "刘永",
+      "title": "新一代光网络中的超高速光信号处理基础研究",
+      "university": "电子科技大学",
+      "field": "新一代光网络中的超高速光信号处理基础研究",
+      "tags": [
+        "杰青",
+        "2009"
+      ],
+      "honor": "杰青",
+      "year": 2009,
+      "source": "https://www.ncku1897.net/wiki/index.php/2009%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-刘宇",
+      "name": "刘宇",
+      "title": "复杂系统可靠性理论与方法",
+      "university": "电子科技大学",
+      "field": "复杂系统可靠性理论与方法",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-马凯学",
+      "name": "马凯学",
+      "title": "微波毫米波电路及集成系统",
+      "university": "电子科技大学",
+      "field": "微波毫米波电路及集成系统",
+      "tags": [
+        "杰青",
+        "2016"
+      ],
+      "honor": "杰青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-彭怡",
+      "name": "彭怡",
+      "title": "数据挖掘与多目标决策",
+      "university": "电子科技大学",
+      "field": "数据挖掘与多目标决策",
+      "tags": [
+        "杰青",
+        "2013"
+      ],
+      "honor": "杰青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-屈世伟",
+      "name": "屈世伟",
+      "title": "天线理论与技术",
+      "university": "电子科技大学",
+      "field": "天线理论与技术",
+      "tags": [
+        "优青",
+        "2016"
+      ],
+      "honor": "优青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-孙胜",
+      "name": "孙胜",
+      "title": "三维集成电路多物理建模与应用研究",
+      "university": "电子科技大学",
+      "field": "三维集成电路多物理建模与应用研究",
+      "tags": [
+        "优青",
+        "2016"
+      ],
+      "honor": "优青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-太惠玲",
+      "name": "太惠玲",
+      "title": "敏感薄膜与传感器技术研究",
+      "university": "电子科技大学",
+      "field": "敏感薄膜与传感器技术研究",
+      "tags": [
+        "优青",
+        "2018"
+      ],
+      "honor": "优青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-武俊杰",
+      "name": "武俊杰",
+      "title": "雷达前视成像技术",
+      "university": "电子科技大学",
+      "field": "雷达前视成像技术",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-谢康",
+      "name": "谢康",
+      "title": "光电子器件",
+      "university": "电子科技大学",
+      "field": "光电子器件",
+      "tags": [
+        "杰青",
+        "2005"
+      ],
+      "honor": "杰青",
+      "year": 2005,
+      "source": "https://www.ncku1897.net/wiki/index.php/2005%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-徐跃杭",
+      "name": "徐跃杭",
+      "title": "微波晶体管多物理场耦合模型及其应用基础研究",
+      "university": "电子科技大学",
+      "field": "微波晶体管多物理场耦合模型及其应用基础研究",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-杨仕文",
+      "name": "杨仕文",
+      "title": "四维天线阵及强互耦宽带阵基础理论与关键技术研究",
+      "university": "电子科技大学",
+      "field": "四维天线阵及强互耦宽带阵基础理论与关键技术研究",
+      "tags": [
+        "杰青",
+        "2011"
+      ],
+      "honor": "杰青",
+      "year": 2011,
+      "source": "https://www.ncku1897.net/wiki/index.php/2011%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-尧德中",
+      "name": "尧德中",
+      "title": "生物医学工程",
+      "university": "电子科技大学",
+      "field": "生物医学工程",
+      "tags": [
+        "杰青",
+        "2005"
+      ],
+      "honor": "杰青",
+      "year": 2005,
+      "source": "https://www.ncku1897.net/wiki/index.php/2005%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-张怀武",
+      "name": "张怀武",
+      "title": "新型电磁材料和器件的基础研究",
+      "university": "电子科技大学",
+      "field": "新型电磁材料和器件的基础研究",
+      "tags": [
+        "杰青",
+        "2004"
+      ],
+      "honor": "杰青",
+      "year": 2004,
+      "source": "https://www.ncku1897.net/wiki/index.php/2004%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-邹权",
+      "name": "邹权",
+      "title": "生物信息处理与分析",
+      "university": "电子科技大学",
+      "field": "生物信息处理与分析",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 27
+}

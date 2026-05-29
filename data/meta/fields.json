@@ -1,0 +1,137 @@
+[
+  {
+    "id": "cs",
+    "name": "计算机科学",
+    "keywords": [
+      "computer science",
+      "artificial intelligence",
+      "machine learning",
+      "software engineering",
+      "计算机",
+      "人工智能"
+    ]
+  },
+  {
+    "id": "bio",
+    "name": "生物学",
+    "keywords": [
+      "biology",
+      "biochemistry",
+      "genetics",
+      "molecular biology",
+      "生物",
+      "基因"
+    ]
+  },
+  {
+    "id": "med",
+    "name": "医学",
+    "keywords": [
+      "medicine",
+      "clinical",
+      "pharmacology",
+      "oncology",
+      "医学",
+      "临床",
+      "肿瘤"
+    ]
+  },
+  {
+    "id": "chem",
+    "name": "化学",
+    "keywords": [
+      "chemistry",
+      "organic chemistry",
+      "materials",
+      "化学",
+      "材料"
+    ]
+  },
+  {
+    "id": "phys",
+    "name": "物理学",
+    "keywords": [
+      "physics",
+      "quantum",
+      "optics",
+      "物理",
+      "量子"
+    ]
+  },
+  {
+    "id": "math",
+    "name": "数学",
+    "keywords": [
+      "mathematics",
+      "statistics",
+      "applied math",
+      "数学",
+      "统计"
+    ]
+  },
+  {
+    "id": "ee",
+    "name": "电子工程",
+    "keywords": [
+      "electrical engineering",
+      "electronics",
+      "signal processing",
+      "电子",
+      "通信"
+    ]
+  },
+  {
+    "id": "mech",
+    "name": "机械工程",
+    "keywords": [
+      "mechanical engineering",
+      "robotics",
+      "automation",
+      "机械",
+      "机器人"
+    ]
+  },
+  {
+    "id": "env",
+    "name": "环境科学",
+    "keywords": [
+      "environmental science",
+      "ecology",
+      "climate",
+      "环境",
+      "生态"
+    ]
+  },
+  {
+    "id": "econ",
+    "name": "经济学",
+    "keywords": [
+      "economics",
+      "finance",
+      "management",
+      "经济",
+      "金融",
+      "管理"
+    ]
+  },
+  {
+    "id": "law",
+    "name": "法学",
+    "keywords": [
+      "law",
+      "legal studies",
+      "法学",
+      "法律"
+    ]
+  },
+  {
+    "id": "edu",
+    "name": "教育学",
+    "keywords": [
+      "education",
+      "pedagogy",
+      "教育学",
+      "教育"
+    ]
+  }
+]

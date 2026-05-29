@@ -1,0 +1,52 @@
+{
+  "id": "国家海洋局第三海洋研究所",
+  "name": "国家海洋局第三海洋研究所",
+  "experts": [
+    {
+      "id": "杰青-陈新华",
+      "name": "陈新华",
+      "title": "水产生物免疫学",
+      "university": "国家海洋局第三海洋研究所",
+      "field": "水产生物免疫学",
+      "tags": [
+        "杰青",
+        "2011"
+      ],
+      "honor": "杰青",
+      "year": 2011,
+      "source": "https://www.ncku1897.net/wiki/index.php/2011%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-肖湘",
+      "name": "肖湘",
+      "title": "生物海洋学（含生物海洋技术）",
+      "university": "国家海洋局第三海洋研究所",
+      "field": "生物海洋学（含生物海洋技术）",
+      "tags": [
+        "杰青",
+        "2006"
+      ],
+      "honor": "杰青",
+      "year": 2006,
+      "source": "https://www.ncku1897.net/wiki/index.php/2006%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-章晓波",
+      "name": "章晓波",
+      "title": "水产科学",
+      "university": "国家海洋局第三海洋研究所",
+      "field": "水产科学",
+      "tags": [
+        "杰青",
+        "2005"
+      ],
+      "honor": "杰青",
+      "year": 2005,
+      "source": "http://ac.zju.edu.cn/17158/list.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 3
+}

@@ -1,0 +1,36 @@
+{
+  "id": "中国石油化工股份有限公司石油勘探开发研究院",
+  "name": "中国石油化工股份有限公司石油勘探开发研究院",
+  "experts": [
+    {
+      "id": "中科院院士-金之钧",
+      "name": "金之钧",
+      "title": "",
+      "university": "中国石油化工股份有限公司石油勘探开发研究院",
+      "field": "地学部",
+      "tags": [
+        "中科院院士",
+        "2013"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882109.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "杰青-刘全有",
+      "name": "刘全有",
+      "title": "成烃-成藏油气地球化学",
+      "university": "中国石油化工股份有限公司石油勘探开发研究院",
+      "field": "成烃-成藏油气地球化学",
+      "tags": [
+        "杰青",
+        "2016"
+      ],
+      "honor": "杰青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 2
+}

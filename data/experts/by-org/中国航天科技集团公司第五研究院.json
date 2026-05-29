@@ -1,0 +1,22 @@
+{
+  "id": "中国航天科技集团公司第五研究院",
+  "name": "中国航天科技集团公司第五研究院",
+  "experts": [
+    {
+      "id": "工程院院士-周志成",
+      "name": "周志成",
+      "title": "",
+      "university": "中国航天科技集团公司第五研究院",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2017"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col280/2017-11/27/20171127085337936142127_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/10271883.html"
+    }
+  ],
+  "count": 1
+}

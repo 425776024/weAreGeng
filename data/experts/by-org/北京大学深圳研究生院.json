@@ -1,0 +1,38 @@
+{
+  "id": "北京大学深圳研究生院",
+  "name": "北京大学深圳研究生院",
+  "universityId": "pku",
+  "experts": [
+    {
+      "id": "优青-黄晓锋",
+      "name": "黄晓锋",
+      "title": "碳气溶胶",
+      "university": "北京大学深圳研究生院",
+      "field": "碳气溶胶",
+      "tags": [
+        "优青",
+        "2016"
+      ],
+      "honor": "优青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-黄湧",
+      "name": "黄湧",
+      "title": "有机合成化学",
+      "university": "北京大学深圳研究生院",
+      "field": "有机合成化学",
+      "tags": [
+        "杰青",
+        "2018"
+      ],
+      "honor": "杰青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 2
+}

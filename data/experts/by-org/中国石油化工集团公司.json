@@ -1,0 +1,22 @@
+{
+  "id": "中国石油化工集团公司",
+  "name": "中国石油化工集团公司",
+  "experts": [
+    {
+      "id": "工程院院士-戴厚良",
+      "name": "戴厚良",
+      "title": "",
+      "university": "中国石油化工集团公司",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2017"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col280/2017-11/27/20171127085337936142127_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/88769283.html"
+    }
+  ],
+  "count": 1
+}

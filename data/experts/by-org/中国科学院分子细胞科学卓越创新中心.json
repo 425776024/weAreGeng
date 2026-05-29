@@ -1,0 +1,52 @@
+{
+  "id": "中国科学院分子细胞科学卓越创新中心",
+  "name": "中国科学院分子细胞科学卓越创新中心",
+  "experts": [
+    {
+      "id": "杰青-高栋",
+      "name": "高栋",
+      "title": "北京大学",
+      "university": "中国科学院分子细胞科学卓越创新中心",
+      "field": "北京大学",
+      "tags": [
+        "杰青",
+        "2021"
+      ],
+      "honor": "杰青",
+      "year": 2021,
+      "source": "https://www.ncku1897.net/wiki/index.php/2021%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-孟飞龙",
+      "name": "孟飞龙",
+      "title": "中国科学院分子细胞科学卓越创新中心",
+      "university": "中国科学院分子细胞科学卓越创新中心",
+      "field": "中国科学院分子细胞科学卓越创新中心",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://www.ncku1897.net/wiki/index.php/2023%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-汪胜",
+      "name": "汪胜",
+      "title": "中国科学院分子细胞科学卓越创新中心",
+      "university": "中国科学院分子细胞科学卓越创新中心",
+      "field": "中国科学院分子细胞科学卓越创新中心",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 3
+}

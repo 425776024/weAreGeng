@@ -1,0 +1,75 @@
+{
+  "updatedAt": "2026-05-29T13:16:29.284Z",
+  "pages": [
+    {
+      "universityId": "zju",
+      "universityName": "浙江大学",
+      "honor": "杰青",
+      "url": "http://ac.zju.edu.cn/17158/list.htm",
+      "count": 130
+    },
+    {
+      "universityId": "sjtu",
+      "universityName": "上海交通大学",
+      "honor": "杰青",
+      "url": "https://me.sjtu.edu.cn/jqjjhdz/list.htm",
+      "count": 51
+    },
+    {
+      "universityId": "fudan",
+      "universityName": "复旦大学",
+      "honor": "杰青",
+      "url": "https://life.fudan.edu.cn/28176/list.htm",
+      "count": 27
+    },
+    {
+      "universityId": "whu",
+      "universityName": "武汉大学",
+      "honor": "杰青",
+      "url": "https://whu.edu.cn/17158/list.htm",
+      "count": 45
+    },
+    {
+      "universityId": "seu",
+      "universityName": "东南大学",
+      "honor": "杰青",
+      "url": "https://ins.seu.edu.cn/gjjcqnkxjjhdz/list.htm",
+      "count": 36
+    },
+    {
+      "universityId": "ecnu",
+      "universityName": "华东师范大学",
+      "honor": "杰青",
+      "url": "https://hr.ecnu.edu.cn/gjjcqnjjhdz/list.htm",
+      "count": 18
+    },
+    {
+      "universityId": "sysu",
+      "universityName": "中山大学",
+      "honor": "杰青",
+      "url": "https://sysu.edu.cn/17158/list.htm",
+      "count": 38
+    },
+    {
+      "universityId": "cau",
+      "universityName": "中国农业大学",
+      "honor": "杰青",
+      "url": "https://www.cau.edu.cn/17158/list.htm",
+      "count": 49
+    },
+    {
+      "universityId": "uibe",
+      "universityName": "对外经济贸易大学",
+      "honor": "杰青",
+      "url": "https://www.uibe.edu.cn/17158/list.htm",
+      "count": 38
+    },
+    {
+      "universityId": "qhu",
+      "universityName": "青海大学",
+      "honor": "杰青",
+      "url": "https://www.qhu.edu.cn/17158/list.htm",
+      "count": 44
+    }
+  ]
+}

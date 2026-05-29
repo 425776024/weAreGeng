@@ -1,0 +1,22 @@
+{
+  "id": "前沿交叉科学青岛研究院",
+  "name": "前沿交叉科学青岛研究院",
+  "experts": [
+    {
+      "id": "杰青-马海波",
+      "name": "马海波",
+      "title": "山东大学",
+      "university": "前沿交叉科学青岛研究院",
+      "field": "山东大学",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://rsrc.sdu.edu.cn/rscx/info/1027/5210.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 1
+}

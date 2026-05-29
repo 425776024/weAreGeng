@@ -1,0 +1,22 @@
+{
+  "id": "河北医科大学第三医院",
+  "name": "河北医科大学第三医院",
+  "experts": [
+    {
+      "id": "工程院院士-张英泽",
+      "name": "张英泽",
+      "title": "",
+      "university": "河北医科大学第三医院",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2017"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col280/2017-11/27/20171127085337936142127_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/51948536.html"
+    }
+  ],
+  "count": 1
+}

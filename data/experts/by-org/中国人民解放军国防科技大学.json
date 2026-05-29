@@ -1,0 +1,128 @@
+{
+  "id": "中国人民解放军国防科技大学",
+  "name": "中国人民解放军国防科技大学",
+  "universityId": "nudt",
+  "experts": [
+    {
+      "id": "优青-侯臣平",
+      "name": "侯臣平",
+      "title": "动态特征挖掘及应用研究",
+      "university": "中国人民解放军国防科技大学",
+      "field": "动态特征挖掘及应用研究",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-李东升",
+      "name": "李东升",
+      "title": "并行与分布式计算",
+      "university": "中国人民解放军国防科技大学",
+      "field": "并行与分布式计算",
+      "tags": [
+        "杰青",
+        "2020"
+      ],
+      "honor": "杰青",
+      "year": 2020,
+      "source": "https://www.ncku1897.net/wiki/index.php/2020%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-刘新旺",
+      "name": "刘新旺",
+      "title": "机器学习",
+      "university": "中国人民解放军国防科技大学",
+      "field": "机器学习",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-吕欣",
+      "name": "吕欣",
+      "title": "大数据技术的公益应用：应对贫穷、疾病、灾害的数据模型",
+      "university": "中国人民解放军国防科技大学",
+      "field": "大数据技术的公益应用：应对贫穷、疾病、灾害的数据模型",
+      "tags": [
+        "杰青",
+        "2020"
+      ],
+      "honor": "杰青",
+      "year": 2020,
+      "source": "https://www.ncku1897.net/wiki/index.php/2020%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-孙明波",
+      "name": "孙明波",
+      "title": "超声速燃烧",
+      "university": "中国人民解放军国防科技大学",
+      "field": "超声速燃烧",
+      "tags": [
+        "杰青",
+        "2019"
+      ],
+      "honor": "杰青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "中科院院士-王怀民",
+      "name": "王怀民",
+      "title": "",
+      "university": "中国人民解放军国防科技大学",
+      "field": "信息技术科学部",
+      "tags": [
+        "中科院院士",
+        "2019"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882115.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "杰青-徐昕",
+      "name": "徐昕",
+      "title": "机器人自主控制与学习",
+      "university": "中国人民解放军国防科技大学",
+      "field": "机器人自主控制与学习",
+      "tags": [
+        "杰青",
+        "2018",
+        "2005"
+      ],
+      "honor": "杰青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-姚富强",
+      "name": "姚富强",
+      "title": "",
+      "university": "中国人民解放军国防科技大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2019"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col323/2019-11/22/20191122095745643268594_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/07317131.html"
+    }
+  ],
+  "count": 8
+}

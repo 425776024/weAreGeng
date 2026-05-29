@@ -1,0 +1,52 @@
+{
+  "id": "空间科学与物理学院",
+  "name": "空间科学与物理学院",
+  "experts": [
+    {
+      "id": "杰青-史全岐",
+      "name": "史全岐",
+      "title": "空间科学与物理学院",
+      "university": "空间科学与物理学院",
+      "field": "空间科学与物理学院",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://rsrc.sdu.edu.cn/rscx/info/1027/5210.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-王守宇",
+      "name": "王守宇",
+      "title": "空间科学与物理学院",
+      "university": "空间科学与物理学院",
+      "field": "空间科学与物理学院",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://rsrc.sdu.edu.cn/rscx/info/1027/5210.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-张清和",
+      "name": "张清和",
+      "title": "山东大学",
+      "university": "空间科学与物理学院",
+      "field": "山东大学",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://rsrc.sdu.edu.cn/rscx/info/1027/5210.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 3
+}

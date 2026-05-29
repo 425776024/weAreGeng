@@ -1,0 +1,122 @@
+[
+  {
+    "id": "nature",
+    "name": "Nature",
+    "publisher": "Nature Publishing Group",
+    "tier": "top"
+  },
+  {
+    "id": "science",
+    "name": "Science",
+    "publisher": "AAAS",
+    "tier": "top"
+  },
+  {
+    "id": "cell",
+    "name": "Cell",
+    "publisher": "Cell Press",
+    "tier": "top"
+  },
+  {
+    "id": "lancet",
+    "name": "The Lancet",
+    "publisher": "Elsevier",
+    "tier": "top"
+  },
+  {
+    "id": "nejm",
+    "name": "New England Journal of Medicine",
+    "publisher": "NEJM Group",
+    "tier": "top"
+  },
+  {
+    "id": "pnas",
+    "name": "PNAS",
+    "publisher": "NAS",
+    "tier": "top"
+  },
+  {
+    "id": "ieee-tpami",
+    "name": "IEEE TPAMI",
+    "publisher": "IEEE",
+    "tier": "major"
+  },
+  {
+    "id": "jmlr",
+    "name": "Journal of Machine Learning Research",
+    "publisher": "JMLR",
+    "tier": "major"
+  },
+  {
+    "id": "nature-mi",
+    "name": "Nature Machine Intelligence",
+    "publisher": "Nature",
+    "tier": "major"
+  },
+  {
+    "id": "nature-biotech",
+    "name": "Nature Biotechnology",
+    "publisher": "Nature",
+    "tier": "major"
+  },
+  {
+    "id": "nature-med",
+    "name": "Nature Medicine",
+    "publisher": "Nature",
+    "tier": "major"
+  },
+  {
+    "id": "plos-one",
+    "name": "PLOS ONE",
+    "publisher": "PLOS",
+    "tier": "general"
+  },
+  {
+    "id": "scientific-reports",
+    "name": "Scientific Reports",
+    "publisher": "Nature",
+    "tier": "general"
+  },
+  {
+    "id": "frontiers",
+    "name": "Frontiers",
+    "publisher": "Frontiers Media",
+    "tier": "general"
+  },
+  {
+    "id": "ieee-access",
+    "name": "IEEE Access",
+    "publisher": "IEEE",
+    "tier": "general"
+  },
+  {
+    "id": "chinese-sci-bulletin",
+    "name": "科学通报",
+    "publisher": "中科院",
+    "tier": "major"
+  },
+  {
+    "id": "chinese-sci-china",
+    "name": "中国科学",
+    "publisher": "中科院",
+    "tier": "major"
+  },
+  {
+    "id": "computer-research",
+    "name": "计算机研究与发展",
+    "publisher": "中科院",
+    "tier": "major"
+  },
+  {
+    "id": "software-journal",
+    "name": "软件学报",
+    "publisher": "中科院",
+    "tier": "major"
+  },
+  {
+    "id": "chinese-med-j",
+    "name": "中华医学杂志",
+    "publisher": "中华医学会",
+    "tier": "major"
+  }
+]

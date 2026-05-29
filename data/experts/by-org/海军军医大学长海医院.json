@@ -1,0 +1,22 @@
+{
+  "id": "海军军医大学长海医院",
+  "name": "海军军医大学长海医院",
+  "experts": [
+    {
+      "id": "工程院院士-李兆申",
+      "name": "李兆申",
+      "title": "",
+      "university": "海军军医大学长海医院",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2017"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col280/2017-11/27/20171127085337936142127_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/96114147.html"
+    }
+  ],
+  "count": 1
+}

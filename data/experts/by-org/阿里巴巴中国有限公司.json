@@ -1,0 +1,22 @@
+{
+  "id": "阿里巴巴中国有限公司",
+  "name": "阿里巴巴（中国）有限公司",
+  "experts": [
+    {
+      "id": "工程院院士-王坚",
+      "name": "王坚",
+      "title": "",
+      "university": "阿里巴巴（中国）有限公司",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2019"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col323/2019-11/22/20191122095745643268594_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/14763753.html"
+    }
+  ],
+  "count": 1
+}

@@ -1,0 +1,52 @@
+{
+  "id": "复旦大学附属眼耳鼻喉科医院",
+  "name": "复旦大学附属眼耳鼻喉科医院",
+  "universityId": "fudan",
+  "experts": [
+    {
+      "id": "杰青-舒易来",
+      "name": "舒易来",
+      "title": "耳鼻喉科研究院",
+      "university": "复旦大学附属眼耳鼻喉科医院",
+      "field": "耳鼻喉科研究院",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "中科院院士-王正敏",
+      "name": "王正敏",
+      "title": "",
+      "university": "复旦大学附属眼耳鼻喉科医院",
+      "field": "生命科学和医学学部",
+      "tags": [
+        "中科院院士",
+        "2005"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882105.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "杰青-颜标",
+      "name": "颜标",
+      "title": "眼科研究院",
+      "university": "复旦大学附属眼耳鼻喉科医院",
+      "field": "眼科研究院",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 3
+}

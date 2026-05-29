@@ -1,0 +1,37 @@
+{
+  "id": "中国兵器工业第二三研究所",
+  "name": "中国兵器工业第二〇三研究所",
+  "experts": [
+    {
+      "id": "工程院院士-杨树兴",
+      "name": "杨树兴",
+      "title": "",
+      "university": "中国兵器工业第二〇三研究所",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2019"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col323/2019-11/22/20191122095745643268594_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/31801173.html"
+    },
+    {
+      "id": "工程院院士-邹汝平",
+      "name": "邹汝平",
+      "title": "",
+      "university": "中国兵器工业第二〇三研究所",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2021"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col1/2021-11/18/20211118075007595415390_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/86972517.html"
+    }
+  ],
+  "count": 2
+}

@@ -1,0 +1,172 @@
+{
+  "id": "生命科学学院",
+  "name": "生命科学学院",
+  "experts": [
+    {
+      "id": "杰青-白明义",
+      "name": "白明义",
+      "title": "生命科学学院",
+      "university": "生命科学学院",
+      "field": "生命科学学院",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://rsrc.sdu.edu.cn/rscx/info/1027/5210.htm",
+      "sourceOrg": "山东大学"
+    },
+    {
+      "id": "杰青-翟继先",
+      "name": "翟继先",
+      "title": "南方科技大学",
+      "university": "生命科学学院",
+      "field": "南方科技大学",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://www.ncku1897.net/wiki/index.php/2023%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-杜嘉木",
+      "name": "杜嘉木",
+      "title": "南方科技大学",
+      "university": "生命科学学院",
+      "field": "南方科技大学",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://www.ncku1897.net/wiki/index.php/2023%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-杜鹏",
+      "name": "杜鹏",
+      "title": "生命科学学院",
+      "university": "生命科学学院",
+      "field": "生命科学学院",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-葛亮",
+      "name": "葛亮",
+      "title": "生命科学学院",
+      "university": "生命科学学院",
+      "field": "生命科学学院",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-贺强",
+      "name": "贺强",
+      "title": "复旦大学",
+      "university": "生命科学学院",
+      "field": "复旦大学",
+      "tags": [
+        "杰青",
+        "2024"
+      ],
+      "honor": "杰青",
+      "year": 2024,
+      "source": "https://www.ncku1897.net/wiki/index.php/2024%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-黄兴禄",
+      "name": "黄兴禄",
+      "title": "南开大学",
+      "university": "生命科学学院",
+      "field": "南开大学",
+      "tags": [
+        "杰青",
+        "2024"
+      ],
+      "honor": "杰青",
+      "year": 2024,
+      "source": "https://www.ncku1897.net/wiki/index.php/2024%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-骆双正",
+      "name": "骆双正",
+      "title": "中山大学",
+      "university": "生命科学学院",
+      "field": "中山大学",
+      "tags": [
+        "杰青",
+        "2024"
+      ],
+      "honor": "杰青",
+      "year": 2024,
+      "source": "https://www.ncku1897.net/wiki/index.php/2024%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-马欣然",
+      "name": "马欣然",
+      "title": "华东师范大学",
+      "university": "生命科学学院",
+      "field": "华东师范大学",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://www.ncku1897.net/wiki/index.php/2023%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-易文",
+      "name": "易文",
+      "title": "浙江大学",
+      "university": "生命科学学院",
+      "field": "浙江大学",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://www.ncku1897.net/wiki/index.php/2023%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-郑媛婷",
+      "name": "郑媛婷",
+      "title": "复旦大学",
+      "university": "生命科学学院",
+      "field": "复旦大学",
+      "tags": [
+        "杰青",
+        "2024"
+      ],
+      "honor": "杰青",
+      "year": 2024,
+      "source": "https://www.ncku1897.net/wiki/index.php/2024%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 11
+}

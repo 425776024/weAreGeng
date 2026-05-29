@@ -1,0 +1,22 @@
+{
+  "id": "复旦大学附属中山医院",
+  "name": "复旦大学附属中山医院",
+  "universityId": "fudan",
+  "experts": [
+    {
+      "id": "中科院院士-樊嘉",
+      "name": "樊嘉",
+      "title": "",
+      "university": "复旦大学附属中山医院",
+      "field": "生命科学和医学学部",
+      "tags": [
+        "中科院院士",
+        "2017"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882118.html",
+      "sourceOrg": "中国科学院学部"
+    }
+  ],
+  "count": 1
+}

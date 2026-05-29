@@ -1,0 +1,22 @@
+{
+  "id": "英国曼彻斯特大学",
+  "name": "英国曼彻斯特大学",
+  "experts": [
+    {
+      "id": "中科院院士-荷兰英国",
+      "name": "荷兰英国",
+      "title": "",
+      "university": "英国曼彻斯特大学",
+      "field": "英国曼彻斯特大学",
+      "tags": [
+        "中科院院士",
+        "2017"
+      ],
+      "honor": "中科院院士",
+      "year": 2017,
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882118.html",
+      "sourceOrg": "中国科学院学部"
+    }
+  ],
+  "count": 1
+}

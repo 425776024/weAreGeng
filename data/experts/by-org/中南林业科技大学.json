@@ -1,0 +1,38 @@
+{
+  "id": "中南林业科技大学",
+  "name": "中南林业科技大学",
+  "universityId": "csu",
+  "experts": [
+    {
+      "id": "优青-卿彦",
+      "name": "卿彦",
+      "title": "木材纳米结构解译及功能化",
+      "university": "中南林业科技大学",
+      "field": "木材纳米结构解译及功能化",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-吴义强",
+      "name": "吴义强",
+      "title": "",
+      "university": "中南林业科技大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2021"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col1/2021-11/18/20211118075007595415390_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/44784437.html"
+    }
+  ],
+  "count": 2
+}

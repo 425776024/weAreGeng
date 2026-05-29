@@ -1,0 +1,22 @@
+{
+  "id": "中央军委办公厅某研究所",
+  "name": "中央军委办公厅某研究所",
+  "experts": [
+    {
+      "id": "工程院院士-孔志印",
+      "name": "孔志印",
+      "title": "",
+      "university": "中央军委办公厅某研究所",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2021"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col1/2021-11/18/20211118075007595415390_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/19957430.html"
+    }
+  ],
+  "count": 1
+}

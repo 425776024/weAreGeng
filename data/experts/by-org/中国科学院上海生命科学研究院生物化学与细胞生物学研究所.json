@@ -1,0 +1,53 @@
+{
+  "id": "中国科学院上海生命科学研究院生物化学与细胞生物学研究所",
+  "name": "中国科学院上海生命科学研究院生物化学与细胞生物学研究所",
+  "experts": [
+    {
+      "id": "杰青-曾嵘",
+      "name": "曾嵘",
+      "title": "生物化学和分子生物学",
+      "university": "中国科学院上海生命科学研究院生物化学与细胞生物学研究所",
+      "field": "生物化学和分子生物学",
+      "tags": [
+        "杰青",
+        "2004",
+        "2013"
+      ],
+      "honor": "杰青",
+      "year": 2004,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-康九红",
+      "name": "康九红",
+      "title": "细胞生物学及发育生物学",
+      "university": "中国科学院上海生命科学研究院生物化学与细胞生物学研究所",
+      "field": "细胞生物学及发育生物学",
+      "tags": [
+        "杰青",
+        "2006"
+      ],
+      "honor": "杰青",
+      "year": 2006,
+      "source": "https://www.ncku1897.net/wiki/index.php/2006%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-周嘉伟",
+      "name": "周嘉伟",
+      "title": "神经生物学",
+      "university": "中国科学院上海生命科学研究院生物化学与细胞生物学研究所",
+      "field": "神经生物学",
+      "tags": [
+        "杰青",
+        "2005"
+      ],
+      "honor": "杰青",
+      "year": 2005,
+      "source": "https://www.ncku1897.net/wiki/index.php/2005%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 3
+}

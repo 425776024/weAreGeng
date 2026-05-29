@@ -1,0 +1,66 @@
+{
+  "id": "中国科学院测量与地球物理研究所",
+  "name": "中国科学院测量与地球物理研究所",
+  "experts": [
+    {
+      "id": "中科院院士-孙和平",
+      "name": "孙和平",
+      "title": "",
+      "university": "中国科学院测量与地球物理研究所",
+      "field": "地学部",
+      "tags": [
+        "中科院院士",
+        "2019"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882115.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "杰青-汪汉胜",
+      "name": "汪汉胜",
+      "title": "动力大地测量",
+      "university": "中国科学院测量与地球物理研究所",
+      "field": "动力大地测量",
+      "tags": [
+        "杰青",
+        "2008"
+      ],
+      "honor": "杰青",
+      "year": 2008,
+      "source": "https://www.ncku1897.net/wiki/index.php/2008%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-袁运斌",
+      "name": "袁运斌",
+      "title": "大地测量学(物理大地测量、动力大地测量)",
+      "university": "中国科学院测量与地球物理研究所",
+      "field": "大地测量学(物理大地测量、动力大地测量)",
+      "tags": [
+        "杰青",
+        "2006"
+      ],
+      "honor": "杰青",
+      "year": 2006,
+      "source": "https://www.ncku1897.net/wiki/index.php/2006%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-郑勇",
+      "name": "郑勇",
+      "title": "中国科学院测量与地球物理研究所",
+      "university": "中国科学院测量与地球物理研究所",
+      "field": "中国科学院测量与地球物理研究所",
+      "tags": [
+        "优青",
+        "2014"
+      ],
+      "honor": "优青",
+      "year": 2014,
+      "source": "https://www.ncku1897.net/wiki/index.php/2014%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 4
+}

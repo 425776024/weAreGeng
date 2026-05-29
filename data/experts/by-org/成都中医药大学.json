@@ -1,0 +1,53 @@
+{
+  "id": "成都中医药大学",
+  "name": "成都中医药大学",
+  "universityId": "cpu",
+  "experts": [
+    {
+      "id": "杰青-曾芳",
+      "name": "曾芳",
+      "title": "针灸推皇学院",
+      "university": "成都中医药大学",
+      "field": "针灸推皇学院",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-曾芳",
+      "name": "曾芳",
+      "title": "基于功能神经影像技术的针刺效应中枢机制研究",
+      "university": "成都中医药大学",
+      "field": "基于功能神经影像技术的针刺效应中枢机制研究",
+      "tags": [
+        "优青",
+        "2016"
+      ],
+      "honor": "优青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-陈士林",
+      "name": "陈士林",
+      "title": "",
+      "university": "成都中医药大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2023"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col2260/2023-11/23/20231123090216622511192_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/78451775.html"
+    }
+  ],
+  "count": 3
+}

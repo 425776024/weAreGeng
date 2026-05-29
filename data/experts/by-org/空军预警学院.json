@@ -1,0 +1,21 @@
+{
+  "id": "空军预警学院",
+  "name": "空军预警学院",
+  "experts": [
+    {
+      "id": "中科院院士-王永良",
+      "name": "王永良",
+      "title": "",
+      "university": "空军预警学院",
+      "field": "信息技术科学部",
+      "tags": [
+        "中科院院士",
+        "2015"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882110.html",
+      "sourceOrg": "中国科学院学部"
+    }
+  ],
+  "count": 1
+}

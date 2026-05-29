@@ -1,0 +1,35 @@
+{
+  "id": "中科院大气物理研究所",
+  "name": "中科院大气物理研究所",
+  "experts": [
+    {
+      "id": "中科院院士-符淙斌",
+      "name": "符淙斌",
+      "title": "",
+      "university": "中科院大气物理研究所",
+      "field": "地学部",
+      "tags": [
+        "中科院院士",
+        "2003"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882104.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "中科院院士-吕达仁",
+      "name": "吕达仁",
+      "title": "",
+      "university": "中科院大气物理研究所",
+      "field": "地学部",
+      "tags": [
+        "中科院院士",
+        "2005"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882105.html",
+      "sourceOrg": "中国科学院学部"
+    }
+  ],
+  "count": 2
+}

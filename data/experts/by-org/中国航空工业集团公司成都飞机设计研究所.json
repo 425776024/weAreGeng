@@ -1,0 +1,37 @@
+{
+  "id": "中国航空工业集团公司成都飞机设计研究所",
+  "name": "中国航空工业集团公司成都飞机设计研究所",
+  "experts": [
+    {
+      "id": "工程院院士-王海峰",
+      "name": "王海峰",
+      "title": "",
+      "university": "中国航空工业集团公司成都飞机设计研究所",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2023"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col2260/2023-11/23/20231123090216622511192_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/31110229.html"
+    },
+    {
+      "id": "中科院院士-杨伟",
+      "name": "杨伟",
+      "title": "",
+      "university": "中国航空工业集团公司成都飞机设计研究所",
+      "field": "飞行器设计与飞行控制",
+      "tags": [
+        "中科院院士",
+        "2017"
+      ],
+      "honor": "中科院院士",
+      "year": 2017,
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882118.html",
+      "sourceOrg": "中国科学院学部"
+    }
+  ],
+  "count": 2
+}

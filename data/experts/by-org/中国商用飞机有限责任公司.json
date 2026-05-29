@@ -1,0 +1,22 @@
+{
+  "id": "中国商用飞机有限责任公司",
+  "name": "中国商用飞机有限责任公司",
+  "experts": [
+    {
+      "id": "工程院院士-吴光辉",
+      "name": "吴光辉",
+      "title": "",
+      "university": "中国商用飞机有限责任公司",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2017"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col280/2017-11/27/20171127085337936142127_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/58927166.html"
+    }
+  ],
+  "count": 1
+}

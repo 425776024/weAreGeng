@@ -1,0 +1,60 @@
+{
+  "name": "we-are-geng",
+  "private": true,
+  "version": "0.1.0",
+  "description": "学术打假搜索平台 — 中国高校论文检索与虚假内容分析",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "tauri": "tauri",
+    "tauri:dev": "tauri dev",
+    "tauri:build": "tauri build",
+    "split-experts": "node scripts/split-experts-by-org.mjs",
+    "clean-expert-names": "node scripts/clean-expert-names.mjs",
+    "fetch-talents": "node scripts/fetch-talents.mjs",
+    "setup:mastra": "node scripts/setup-mastra.mjs",
+    "setup:node": "node scripts/setup-node.mjs",
+    "build:agent": "node scripts/build-agent-runner.mjs",
+    "prepare:agent-resources": "node scripts/prepare-agent-resources.mjs",
+    "build:tauri-agent": "npm run setup:node && npm run build:agent && npm run prepare:agent-resources",
+    "postinstall": "node scripts/setup-mastra.mjs",
+    "mcp:server": "tsx packages/agent/mcp/stdio.ts",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^3.0.66",
+    "@libsql/client": "^0.15.15",
+    "@mastra/core": "file:./vendor/mastra-packages/core",
+    "@mastra/libsql": "file:./vendor/mastra-packages/libsql",
+    "@mastra/mcp": "file:./vendor/mastra-packages/mcp",
+    "@mastra/memory": "file:./vendor/mastra-packages/memory",
+    "@mastra/schema-compat": "file:./vendor/mastra-packages/schema-compat",
+    "@tauri-apps/api": "^2.11.0",
+    "ai": "^6.0.193",
+    "pinia": "^3.0.1",
+    "pdf-parse": "^2.4.5",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0",
+    "zod": "^3.25.76",
+    "zod-to-json-schema": "^3.25.2"
+  },
+  "devDependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "@tauri-apps/cli": "^2.11.2",
+    "@types/node": "^25.9.1",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "esbuild": "^0.25.12",
+    "tsx": "^4.22.3",
+    "typescript": "^5.7.3",
+    "vite": "^6.0.7",
+    "vitest": "^3.2.4",
+    "vue-tsc": "^2.2.0"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}

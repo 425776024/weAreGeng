@@ -1,0 +1,5 @@
+$a3eedfcd-c636-4738-a2c1-23c35cb3efc3²¨"id ÿÿÿÿÿÿÿÿÿ*string8Zdefault.tool_call_id ÿÿÿÿÿÿÿÿÿ*string8Zdefault+	tool_name ÿÿÿÿÿÿÿÿÿ*string8Zdefault*agent_id ÿÿÿÿÿÿÿÿÿ*string8Zdefault(run_id ÿÿÿÿÿÿÿÿÿ*string8Zdefault-	thread_id ÿÿÿÿÿÿÿÿÿ*string08Zdefault/resource_id ÿÿÿÿÿÿÿÿÿ*string08Zdefault(status ÿÿÿÿÿÿÿÿÿ*string8Zdefault&args ÿÿÿÿÿÿÿÿÿ*string8Zdefault*result	 ÿÿÿÿÿÿÿÿÿ*string08Zdefault)error
+ ÿÿÿÿÿÿÿÿÿ*string08Zdefault3suspend_payload ÿÿÿÿÿÿÿÿÿ*string08Zdefault,retry_count ÿÿÿÿÿÿÿÿÿ*int328Zdefault,max_retries ÿÿÿÿÿÿÿÿÿ*int328Zdefault+
+timeout_ms ÿÿÿÿÿÿÿÿÿ*int328Zdefault+	createdAt ÿÿÿÿÿÿÿÿÿ*double8Zdefault-	startedAt ÿÿÿÿÿÿÿÿÿ*double08Zdefault/suspendedAt ÿÿÿÿÿÿÿÿÿ*double08Zdefault/completedAt ÿÿÿÿÿÿÿÿÿ*double08Zdefault"'
+lance.auto_cleanup.older_than14days"!
+lance.auto_cleanup.interval20

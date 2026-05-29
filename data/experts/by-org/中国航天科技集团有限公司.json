@@ -1,0 +1,22 @@
+{
+  "id": "中国航天科技集团有限公司",
+  "name": "中国航天科技集团有限公司",
+  "experts": [
+    {
+      "id": "工程院院士-王国庆",
+      "name": "王国庆",
+      "title": "",
+      "university": "中国航天科技集团有限公司",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2021"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col1/2021-11/18/20211118075007595415390_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/80921505.html"
+    }
+  ],
+  "count": 1
+}

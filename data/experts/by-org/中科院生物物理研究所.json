@@ -1,0 +1,36 @@
+{
+  "id": "中科院生物物理研究所",
+  "name": "中科院生物物理研究所",
+  "experts": [
+    {
+      "id": "中科院院士-常文瑞",
+      "name": "常文瑞",
+      "title": "",
+      "university": "中科院生物物理研究所",
+      "field": "生命科学和医学学部",
+      "tags": [
+        "中科院院士",
+        "2005"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882105.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "中科院院士-王大成",
+      "name": "王大成",
+      "title": "",
+      "university": "中科院生物物理研究所",
+      "field": "分子生物物理学",
+      "tags": [
+        "中科院院士",
+        "2005"
+      ],
+      "honor": "中科院院士",
+      "year": 2005,
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882105.html",
+      "sourceOrg": "中国科学院学部"
+    }
+  ],
+  "count": 2
+}

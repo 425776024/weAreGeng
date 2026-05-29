@@ -1,0 +1,23 @@
+{
+  "id": "以色列理工学院",
+  "name": "以色列理工学院",
+  "experts": [
+    {
+      "id": "中科院院士-以色列",
+      "name": "以色列",
+      "title": "",
+      "university": "以色列理工学院",
+      "field": "以色列理工学院",
+      "tags": [
+        "中科院院士",
+        "2011",
+        "2013"
+      ],
+      "honor": "中科院院士",
+      "year": 2011,
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882109.html",
+      "sourceOrg": "中国科学院学部"
+    }
+  ],
+  "count": 1
+}

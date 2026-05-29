@@ -1,0 +1,36 @@
+{
+  "id": "中国人民解放军陆军工程大学",
+  "name": "中国人民解放军陆军工程大学",
+  "experts": [
+    {
+      "id": "中科院院士-王金龙",
+      "name": "王金龙",
+      "title": "",
+      "university": "中国人民解放军陆军工程大学",
+      "field": "信息技术科学部",
+      "tags": [
+        "中科院院士",
+        "2019"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882115.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "工程院院士-王明洋",
+      "name": "王明洋",
+      "title": "",
+      "university": "中国人民解放军陆军工程大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2021"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col1/2021-11/18/20211118075007595415390_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/31928644.html"
+    }
+  ],
+  "count": 2
+}

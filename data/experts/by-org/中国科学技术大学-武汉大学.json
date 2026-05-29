@@ -1,0 +1,22 @@
+{
+  "id": "中国科学技术大学-武汉大学",
+  "name": "中国科学技术大学、 武汉大学",
+  "universityId": "ustc",
+  "experts": [
+    {
+      "id": "中科院院士-窦贤康",
+      "name": "窦贤康",
+      "title": "",
+      "university": "中国科学技术大学、 武汉大学",
+      "field": "地学部",
+      "tags": [
+        "中科院院士",
+        "2017"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882118.html",
+      "sourceOrg": "中国科学院学部"
+    }
+  ],
+  "count": 1
+}

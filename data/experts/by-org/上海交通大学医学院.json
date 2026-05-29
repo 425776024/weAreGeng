@@ -1,0 +1,23 @@
+{
+  "id": "上海交通大学医学院",
+  "name": "上海交通大学医学院",
+  "universityId": "sjtu",
+  "experts": [
+    {
+      "id": "工程院院士-范先群",
+      "name": "范先群",
+      "title": "",
+      "university": "上海交通大学医学院",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2021"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col1/2021-11/18/20211118075007595415390_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/23169759.html"
+    }
+  ],
+  "count": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "交通运输工程学院",
+  "name": "交通运输工程学院",
+  "experts": [
+    {
+      "id": "杰青-胡林",
+      "name": "胡林",
+      "title": "长沙理工大学",
+      "university": "交通运输工程学院",
+      "field": "长沙理工大学",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://www.ncku1897.net/wiki/index.php/2023%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "中国人民解放军海军研究院",
+  "name": "中国人民解放军海军研究院",
+  "experts": [
+    {
+      "id": "工程院院士-刘清宇",
+      "name": "刘清宇",
+      "title": "",
+      "university": "中国人民解放军海军研究院",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2023"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col2260/2023-11/23/20231123090216622511192_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/58650078.html"
+    }
+  ],
+  "count": 1
+}

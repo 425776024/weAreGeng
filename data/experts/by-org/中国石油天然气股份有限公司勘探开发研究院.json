@@ -1,0 +1,37 @@
+{
+  "id": "中国石油天然气股份有限公司勘探开发研究院",
+  "name": "中国石油天然气股份有限公司勘探开发研究院",
+  "experts": [
+    {
+      "id": "工程院院士-李宁",
+      "name": "李宁",
+      "title": "",
+      "university": "中国石油天然气股份有限公司勘探开发研究院",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2019"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col323/2019-11/22/20191122095745643268594_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/30131846.html"
+    },
+    {
+      "id": "工程院院士-刘合",
+      "name": "刘合",
+      "title": "",
+      "university": "中国石油天然气股份有限公司勘探开发研究院",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2017"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col280/2017-11/27/20171127085337936142127_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/21736116.html"
+    }
+  ],
+  "count": 2
+}

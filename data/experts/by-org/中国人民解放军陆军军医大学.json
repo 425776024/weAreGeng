@@ -1,0 +1,37 @@
+{
+  "id": "中国人民解放军陆军军医大学",
+  "name": "中国人民解放军陆军军医大学",
+  "experts": [
+    {
+      "id": "工程院院士-蒋建新",
+      "name": "蒋建新",
+      "title": "",
+      "university": "中国人民解放军陆军军医大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2021"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col1/2021-11/18/20211118075007595415390_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/77835875.html"
+    },
+    {
+      "id": "工程院院士-吴玉章",
+      "name": "吴玉章",
+      "title": "",
+      "university": "中国人民解放军陆军军医大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2023"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col2260/2023-11/23/20231123090216622511192_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/15341685.html"
+    }
+  ],
+  "count": 2
+}

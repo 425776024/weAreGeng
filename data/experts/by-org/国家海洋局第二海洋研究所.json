@@ -1,0 +1,67 @@
+{
+  "id": "国家海洋局第二海洋研究所",
+  "name": "国家海洋局第二海洋研究所",
+  "experts": [
+    {
+      "id": "中科院院士-陈大可",
+      "name": "陈大可",
+      "title": "",
+      "university": "国家海洋局第二海洋研究所",
+      "field": "地学部",
+      "tags": [
+        "中科院院士",
+        "2015"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882110.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "杰青-何贤强",
+      "name": "何贤强",
+      "title": "海洋水色遥感：辐射传输与大气校正",
+      "university": "国家海洋局第二海洋研究所",
+      "field": "海洋水色遥感：辐射传输与大气校正",
+      "tags": [
+        "杰青",
+        "2018"
+      ],
+      "honor": "杰青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-何贤强",
+      "name": "何贤强",
+      "title": "国家海洋局第二海洋研究所",
+      "university": "国家海洋局第二海洋研究所",
+      "field": "国家海洋局第二海洋研究所",
+      "tags": [
+        "优青",
+        "2013"
+      ],
+      "honor": "优青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-王桂华",
+      "name": "王桂华",
+      "title": "物理海洋学:南海海盆尺度环流-中尺度涡相互作用研究",
+      "university": "国家海洋局第二海洋研究所",
+      "field": "物理海洋学:南海海盆尺度环流-中尺度涡相互作用研究",
+      "tags": [
+        "杰青",
+        "2011",
+        "2024"
+      ],
+      "honor": "杰青",
+      "year": 2011,
+      "source": "https://www.ncku1897.net/wiki/index.php/2024%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 4
+}

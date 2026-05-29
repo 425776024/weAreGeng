@@ -1,0 +1,22 @@
+{
+  "id": "大庆油田有限责任公司",
+  "name": "大庆油田有限责任公司",
+  "experts": [
+    {
+      "id": "工程院院士-程杰成",
+      "name": "程杰成",
+      "title": "",
+      "university": "大庆油田有限责任公司",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2021"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col1/2021-11/18/20211118075007595415390_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/10319709.html"
+    }
+  ],
+  "count": 1
+}

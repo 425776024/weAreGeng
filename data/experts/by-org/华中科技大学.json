@@ -1,0 +1,2144 @@
+{
+  "id": "华中科技大学",
+  "name": "华中科技大学",
+  "universityId": "hust",
+  "experts": [
+    {
+      "id": "杰青-白翔",
+      "name": "白翔",
+      "title": "电子信息与通信学院",
+      "university": "华中科技大学",
+      "field": "电子信息与通信学院",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-蔡建明",
+      "name": "蔡建明",
+      "title": "华中科技大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学",
+      "tags": [
+        "杰青",
+        "2024"
+      ],
+      "honor": "杰青",
+      "year": 2024,
+      "source": "https://www.ncku1897.net/wiki/index.php/2024%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-曾绍群",
+      "name": "曾绍群",
+      "title": "飞秒激光生物医学显微成像",
+      "university": "华中科技大学",
+      "field": "飞秒激光生物医学显微成像",
+      "tags": [
+        "杰青",
+        "2009"
+      ],
+      "honor": "杰青",
+      "year": 2009,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-曾志刚",
+      "name": "曾志刚",
+      "title": "复杂系统渐近行为理论与应用",
+      "university": "华中科技大学",
+      "field": "复杂系统渐近行为理论与应用",
+      "tags": [
+        "杰青",
+        "2011",
+        "2013"
+      ],
+      "honor": "杰青",
+      "year": 2011,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-陈琛",
+      "name": "陈琛",
+      "title": "分子心脏病学",
+      "university": "华中科技大学",
+      "field": "分子心脏病学",
+      "tags": [
+        "优青",
+        "2018"
+      ],
+      "honor": "优青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-陈汉华",
+      "name": "陈汉华",
+      "title": "华中科技大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学",
+      "tags": [
+        "优青",
+        "2014"
+      ],
+      "honor": "优青",
+      "year": 2014,
+      "source": "https://www.ncku1897.net/wiki/index.php/2014%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-陈华兵",
+      "name": "陈华兵",
+      "title": "华中科技大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学",
+      "tags": [
+        "杰青",
+        "2021"
+      ],
+      "honor": "杰青",
+      "year": 2021,
+      "source": "https://www.ncku1897.net/wiki/index.php/2021%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-陈建国",
+      "name": "陈建国",
+      "title": "细胞神经生物学",
+      "university": "华中科技大学",
+      "field": "细胞神经生物学",
+      "tags": [
+        "杰青",
+        "2004"
+      ],
+      "honor": "杰青",
+      "year": 2004,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-陈莉莉",
+      "name": "陈莉莉",
+      "title": "3172500109",
+      "university": "华中科技大学",
+      "field": "3172500109",
+      "tags": [
+        "杰青",
+        "2017"
+      ],
+      "honor": "杰青",
+      "year": 2017,
+      "source": "https://www.ncku1897.net/wiki/index.php/2017%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-陈莉莉",
+      "name": "陈莉莉",
+      "title": "华中科技大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学",
+      "tags": [
+        "优青",
+        "2014"
+      ],
+      "honor": "优青",
+      "year": 2014,
+      "source": "https://www.ncku1897.net/wiki/index.php/2014%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-陈璐",
+      "name": "陈璐",
+      "title": "多变量水文过程模拟及其风险响应",
+      "university": "华中科技大学",
+      "field": "多变量水文过程模拟及其风险响应",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-陈炜",
+      "name": "陈炜",
+      "title": "钙钛矿太阳能电池",
+      "university": "华中科技大学",
+      "field": "钙钛矿太阳能电池",
+      "tags": [
+        "优青",
+        "2018"
+      ],
+      "honor": "优青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "中科院院士-陈孝平",
+      "name": "陈孝平",
+      "title": "",
+      "university": "华中科技大学",
+      "field": "生命科学和医学学部",
+      "tags": [
+        "中科院院士",
+        "2015"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882110.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "工程院院士-陈新",
+      "name": "陈新",
+      "title": "",
+      "university": "华中科技大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/colys/95712802.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/95712802.html"
+    },
+    {
+      "id": "工程院院士-陈学东",
+      "name": "陈学东",
+      "title": "",
+      "university": "华中科技大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2023"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col2260/2023-11/23/20231123090216622511192_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/00286177.html"
+    },
+    {
+      "id": "中科院院士-程时杰",
+      "name": "程时杰",
+      "title": "",
+      "university": "华中科技大学",
+      "field": "技术科学部",
+      "tags": [
+        "中科院院士",
+        "2007"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882106.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "杰青-程翔",
+      "name": "程翔",
+      "title": "免疫炎症与冠心病",
+      "university": "华中科技大学",
+      "field": "免疫炎症与冠心病",
+      "tags": [
+        "杰青",
+        "2015",
+        "2021"
+      ],
+      "honor": "杰青",
+      "year": 2015,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-邓世名",
+      "name": "邓世名",
+      "title": "基于数据学习的生产运作管理理论与方法",
+      "university": "华中科技大学",
+      "field": "基于数据学习的生产运作管理理论与方法",
+      "tags": [
+        "杰青",
+        "2014"
+      ],
+      "honor": "杰青",
+      "year": 2014,
+      "source": "https://www.ncku1897.net/wiki/index.php/2014%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-翟天佑",
+      "name": "翟天佑",
+      "title": "无机材料合成化学和光电器件",
+      "university": "华中科技大学",
+      "field": "无机材料合成化学和光电器件",
+      "tags": [
+        "杰青",
+        "2018"
+      ],
+      "honor": "杰青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-翟天佑",
+      "name": "翟天佑",
+      "title": "华中科技大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学",
+      "tags": [
+        "优青",
+        "2013"
+      ],
+      "honor": "优青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-丁汉",
+      "name": "丁汉",
+      "title": "机械制造自动化",
+      "university": "华中科技大学",
+      "field": "机械制造自动化",
+      "tags": [
+        "杰青",
+        "1997"
+      ],
+      "honor": "杰青",
+      "year": 1997,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "华中科技大学"
+    },
+    {
+      "id": "中科院院士-丁汉",
+      "name": "丁汉",
+      "title": "",
+      "university": "华中科技大学",
+      "field": "技术科学部",
+      "tags": [
+        "中科院院士",
+        "2013"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882109.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "优青-董建绩",
+      "name": "董建绩",
+      "title": "高性能光计算中的频谱调控机理研究",
+      "university": "华中科技大学",
+      "field": "高性能光计算中的频谱调控机理研究",
+      "tags": [
+        "优青",
+        "2016"
+      ],
+      "honor": "优青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-樊明武",
+      "name": "樊明武",
+      "title": "",
+      "university": "华中科技大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/colys/81606016.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/81606016.html"
+    },
+    {
+      "id": "杰青-费鹏",
+      "name": "费鹏",
+      "title": "光学与电子信息学院",
+      "university": "华中科技大学",
+      "field": "光学与电子信息学院",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-冯丹",
+      "name": "冯丹",
+      "title": "面向服务的大规模网络存储系统理论与方法",
+      "university": "华中科技大学",
+      "field": "面向服务的大规模网络存储系统理论与方法",
+      "tags": [
+        "杰青",
+        "2010"
+      ],
+      "honor": "杰青",
+      "year": 2010,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-冯光",
+      "name": "冯光",
+      "title": "华中科技大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://www.ncku1897.net/wiki/index.php/2023%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-高亮",
+      "name": "高亮",
+      "title": "车间调度的理论与方法",
+      "university": "华中科技大学",
+      "field": "车间调度的理论与方法",
+      "tags": [
+        "杰青",
+        "2018",
+        "2014"
+      ],
+      "honor": "杰青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-高庆蕾",
+      "name": "高庆蕾",
+      "title": "卵巢癌诊治新策略研究",
+      "university": "华中科技大学",
+      "field": "卵巢癌诊治新策略研究",
+      "tags": [
+        "杰青",
+        "2019"
+      ],
+      "honor": "杰青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-龚建平",
+      "name": "龚建平",
+      "title": "外科学",
+      "university": "华中科技大学",
+      "field": "外科学",
+      "tags": [
+        "杰青",
+        "1997"
+      ],
+      "honor": "杰青",
+      "year": 1997,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "华中科技大学"
+    },
+    {
+      "id": "杰青-关旭",
+      "name": "关旭",
+      "title": "华中科技大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学",
+      "tags": [
+        "杰青",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2023,
+      "source": "https://www.ncku1897.net/wiki/index.php/2023%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-关旭",
+      "name": "关旭",
+      "title": "不对称信息下的供应链管理",
+      "university": "华中科技大学",
+      "field": "不对称信息下的供应链管理",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-郭安源",
+      "name": "郭安源",
+      "title": "复杂疾病生物信息学研究",
+      "university": "华中科技大学",
+      "field": "复杂疾病生物信息学研究",
+      "tags": [
+        "优青",
+        "2018"
+      ],
+      "honor": "优青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-郭照立",
+      "name": "郭照立",
+      "title": "多相流体动力学多场耦合和尺度关联的介观理论和模型",
+      "university": "华中科技大学",
+      "field": "多相流体动力学多场耦合和尺度关联的介观理论和模型",
+      "tags": [
+        "杰青",
+        "2011"
+      ],
+      "honor": "杰青",
+      "year": 2011,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-胡家兵",
+      "name": "胡家兵",
+      "title": "电气与电子工程学院",
+      "university": "华中科技大学",
+      "field": "电气与电子工程学院",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-胡家兵",
+      "name": "胡家兵",
+      "title": "华中科技大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学",
+      "tags": [
+        "优青",
+        "2013"
+      ],
+      "honor": "优青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-胡鹏",
+      "name": "胡鹏",
+      "title": "一般订购成本结构下的库存管理研究",
+      "university": "华中科技大学",
+      "field": "一般订购成本结构下的库存管理研究",
+      "tags": [
+        "优青",
+        "2016"
+      ],
+      "honor": "优青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-胡豫",
+      "name": "胡豫",
+      "title": "血栓栓塞性疾病的临床与基础研究",
+      "university": "华中科技大学",
+      "field": "血栓栓塞性疾病的临床与基础研究",
+      "tags": [
+        "杰青",
+        "2008"
+      ],
+      "honor": "杰青",
+      "year": 2008,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-胡忠坤",
+      "name": "胡忠坤",
+      "title": "冷原子干涉引力精密测量",
+      "university": "华中科技大学",
+      "field": "冷原子干涉引力精密测量",
+      "tags": [
+        "杰青",
+        "2016"
+      ],
+      "honor": "杰青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-华宇",
+      "name": "华宇",
+      "title": "武汉大学",
+      "university": "华中科技大学",
+      "field": "武汉大学",
+      "tags": [
+        "杰青",
+        "2021"
+      ],
+      "honor": "杰青",
+      "year": 2021,
+      "source": "https://www.ncku1897.net/wiki/index.php/2021%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-黄敏生",
+      "name": "黄敏生",
+      "title": "多尺度塑性和损伤力学",
+      "university": "华中科技大学",
+      "field": "多尺度塑性和损伤力学",
+      "tags": [
+        "优青",
+        "2018"
+      ],
+      "honor": "优青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-黄士昂",
+      "name": "黄士昂",
+      "title": "华中科技大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学",
+      "tags": [
+        "杰青",
+        "2002"
+      ],
+      "honor": "杰青",
+      "year": 2002,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-黄永安",
+      "name": "黄永安",
+      "title": "柔性电子制造技术与装备",
+      "university": "华中科技大学",
+      "field": "柔性电子制造技术与装备",
+      "tags": [
+        "杰青",
+        "2019"
+      ],
+      "honor": "杰青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-黄永安",
+      "name": "黄永安",
+      "title": "华中科技大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学",
+      "tags": [
+        "优青",
+        "2013"
+      ],
+      "honor": "优青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-黄云辉",
+      "name": "黄云辉",
+      "title": "新型能源材料",
+      "university": "华中科技大学",
+      "field": "新型能源材料",
+      "tags": [
+        "杰青",
+        "2008"
+      ],
+      "honor": "杰青",
+      "year": 2008,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-蒋向前",
+      "name": "蒋向前",
+      "title": "教授",
+      "university": "华中科技大学",
+      "field": "教授",
+      "tags": [
+        "杰青",
+        "2000"
+      ],
+      "honor": "杰青",
+      "year": 2000,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-解孝林",
+      "name": "解孝林",
+      "title": "聚合物/液晶复合材料",
+      "university": "华中科技大学",
+      "field": "聚合物/液晶复合材料",
+      "tags": [
+        "杰青",
+        "2008"
+      ],
+      "honor": "杰青",
+      "year": 2008,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-金海",
+      "name": "金海",
+      "title": "计算机科学",
+      "university": "华中科技大学",
+      "field": "计算机科学",
+      "tags": [
+        "杰青",
+        "2001"
+      ],
+      "honor": "杰青",
+      "year": 2001,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-孔维佳",
+      "name": "孔维佳",
+      "title": "耳鼻喉科学",
+      "university": "华中科技大学",
+      "field": "耳鼻喉科学",
+      "tags": [
+        "杰青",
+        "1999"
+      ],
+      "honor": "杰青",
+      "year": 1999,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "华中科技大学"
+    },
+    {
+      "id": "杰青-兰鹏飞",
+      "name": "兰鹏飞",
+      "title": "物理学院",
+      "university": "华中科技大学",
+      "field": "物理学院",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-兰鹏飞",
+      "name": "兰鹏飞",
+      "title": "华中科技大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学",
+      "tags": [
+        "优青",
+        "2014"
+      ],
+      "honor": "优青",
+      "year": 2014,
+      "source": "https://www.ncku1897.net/wiki/index.php/2014%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-李和",
+      "name": "李和",
+      "title": "华中科技大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学",
+      "tags": [
+        "杰青",
+        "2002"
+      ],
+      "honor": "杰青",
+      "year": 2002,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-李化",
+      "name": "李化",
+      "title": "高储能密度电容器技术",
+      "university": "华中科技大学",
+      "field": "高储能密度电容器技术",
+      "tags": [
+        "优青",
+        "2018"
+      ],
+      "honor": "优青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-李志纯",
+      "name": "李志纯",
+      "title": "交通基础设施投资与交通需求管理",
+      "university": "华中科技大学",
+      "field": "交通基础设施投资与交通需求管理",
+      "tags": [
+        "杰青",
+        "2015"
+      ],
+      "honor": "杰青",
+      "year": 2015,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-廖小飞",
+      "name": "廖小飞",
+      "title": "并行分布式计算",
+      "university": "华中科技大学",
+      "field": "并行分布式计算",
+      "tags": [
+        "杰青",
+        "2018"
+      ],
+      "honor": "杰青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-廖小飞",
+      "name": "廖小飞",
+      "title": "华中科技大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学",
+      "tags": [
+        "优青",
+        "2013"
+      ],
+      "honor": "优青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-刘吉臻",
+      "name": "刘吉臻",
+      "title": "",
+      "university": "华中科技大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/colys/59757516.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/59757516.html"
+    },
+    {
+      "id": "杰青-刘剑峰",
+      "name": "刘剑峰",
+      "title": "细胞生理学",
+      "university": "华中科技大学",
+      "field": "细胞生理学",
+      "tags": [
+        "杰青",
+        "2012"
+      ],
+      "honor": "杰青",
+      "year": 2012,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-刘世元",
+      "name": "刘世元",
+      "title": "机械测试理论、方法与技术",
+      "university": "华中科技大学",
+      "field": "机械测试理论、方法与技术",
+      "tags": [
+        "杰青",
+        "2015"
+      ],
+      "honor": "杰青",
+      "year": 2015,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-刘小伟",
+      "name": "刘小伟",
+      "title": "燃煤过程中细颗粒物和汞的生成与控制",
+      "university": "华中科技大学",
+      "field": "燃煤过程中细颗粒物和汞的生成与控制",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-刘争",
+      "name": "刘争",
+      "title": "鼻部炎症性疾病",
+      "university": "华中科技大学",
+      "field": "鼻部炎症性疾病",
+      "tags": [
+        "杰青",
+        "2013"
+      ],
+      "honor": "杰青",
+      "year": 2013,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-卢新培",
+      "name": "卢新培",
+      "title": "大气压非平衡等离子体及其生物医学应用",
+      "university": "华中科技大学",
+      "field": "大气压非平衡等离子体及其生物医学应用",
+      "tags": [
+        "杰青",
+        "2016"
+      ],
+      "honor": "杰青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-卢兴",
+      "name": "卢兴",
+      "title": "金属富勒烯化学",
+      "university": "华中科技大学",
+      "field": "金属富勒烯化学",
+      "tags": [
+        "杰青",
+        "2019"
+      ],
+      "honor": "杰青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-陆佳政",
+      "name": "陆佳政",
+      "title": "",
+      "university": "华中科技大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/colys/88402682.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/88402682.html"
+    },
+    {
+      "id": "杰青-陆培祥",
+      "name": "陆培祥",
+      "title": "超快X射线光源及其应用研究",
+      "university": "华中科技大学",
+      "field": "超快X射线光源及其应用研究",
+      "tags": [
+        "杰青",
+        "2009"
+      ],
+      "honor": "杰青",
+      "year": 2009,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-路战远",
+      "name": "路战远",
+      "title": "",
+      "university": "华中科技大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/colys/93847482.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/93847482.html"
+    },
+    {
+      "id": "杰青-吕新友",
+      "name": "吕新友",
+      "title": "华中科技大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学",
+      "tags": [
+        "杰青",
+        "2024"
+      ],
+      "honor": "杰青",
+      "year": 2024,
+      "source": "https://www.ncku1897.net/wiki/index.php/2024%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-吕新友",
+      "name": "吕新友",
+      "title": "非线性腔光力学",
+      "university": "华中科技大学",
+      "field": "非线性腔光力学",
+      "tags": [
+        "优青",
+        "2018"
+      ],
+      "honor": "优青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-罗俊",
+      "name": "罗俊",
+      "title": "物理",
+      "university": "华中科技大学",
+      "field": "物理",
+      "tags": [
+        "杰青",
+        "1994"
+      ],
+      "honor": "杰青",
+      "year": 1994,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "华中科技大学"
+    },
+    {
+      "id": "中科院院士-罗俊",
+      "name": "罗俊",
+      "title": "",
+      "university": "华中科技大学",
+      "field": "数学物理学部",
+      "tags": [
+        "中科院院士",
+        "2009"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882107.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "杰青-罗小兵",
+      "name": "罗小兵",
+      "title": "器件封装中流动与传热",
+      "university": "华中科技大学",
+      "field": "器件封装中流动与传热",
+      "tags": [
+        "杰青",
+        "2016"
+      ],
+      "honor": "杰青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-罗小平",
+      "name": "罗小平",
+      "title": "病理生理学",
+      "university": "华中科技大学",
+      "field": "病理生理学",
+      "tags": [
+        "杰青",
+        "2001"
+      ],
+      "honor": "杰青",
+      "year": 2001,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-骆清铭",
+      "name": "骆清铭",
+      "title": "教授",
+      "university": "华中科技大学",
+      "field": "教授",
+      "tags": [
+        "杰青",
+        "2000"
+      ],
+      "honor": "杰青",
+      "year": 2000,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-马聪",
+      "name": "马聪",
+      "title": "生命科学与技术学院",
+      "university": "华中科技大学",
+      "field": "生命科学与技术学院",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-马聪",
+      "name": "马聪",
+      "title": "华中科技大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学",
+      "tags": [
+        "优青",
+        "2013"
+      ],
+      "honor": "优青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-马丁",
+      "name": "马丁",
+      "title": "教授",
+      "university": "华中科技大学",
+      "field": "教授",
+      "tags": [
+        "杰青",
+        "2000",
+        "2017"
+      ],
+      "honor": "杰青",
+      "year": 2000,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-缪小平",
+      "name": "缪小平",
+      "title": "肿瘤分子流行病学",
+      "university": "华中科技大学",
+      "field": "肿瘤分子流行病学",
+      "tags": [
+        "杰青",
+        "2019"
+      ],
+      "honor": "杰青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-宁琴",
+      "name": "宁琴",
+      "title": "华中科技大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学",
+      "tags": [
+        "杰青",
+        "2002"
+      ],
+      "honor": "杰青",
+      "year": 2002,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-钮新强",
+      "name": "钮新强",
+      "title": "",
+      "university": "华中科技大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/colys/42229954.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/42229954.html"
+    },
+    {
+      "id": "杰青-彭芳瑜",
+      "name": "彭芳瑜",
+      "title": "数控加工技术与装备",
+      "university": "华中科技大学",
+      "field": "数控加工技术与装备",
+      "tags": [
+        "杰青",
+        "2016"
+      ],
+      "honor": "杰青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-饶宏",
+      "name": "饶宏",
+      "title": "",
+      "university": "华中科技大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/colys/25573513.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/25573513.html"
+    },
+    {
+      "id": "杰青-任佳刚",
+      "name": "任佳刚",
+      "title": "拟必然分析",
+      "university": "华中科技大学",
+      "field": "拟必然分析",
+      "tags": [
+        "杰青",
+        "1996"
+      ],
+      "honor": "杰青",
+      "year": 1996,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "华中科技大学"
+    },
+    {
+      "id": "杰青-邵成刚",
+      "name": "邵成刚",
+      "title": "精密引力实验中的噪声研究",
+      "university": "华中科技大学",
+      "field": "精密引力实验中的噪声研究",
+      "tags": [
+        "杰青",
+        "2019"
+      ],
+      "honor": "杰青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-邵新宇",
+      "name": "邵新宇",
+      "title": "复杂制造系统运行优化理论及其应用",
+      "university": "华中科技大学",
+      "field": "复杂制造系统运行优化理论及其应用",
+      "tags": [
+        "杰青",
+        "2008"
+      ],
+      "honor": "杰青",
+      "year": 2008,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-邵新宇",
+      "name": "邵新宇",
+      "title": "",
+      "university": "华中科技大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2019"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col323/2019-11/22/20191122095745643268594_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/12061162.html"
+    },
+    {
+      "id": "杰青-施焕中",
+      "name": "施焕中",
+      "title": "肺脏免疫相关性疾病的基础和临床研究",
+      "university": "华中科技大学",
+      "field": "肺脏免疫相关性疾病的基础和临床研究",
+      "tags": [
+        "杰青",
+        "2009"
+      ],
+      "honor": "杰青",
+      "year": 2009,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-史岸冰",
+      "name": "史岸冰",
+      "title": "囊泡循环运输",
+      "university": "华中科技大学",
+      "field": "囊泡循环运输",
+      "tags": [
+        "杰青",
+        "2018"
+      ],
+      "honor": "杰青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-宋波",
+      "name": "宋波",
+      "title": "金属增材制造",
+      "university": "华中科技大学",
+      "field": "金属增材制造",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-孙琪真",
+      "name": "孙琪真",
+      "title": "新型微结构光纤及其传感技术",
+      "university": "华中科技大学",
+      "field": "新型微结构光纤及其传感技术",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-唐江",
+      "name": "唐江",
+      "title": "太阳能电池",
+      "university": "华中科技大学",
+      "field": "太阳能电池",
+      "tags": [
+        "杰青",
+        "2017"
+      ],
+      "honor": "杰青",
+      "year": 2017,
+      "source": "https://www.ncku1897.net/wiki/index.php/2017%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-唐江",
+      "name": "唐江",
+      "title": "华中科技大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学",
+      "tags": [
+        "优青",
+        "2013"
+      ],
+      "honor": "优青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-唐明",
+      "name": "唐明",
+      "title": "西北农林科技大学",
+      "university": "华中科技大学",
+      "field": "西北农林科技大学",
+      "tags": [
+        "杰青",
+        "2002",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2002,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-涂良成",
+      "name": "涂良成",
+      "title": "精密扭秤实验技术及其应用",
+      "university": "华中科技大学",
+      "field": "精密扭秤实验技术及其应用",
+      "tags": [
+        "杰青",
+        "2013"
+      ],
+      "honor": "杰青",
+      "year": 2013,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-万谦",
+      "name": "万谦",
+      "title": "糖的合成化学",
+      "university": "华中科技大学",
+      "field": "糖的合成化学",
+      "tags": [
+        "杰青",
+        "2020"
+      ],
+      "honor": "杰青",
+      "year": 2020,
+      "source": "https://www.ncku1897.net/wiki/index.php/2020%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-王桂华",
+      "name": "王桂华",
+      "title": "肿瘤靶向治疗",
+      "university": "华中科技大学",
+      "field": "肿瘤靶向治疗",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-王红卫",
+      "name": "王红卫",
+      "title": "管理系统工程（研究领域）",
+      "university": "华中科技大学",
+      "field": "管理系统工程（研究领域）",
+      "tags": [
+        "杰青",
+        "2011"
+      ],
+      "honor": "杰青",
+      "year": 2011,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-王建枝",
+      "name": "王建枝",
+      "title": "神经病学",
+      "university": "华中科技大学",
+      "field": "神经病学",
+      "tags": [
+        "杰青",
+        "1999"
+      ],
+      "honor": "杰青",
+      "year": 1999,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "华中科技大学"
+    },
+    {
+      "id": "杰青-王健",
+      "name": "王健",
+      "title": "华中科技大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学",
+      "tags": [
+        "杰青",
+        "2021",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2021,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-王康丽",
+      "name": "王康丽",
+      "title": "面向电网的新型电化学储能技术",
+      "university": "华中科技大学",
+      "field": "面向电网的新型电化学储能技术",
+      "tags": [
+        "优青",
+        "2016"
+      ],
+      "honor": "优青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-王新云",
+      "name": "王新云",
+      "title": "塑性加工工艺、模具与装备",
+      "university": "华中科技大学",
+      "field": "塑性加工工艺、模具与装备",
+      "tags": [
+        "杰青",
+        "2017"
+      ],
+      "honor": "杰青",
+      "year": 2017,
+      "source": "https://www.ncku1897.net/wiki/index.php/2017%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-翁顺",
+      "name": "翁顺",
+      "title": "土木工程损伤识别",
+      "university": "华中科技大学",
+      "field": "土木工程损伤识别",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-邬堂春",
+      "name": "邬堂春",
+      "title": "劳动卫生学",
+      "university": "华中科技大学",
+      "field": "劳动卫生学",
+      "tags": [
+        "杰青",
+        "2005"
+      ],
+      "honor": "杰青",
+      "year": 2005,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-邬堂春",
+      "name": "邬堂春",
+      "title": "",
+      "university": "华中科技大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2021"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col1/2021-11/18/20211118075007595415390_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/61151908.html"
+    },
+    {
+      "id": "优青-吴付科",
+      "name": "吴付科",
+      "title": "华中科技大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学",
+      "tags": [
+        "优青",
+        "2014"
+      ],
+      "honor": "优青",
+      "year": 2014,
+      "source": "https://www.ncku1897.net/wiki/index.php/2014%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-吴庆文",
+      "name": "吴庆文",
+      "title": "黑洞吸积与喷流物理",
+      "university": "华中科技大学",
+      "field": "黑洞吸积与喷流物理",
+      "tags": [
+        "优青",
+        "2016"
+      ],
+      "honor": "优青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-吴伟仁",
+      "name": "吴伟仁",
+      "title": "",
+      "university": "华中科技大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/colys/03022221.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/03022221.html"
+    },
+    {
+      "id": "杰青-吴雅",
+      "name": "吴雅",
+      "title": "机械制造",
+      "university": "华中科技大学",
+      "field": "机械制造",
+      "tags": [
+        "杰青",
+        "1995"
+      ],
+      "honor": "杰青",
+      "year": 1995,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "华中科技大学"
+    },
+    {
+      "id": "杰青-吴颖",
+      "name": "吴颖",
+      "title": "量子光学",
+      "university": "华中科技大学",
+      "field": "量子光学",
+      "tags": [
+        "杰青",
+        "2001"
+      ],
+      "honor": "杰青",
+      "year": 2001,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-夏帆",
+      "name": "夏帆",
+      "title": "生命分析化学",
+      "university": "华中科技大学",
+      "field": "生命分析化学",
+      "tags": [
+        "杰青",
+        "2015"
+      ],
+      "honor": "杰青",
+      "year": 2015,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-肖传国",
+      "name": "肖传国",
+      "title": "泌尿外科学",
+      "university": "华中科技大学",
+      "field": "泌尿外科学",
+      "tags": [
+        "杰青",
+        "1999"
+      ],
+      "honor": "杰青",
+      "year": 1999,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "华中科技大学"
+    },
+    {
+      "id": "杰青-肖奕",
+      "name": "肖奕",
+      "title": "量子生物学",
+      "university": "华中科技大学",
+      "field": "量子生物学",
+      "tags": [
+        "杰青",
+        "2005"
+      ],
+      "honor": "杰青",
+      "year": 2005,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-谢庆国",
+      "name": "谢庆国",
+      "title": "数字PET成像",
+      "university": "华中科技大学",
+      "field": "数字PET成像",
+      "tags": [
+        "杰青",
+        "2014"
+      ],
+      "honor": "杰青",
+      "year": 2014,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-熊蔡华",
+      "name": "熊蔡华",
+      "title": "康复医疗机器人柔顺驱动与运动规划理论及其应用",
+      "university": "华中科技大学",
+      "field": "康复医疗机器人柔顺驱动与运动规划理论及其应用",
+      "tags": [
+        "杰青",
+        "2010"
+      ],
+      "honor": "杰青",
+      "year": 2010,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-徐明厚",
+      "name": "徐明厚",
+      "title": "燃烧污染与排气净化",
+      "university": "华中科技大学",
+      "field": "燃烧污染与排气净化",
+      "tags": [
+        "杰青",
+        "2003"
+      ],
+      "honor": "杰青",
+      "year": 2003,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-徐涛",
+      "name": "徐涛",
+      "title": "教授",
+      "university": "华中科技大学",
+      "field": "教授",
+      "tags": [
+        "杰青",
+        "2000"
+      ],
+      "honor": "杰青",
+      "year": 2000,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-许剑锋",
+      "name": "许剑锋",
+      "title": "机械学院",
+      "university": "华中科技大学",
+      "field": "机械学院",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-薛志刚",
+      "name": "薛志刚",
+      "title": "结构可控的聚合物复合电解质",
+      "university": "华中科技大学",
+      "field": "结构可控的聚合物复合电解质",
+      "tags": [
+        "优青",
+        "2016"
+      ],
+      "honor": "优青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-杨海平",
+      "name": "杨海平",
+      "title": "华中科技大学&amp;新加坡南洋理工大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学&amp;新加坡南洋理工大学",
+      "tags": [
+        "杰青",
+        "2021"
+      ],
+      "honor": "杰青",
+      "year": 2021,
+      "source": "https://www.ncku1897.net/wiki/index.php/2021%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-杨海平",
+      "name": "杨海平",
+      "title": "生物质热化学转化基础",
+      "university": "华中科技大学",
+      "field": "生物质热化学转化基础",
+      "tags": [
+        "优青",
+        "2016"
+      ],
+      "honor": "优青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-尹周平",
+      "name": "尹周平",
+      "title": "数控技术与数字制造",
+      "university": "华中科技大学",
+      "field": "数控技术与数字制造",
+      "tags": [
+        "杰青",
+        "2006"
+      ],
+      "honor": "杰青",
+      "year": 2006,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-尤政",
+      "name": "尤政",
+      "title": "",
+      "university": "华中科技大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/colys/42818308.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/42818308.html"
+    },
+    {
+      "id": "优青-余宇",
+      "name": "余宇",
+      "title": "大带宽、低串扰光子集成器件",
+      "university": "华中科技大学",
+      "field": "大带宽、低串扰光子集成器件",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-张冬雷",
+      "name": "张冬雷",
+      "title": "piRNA的功能和作用机制",
+      "university": "华中科技大学",
+      "field": "piRNA的功能和作用机制",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-张海涛",
+      "name": "张海涛",
+      "title": "人工智能与自动化学院",
+      "university": "华中科技大学",
+      "field": "人工智能与自动化学院",
+      "tags": [
+        "杰青",
+        "2022"
+      ],
+      "honor": "杰青",
+      "year": 2022,
+      "source": "https://www.ncku1897.net/wiki/index.php/2022%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-张海涛",
+      "name": "张海涛",
+      "title": "华中科技大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学",
+      "tags": [
+        "优青",
+        "2013"
+      ],
+      "honor": "优青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-张锦岚",
+      "name": "张锦岚",
+      "title": "",
+      "university": "华中科技大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/colys/66419804.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/66419804.html"
+    },
+    {
+      "id": "优青-张丽",
+      "name": "张丽",
+      "title": "心血管超声医学",
+      "university": "华中科技大学",
+      "field": "心血管超声医学",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-张新亮",
+      "name": "张新亮",
+      "title": "超高速光子信息处理器件及集成",
+      "university": "华中科技大学",
+      "field": "超高速光子信息处理器件及集成",
+      "tags": [
+        "杰青",
+        "2011"
+      ],
+      "honor": "杰青",
+      "year": 2011,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-张勇传",
+      "name": "张勇传",
+      "title": "",
+      "university": "华中科技大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/colys/09537025.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/09537025.html"
+    },
+    {
+      "id": "杰青-张勇慧",
+      "name": "张勇慧",
+      "title": "天然药物化学",
+      "university": "华中科技大学",
+      "field": "天然药物化学",
+      "tags": [
+        "杰青",
+        "2017"
+      ],
+      "honor": "杰青",
+      "year": 2017,
+      "source": "https://www.ncku1897.net/wiki/index.php/2017%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-张智红",
+      "name": "张智红",
+      "title": "肿瘤免疫光学分子成像",
+      "university": "华中科技大学",
+      "field": "肿瘤免疫光学分子成像",
+      "tags": [
+        "杰青",
+        "2016"
+      ],
+      "honor": "杰青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-赵海波",
+      "name": "赵海波",
+      "title": "化石能源的低碳燃烧和利用",
+      "university": "华中科技大学",
+      "field": "化石能源的低碳燃烧和利用",
+      "tags": [
+        "杰青",
+        "2020"
+      ],
+      "honor": "杰青",
+      "year": 2020,
+      "source": "https://www.ncku1897.net/wiki/index.php/2020%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-周华民",
+      "name": "周华民",
+      "title": "塑性加工工艺、模具与装备",
+      "university": "华中科技大学",
+      "field": "塑性加工工艺、模具与装备",
+      "tags": [
+        "杰青",
+        "2011"
+      ],
+      "honor": "杰青",
+      "year": 2011,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-周怀春",
+      "name": "周怀春",
+      "title": "热辐射分析与燃烧监控",
+      "university": "华中科技大学",
+      "field": "热辐射分析与燃烧监控",
+      "tags": [
+        "杰青",
+        "2010"
+      ],
+      "honor": "杰青",
+      "year": 2010,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-周剑峰",
+      "name": "周剑峰",
+      "title": "肿瘤新型分子药靶的分离和靶向阻遏",
+      "university": "华中科技大学",
+      "field": "肿瘤新型分子药靶的分离和靶向阻遏",
+      "tags": [
+        "杰青",
+        "2010"
+      ],
+      "honor": "杰青",
+      "year": 2010,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-周军",
+      "name": "周军",
+      "title": "华中科技大学",
+      "university": "华中科技大学",
+      "field": "华中科技大学",
+      "tags": [
+        "优青",
+        "2013"
+      ],
+      "honor": "优青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-周敏康",
+      "name": "周敏康",
+      "title": "高精度冷原子干涉仪",
+      "university": "华中科技大学",
+      "field": "高精度冷原子干涉仪",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-周月明",
+      "name": "周月明",
+      "title": "强激光场原子分子超快动力学",
+      "university": "华中科技大学",
+      "field": "强激光场原子分子超快动力学",
+      "tags": [
+        "优青",
+        "2016"
+      ],
+      "honor": "优青",
+      "year": 2016,
+      "source": "https://www.ncku1897.net/wiki/index.php/2016%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-周专",
+      "name": "周专",
+      "title": "膜与细胞生物物理",
+      "university": "华中科技大学",
+      "field": "膜与细胞生物物理",
+      "tags": [
+        "杰青",
+        "1995"
+      ],
+      "honor": "杰青",
+      "year": 1995,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "华中科技大学"
+    },
+    {
+      "id": "杰青-朱宏平",
+      "name": "朱宏平",
+      "title": "结构健康监测与振动控制",
+      "university": "华中科技大学",
+      "field": "结构健康监测与振动控制",
+      "tags": [
+        "杰青",
+        "2009"
+      ],
+      "honor": "杰青",
+      "year": 2009,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-朱虎成",
+      "name": "朱虎成",
+      "title": "天然药物化学",
+      "university": "华中科技大学",
+      "field": "天然药物化学",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-朱锦涛",
+      "name": "朱锦涛",
+      "title": "聚合物有序结构材料",
+      "university": "华中科技大学",
+      "field": "聚合物有序结构材料",
+      "tags": [
+        "杰青",
+        "2015"
+      ],
+      "honor": "杰青",
+      "year": 2015,
+      "source": "https://kfy.hust.edu.cn/bak/kjrc/kjrc/gjjcqnjjhdz_Al.htm",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-朱莉萍",
+      "name": "朱莉萍",
+      "title": "肺动脉高压",
+      "university": "华中科技大学",
+      "field": "肺动脉高压",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 143
+}

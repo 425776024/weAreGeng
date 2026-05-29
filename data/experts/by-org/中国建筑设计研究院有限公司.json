@@ -1,0 +1,22 @@
+{
+  "id": "中国建筑设计研究院有限公司",
+  "name": "中国建筑设计研究院有限公司",
+  "experts": [
+    {
+      "id": "工程院院士-李兴钢",
+      "name": "李兴钢",
+      "title": "",
+      "university": "中国建筑设计研究院有限公司",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2023"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col2260/2023-11/23/20231123090216622511192_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/80954566.html"
+    }
+  ],
+  "count": 1
+}

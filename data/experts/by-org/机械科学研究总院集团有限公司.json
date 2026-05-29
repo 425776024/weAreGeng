@@ -1,0 +1,22 @@
+{
+  "id": "机械科学研究总院集团有限公司",
+  "name": "机械科学研究总院集团有限公司",
+  "experts": [
+    {
+      "id": "工程院院士-单忠德",
+      "name": "单忠德",
+      "title": "",
+      "university": "机械科学研究总院集团有限公司",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2019"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col323/2019-11/22/20191122095745643268594_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/82851183.html"
+    }
+  ],
+  "count": 1
+}

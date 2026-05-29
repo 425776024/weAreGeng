@@ -1,0 +1,22 @@
+{
+  "id": "中国兵器工业第五九研究所",
+  "name": "中国兵器工业第五九研究所",
+  "experts": [
+    {
+      "id": "优青-陈强",
+      "name": "陈强",
+      "title": "塑性加工工艺、模具与装备",
+      "university": "中国兵器工业第五九研究所",
+      "field": "塑性加工工艺、模具与装备",
+      "tags": [
+        "优青",
+        "2018"
+      ],
+      "honor": "优青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 1
+}

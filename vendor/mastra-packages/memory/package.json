@@ -1,0 +1,74 @@
+{
+  "name": "@mastra/memory",
+  "version": "1.20.0",
+  "description": "",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist",
+    "CHANGELOG.md"
+  ],
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./dist/index.d.ts",
+        "default": "./dist/index.js"
+      },
+      "require": {
+        "types": "./dist/index.d.ts",
+        "default": "./dist/index.cjs"
+      }
+    },
+    "./processors": {
+      "import": {
+        "types": "./dist/processors/index.d.ts",
+        "default": "./dist/processors/index.js"
+      },
+      "require": {
+        "types": "./dist/processors/index.d.ts",
+        "default": "./dist/processors/index.cjs"
+      }
+    },
+    "./package.json": "./package.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "async-mutex": "^0.5.0",
+    "image-size": "^2.0.2",
+    "json-schema": "^0.4.0",
+    "lru-cache": "^11.2.7",
+    "probe-image-size": "^7.2.3",
+    "tokenx": "^1.3.0",
+    "xxhash-wasm": "^1.1.0",
+    "@mastra/schema-compat": "file:../schema-compat"
+  },
+  "peerDependencies": {
+    "@mastra/core": "file:../core"
+  },
+  "homepage": "https://mastra.ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastra-ai/mastra.git",
+    "directory": "packages/memory"
+  },
+  "bugs": {
+    "url": "https://github.com/mastra-ai/mastra/issues"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "check": "tsc --noEmit",
+    "build:lib": "tsup --silent --config tsup.config.ts",
+    "build:watch": "pnpm build:lib --watch",
+    "test:integration": "cd integration-tests && pnpm run test",
+    "test:unit": "pnpm vitest run ./src/*",
+    "test": "pnpm test:integration && pnpm test:unit",
+    "lint": "eslint .",
+    "analyze:om-repro": "node ./scripts/analyze-om-repro.mjs",
+    "sanitize:om-repro": "node ./scripts/sanitize-om-repro.mjs"
+  }
+}

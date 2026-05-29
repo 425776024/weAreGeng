@@ -1,0 +1,37 @@
+{
+  "id": "中国科学院科技政策与管理科学研究所",
+  "name": "中国科学院科技政策与管理科学研究所",
+  "experts": [
+    {
+      "id": "杰青-范英",
+      "name": "范英",
+      "title": "能源-环境-经济复杂系统中的预测理论方法与应用",
+      "university": "中国科学院科技政策与管理科学研究所",
+      "field": "能源-环境-经济复杂系统中的预测理论方法与应用",
+      "tags": [
+        "杰青",
+        "2008"
+      ],
+      "honor": "杰青",
+      "year": 2008,
+      "source": "https://www.ncku1897.net/wiki/index.php/2008%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-魏一鸣",
+      "name": "魏一鸣",
+      "title": "复杂性研究",
+      "university": "中国科学院科技政策与管理科学研究所",
+      "field": "复杂性研究",
+      "tags": [
+        "杰青",
+        "2004"
+      ],
+      "honor": "杰青",
+      "year": 2004,
+      "source": "https://www.ncku1897.net/wiki/index.php/2004%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 2
+}

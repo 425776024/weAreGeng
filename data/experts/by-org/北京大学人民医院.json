@@ -1,0 +1,53 @@
+{
+  "id": "北京大学人民医院",
+  "name": "北京大学人民医院",
+  "universityId": "pku",
+  "experts": [
+    {
+      "id": "工程院院士-黄晓军",
+      "name": "黄晓军",
+      "title": "",
+      "university": "北京大学人民医院",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2023"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col2260/2023-11/23/20231123090216622511192_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/91390904.html"
+    },
+    {
+      "id": "工程院院士-姜保国",
+      "name": "姜保国",
+      "title": "",
+      "university": "北京大学人民医院",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2021"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col1/2021-11/18/20211118075007595415390_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/24686864.html"
+    },
+    {
+      "id": "工程院院士-王俊",
+      "name": "王俊",
+      "title": "",
+      "university": "北京大学人民医院",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2019"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col323/2019-11/22/20191122095745643268594_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/69079057.html"
+    }
+  ],
+  "count": 3
+}

@@ -1,0 +1,52 @@
+{
+  "id": "中国农业科学院饲料研究所",
+  "name": "中国农业科学院饲料研究所",
+  "experts": [
+    {
+      "id": "杰青-姚斌",
+      "name": "姚斌",
+      "title": "饲料用酶的分子生物学",
+      "university": "中国农业科学院饲料研究所",
+      "field": "饲料用酶的分子生物学",
+      "tags": [
+        "杰青",
+        "2012"
+      ],
+      "honor": "杰青",
+      "year": 2012,
+      "source": "https://www.ncku1897.net/wiki/index.php/2012%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-姚斌",
+      "name": "姚斌",
+      "title": "",
+      "university": "中国农业科学院饲料研究所",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2019"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col323/2019-11/22/20191122095745643268594_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/37300771.html"
+    },
+    {
+      "id": "杰青-周志刚",
+      "name": "周志刚",
+      "title": "鱼类消化道微生物与宿主互作",
+      "university": "中国农业科学院饲料研究所",
+      "field": "鱼类消化道微生物与宿主互作",
+      "tags": [
+        "杰青",
+        "2019"
+      ],
+      "honor": "杰青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 3
+}

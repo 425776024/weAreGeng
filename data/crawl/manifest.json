@@ -1,0 +1,237 @@
+{
+  "fetchedAt": "2026-05-29T13:07:54.754Z",
+  "sources": [
+    {
+      "org": "中国科学院学部",
+      "url": "https://casad.cas.cn/ysxx2022/ysmd/qtys/",
+      "type": "cas-yuanshi"
+    },
+    {
+      "org": "中国科学院学部",
+      "type": "cas-election",
+      "year": 2003,
+      "url": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882104.html",
+      "count": 58
+    },
+    {
+      "org": "中国科学院学部",
+      "type": "cas-election",
+      "year": 2005,
+      "url": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882105.html",
+      "count": 50
+    },
+    {
+      "org": "中国科学院学部",
+      "type": "cas-election",
+      "year": 2007,
+      "url": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882106.html",
+      "count": 33
+    },
+    {
+      "org": "中国科学院学部",
+      "type": "cas-election",
+      "year": 2009,
+      "url": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882107.html",
+      "count": 37
+    },
+    {
+      "org": "中国科学院学部",
+      "type": "cas-election",
+      "year": 2011,
+      "url": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882108.html",
+      "count": 56
+    },
+    {
+      "org": "中国科学院学部",
+      "type": "cas-election",
+      "year": 2013,
+      "url": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882109.html",
+      "count": 59
+    },
+    {
+      "org": "中国科学院学部",
+      "type": "cas-election",
+      "year": 2015,
+      "url": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882110.html",
+      "count": 65
+    },
+    {
+      "org": "中国科学院学部",
+      "type": "cas-election",
+      "year": 2017,
+      "url": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882118.html",
+      "count": 69
+    },
+    {
+      "org": "中国科学院学部",
+      "type": "cas-election",
+      "year": 2019,
+      "url": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882115.html",
+      "count": 82
+    },
+    {
+      "org": "中国科学院学部",
+      "type": "cas-election",
+      "year": 2023,
+      "url": "https://casad.cas.cn/yszx/lcmd/202504/t20250402_5061082.html",
+      "count": 0
+    },
+    {
+      "org": "中国工程院",
+      "type": "cae-election",
+      "year": 2015,
+      "url": "https://www.cae.cn/cae/html/main/col280/2015-12/04/20151204105337936142127_1.html",
+      "count": 0
+    },
+    {
+      "org": "中国工程院",
+      "type": "cae-election",
+      "year": 2017,
+      "url": "https://www.cae.cn/cae/html/main/col280/2017-11/27/20171127085337936142127_1.html",
+      "count": 76
+    },
+    {
+      "org": "中国工程院",
+      "type": "cae-election",
+      "year": 2019,
+      "url": "https://www.cae.cn/cae/html/main/col323/2019-11/22/20191122095745643268594_1.html",
+      "count": 97
+    },
+    {
+      "org": "中国工程院",
+      "type": "cae-election",
+      "year": 2021,
+      "url": "https://www.cae.cn/cae/html/main/col1/2021-11/18/20211118075007595415390_1.html",
+      "count": 88
+    },
+    {
+      "org": "中国工程院",
+      "type": "cae-election",
+      "year": 2023,
+      "url": "https://www.cae.cn/cae/html/main/col2260/2023-11/23/20231123090216622511192_1.html",
+      "count": 74
+    },
+    {
+      "org": "国家自然科学基金委员会",
+      "url": "https://www.nsfc.gov.cn/p1/2853/3102/sqyzz1.html",
+      "type": "nsfc-dept-jieqing-youqing",
+      "pages": [
+        "https://www.nsfc.gov.cn/p1/2853/3102/72649.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72650.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72656.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72657.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72661.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72640.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72641.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72642.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72643.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72644.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72645.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72646.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72647.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72648.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72651.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72652.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72653.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72654.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72655.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72658.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72659.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72660.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72662.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72663.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72664.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72665.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72666.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72667.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72668.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72669.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72670.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72671.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72672.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72673.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72674.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72675.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72676.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72677.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72678.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72679.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72680.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72681.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72682.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72683.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72684.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72685.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72686.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72687.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72688.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72689.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72690.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72691.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72692.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72693.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72694.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72695.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72696.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72697.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72698.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72699.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72700.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72701.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72702.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72703.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72704.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72705.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72706.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72707.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72708.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72709.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72710.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72711.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72712.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72713.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72714.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72715.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72716.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72717.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72718.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72719.html",
+        "https://www.nsfc.gov.cn/p1/2853/3102/72720.html"
+      ]
+    },
+    {
+      "org": "中国农业大学",
+      "type": "university-quick-probed",
+      "honor": "杰青",
+      "url": "https://www.cau.edu.cn/17158/list.htm",
+      "count": 49
+    },
+    {
+      "org": "对外经济贸易大学",
+      "type": "university-quick-probed",
+      "honor": "杰青",
+      "url": "https://www.uibe.edu.cn/17158/list.htm",
+      "count": 38
+    },
+    {
+      "org": "青海大学",
+      "type": "university-quick-probed",
+      "honor": "杰青",
+      "url": "https://www.qhu.edu.cn/17158/list.htm",
+      "count": 44
+    }
+  ],
+  "counts": {
+    "yuanshi-cas": 969,
+    "yuanshi-cae": 988,
+    "jieqing": 5243,
+    "youqing": 3003,
+    "university-talents": 677,
+    "qianqing": 0,
+    "total": 10203,
+    "totalRaw": 10203
+  },
+  "notes": [
+    "青年千人/海外优青：暂无全国完整公开 HTML 名单；可通过各高校人事处公示页逐校补充。"
+  ]
+}

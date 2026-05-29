@@ -1,0 +1,37 @@
+{
+  "id": "中冶建筑研究总院有限公司",
+  "name": "中冶建筑研究总院有限公司",
+  "experts": [
+    {
+      "id": "工程院院士-曾滨",
+      "name": "曾滨",
+      "title": "",
+      "university": "中冶建筑研究总院有限公司",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2023"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col2260/2023-11/23/20231123090216622511192_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/15170666.html"
+    },
+    {
+      "id": "工程院院士-岳清瑞",
+      "name": "岳清瑞",
+      "title": "",
+      "university": "中冶建筑研究总院有限公司",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2017"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col280/2017-11/27/20171127085337936142127_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/28976019.html"
+    }
+  ],
+  "count": 2
+}

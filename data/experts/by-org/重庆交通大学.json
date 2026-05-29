@@ -1,0 +1,22 @@
+{
+  "id": "重庆交通大学",
+  "name": "重庆交通大学",
+  "experts": [
+    {
+      "id": "杰青-周建庭",
+      "name": "周建庭",
+      "title": "桥梁监测与加固",
+      "university": "重庆交通大学",
+      "field": "桥梁监测与加固",
+      "tags": [
+        "杰青",
+        "2014"
+      ],
+      "honor": "杰青",
+      "year": 2014,
+      "source": "https://www.ncku1897.net/wiki/index.php/2014%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 1
+}

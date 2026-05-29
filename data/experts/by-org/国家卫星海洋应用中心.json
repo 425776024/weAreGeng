@@ -1,0 +1,22 @@
+{
+  "id": "国家卫星海洋应用中心",
+  "name": "国家卫星海洋应用中心",
+  "experts": [
+    {
+      "id": "工程院院士-蒋兴伟",
+      "name": "蒋兴伟",
+      "title": "",
+      "university": "国家卫星海洋应用中心",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2017"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col280/2017-11/27/20171127085337936142127_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/75364351.html"
+    }
+  ],
+  "count": 1
+}

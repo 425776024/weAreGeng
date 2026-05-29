@@ -1,0 +1,22 @@
+{
+  "id": "波兰科学院",
+  "name": "波兰科学院",
+  "experts": [
+    {
+      "id": "中科院院士-波兰",
+      "name": "波兰",
+      "title": "",
+      "university": "波兰科学院",
+      "field": "波兰科学院",
+      "tags": [
+        "中科院院士",
+        "2017"
+      ],
+      "honor": "中科院院士",
+      "year": 2017,
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882118.html",
+      "sourceOrg": "中国科学院学部"
+    }
+  ],
+  "count": 1
+}

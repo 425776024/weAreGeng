@@ -1,0 +1,22 @@
+{
+  "id": "首都医科大学附属北京友谊医院",
+  "name": "首都医科大学附属北京友谊医院",
+  "experts": [
+    {
+      "id": "工程院院士-王振常",
+      "name": "王振常",
+      "title": "",
+      "university": "首都医科大学附属北京友谊医院",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2023"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col2260/2023-11/23/20231123090216622511192_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/69183202.html"
+    }
+  ],
+  "count": 1
+}

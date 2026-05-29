@@ -1,0 +1,902 @@
+[
+  {
+    "id": "tsinghua",
+    "name": "清华大学",
+    "shortName": "清华",
+    "is985": true,
+    "is211": true,
+    "rank": 1,
+    "province": "北京"
+  },
+  {
+    "id": "pku",
+    "name": "北京大学",
+    "shortName": "北大",
+    "is985": true,
+    "is211": true,
+    "rank": 2,
+    "province": "北京"
+  },
+  {
+    "id": "zju",
+    "name": "浙江大学",
+    "shortName": "浙大",
+    "is985": true,
+    "is211": true,
+    "rank": 3,
+    "province": "浙江"
+  },
+  {
+    "id": "sjtu",
+    "name": "上海交通大学",
+    "shortName": "上交",
+    "is985": true,
+    "is211": true,
+    "rank": 4,
+    "province": "上海"
+  },
+  {
+    "id": "fudan",
+    "name": "复旦大学",
+    "shortName": "复旦",
+    "is985": true,
+    "is211": true,
+    "rank": 5,
+    "province": "上海"
+  },
+  {
+    "id": "nju",
+    "name": "南京大学",
+    "shortName": "南大",
+    "is985": true,
+    "is211": true,
+    "rank": 6,
+    "province": "江苏"
+  },
+  {
+    "id": "ustc",
+    "name": "中国科学技术大学",
+    "shortName": "中科大",
+    "is985": true,
+    "is211": true,
+    "rank": 7,
+    "province": "安徽"
+  },
+  {
+    "id": "whu",
+    "name": "武汉大学",
+    "shortName": "武大",
+    "is985": true,
+    "is211": true,
+    "rank": 8,
+    "province": "湖北"
+  },
+  {
+    "id": "hit",
+    "name": "哈尔滨工业大学",
+    "shortName": "哈工大",
+    "is985": true,
+    "is211": true,
+    "rank": 9,
+    "province": "黑龙江"
+  },
+  {
+    "id": "xjt",
+    "name": "西安交通大学",
+    "shortName": "西交",
+    "is985": true,
+    "is211": true,
+    "rank": 10,
+    "province": "陕西"
+  },
+  {
+    "id": "sysu",
+    "name": "中山大学",
+    "shortName": "中大",
+    "is985": true,
+    "is211": true,
+    "rank": 11,
+    "province": "广东"
+  },
+  {
+    "id": "tongji",
+    "name": "同济大学",
+    "shortName": "同济",
+    "is985": true,
+    "is211": true,
+    "rank": 12,
+    "province": "上海"
+  },
+  {
+    "id": "hust",
+    "name": "华中科技大学",
+    "shortName": "华科",
+    "is985": true,
+    "is211": true,
+    "rank": 13,
+    "province": "湖北"
+  },
+  {
+    "id": "tju",
+    "name": "天津大学",
+    "shortName": "天大",
+    "is985": true,
+    "is211": true,
+    "rank": 14,
+    "province": "天津"
+  },
+  {
+    "id": "scut",
+    "name": "华南理工大学",
+    "shortName": "华工",
+    "is985": true,
+    "is211": true,
+    "rank": 15,
+    "province": "广东"
+  },
+  {
+    "id": "seu",
+    "name": "东南大学",
+    "shortName": "东大",
+    "is985": true,
+    "is211": true,
+    "rank": 16,
+    "province": "江苏"
+  },
+  {
+    "id": "buaa",
+    "name": "北京航空航天大学",
+    "shortName": "北航",
+    "is985": true,
+    "is211": true,
+    "rank": 17,
+    "province": "北京"
+  },
+  {
+    "id": "bit",
+    "name": "北京理工大学",
+    "shortName": "北理工",
+    "is985": true,
+    "is211": true,
+    "rank": 18,
+    "province": "北京"
+  },
+  {
+    "id": "scu",
+    "name": "四川大学",
+    "shortName": "川大",
+    "is985": true,
+    "is211": true,
+    "rank": 19,
+    "province": "四川"
+  },
+  {
+    "id": "ruc",
+    "name": "中国人民大学",
+    "shortName": "人大",
+    "is985": true,
+    "is211": true,
+    "rank": 20,
+    "province": "北京"
+  },
+  {
+    "id": "sdu",
+    "name": "山东大学",
+    "shortName": "山大",
+    "is985": true,
+    "is211": true,
+    "rank": 21,
+    "province": "山东"
+  },
+  {
+    "id": "csu",
+    "name": "中南大学",
+    "shortName": "中南",
+    "is985": true,
+    "is211": true,
+    "rank": 22,
+    "province": "湖南"
+  },
+  {
+    "id": "dlut",
+    "name": "大连理工大学",
+    "shortName": "大工",
+    "is985": true,
+    "is211": true,
+    "rank": 23,
+    "province": "辽宁"
+  },
+  {
+    "id": "jlu",
+    "name": "吉林大学",
+    "shortName": "吉大",
+    "is985": true,
+    "is211": true,
+    "rank": 24,
+    "province": "吉林"
+  },
+  {
+    "id": "xmu",
+    "name": "厦门大学",
+    "shortName": "厦大",
+    "is985": true,
+    "is211": true,
+    "rank": 25,
+    "province": "福建"
+  },
+  {
+    "id": "ecnu",
+    "name": "华东师范大学",
+    "shortName": "华师大",
+    "is985": true,
+    "is211": true,
+    "rank": 26,
+    "province": "上海"
+  },
+  {
+    "id": "cau",
+    "name": "中国农业大学",
+    "shortName": "农大",
+    "is985": true,
+    "is211": true,
+    "rank": 27,
+    "province": "北京"
+  },
+  {
+    "id": "nwpu",
+    "name": "西北工业大学",
+    "shortName": "西工大",
+    "is985": true,
+    "is211": true,
+    "rank": 28,
+    "province": "陕西"
+  },
+  {
+    "id": "lzu",
+    "name": "兰州大学",
+    "shortName": "兰大",
+    "is985": true,
+    "is211": true,
+    "rank": 29,
+    "province": "甘肃"
+  },
+  {
+    "id": "cqu",
+    "name": "重庆大学",
+    "shortName": "重大",
+    "is985": true,
+    "is211": true,
+    "rank": 30,
+    "province": "重庆"
+  },
+  {
+    "id": "ouc",
+    "name": "中国海洋大学",
+    "shortName": "海大",
+    "is985": true,
+    "is211": true,
+    "rank": 31,
+    "province": "山东"
+  },
+  {
+    "id": "hnu",
+    "name": "湖南大学",
+    "shortName": "湖大",
+    "is985": true,
+    "is211": true,
+    "rank": 32,
+    "province": "湖南"
+  },
+  {
+    "id": "nudt",
+    "name": "国防科技大学",
+    "shortName": "国防科大",
+    "is985": true,
+    "is211": true,
+    "rank": 33,
+    "province": "湖南"
+  },
+  {
+    "id": "uestc",
+    "name": "电子科技大学",
+    "shortName": "成电",
+    "is985": true,
+    "is211": true,
+    "rank": 34,
+    "province": "四川"
+  },
+  {
+    "id": "bnu",
+    "name": "北京师范大学",
+    "shortName": "北师大",
+    "is985": true,
+    "is211": true,
+    "rank": 35,
+    "province": "北京"
+  },
+  {
+    "id": "nwafu",
+    "name": "西北农林科技大学",
+    "shortName": "西农",
+    "is985": true,
+    "is211": true,
+    "rank": 36,
+    "province": "陕西"
+  },
+  {
+    "id": "cnu",
+    "name": "首都师范大学",
+    "shortName": "首师大",
+    "is985": false,
+    "is211": true,
+    "rank": 37,
+    "province": "北京"
+  },
+  {
+    "id": "njust",
+    "name": "南京理工大学",
+    "shortName": "南理工",
+    "is985": false,
+    "is211": true,
+    "rank": 38,
+    "province": "江苏"
+  },
+  {
+    "id": "nuaa",
+    "name": "南京航空航天大学",
+    "shortName": "南航",
+    "is985": false,
+    "is211": true,
+    "rank": 39,
+    "province": "江苏"
+  },
+  {
+    "id": "swjtu",
+    "name": "西南交通大学",
+    "shortName": "西南交大",
+    "is985": false,
+    "is211": true,
+    "rank": 40,
+    "province": "四川"
+  },
+  {
+    "id": "swu",
+    "name": "西南大学",
+    "shortName": "西南大学",
+    "is985": false,
+    "is211": true,
+    "rank": 41,
+    "province": "重庆"
+  },
+  {
+    "id": "whut",
+    "name": "武汉理工大学",
+    "shortName": "武理工",
+    "is985": false,
+    "is211": true,
+    "rank": 42,
+    "province": "湖北"
+  },
+  {
+    "id": "cug",
+    "name": "中国地质大学(武汉)",
+    "shortName": "地大",
+    "is985": false,
+    "is211": true,
+    "rank": 43,
+    "province": "湖北"
+  },
+  {
+    "id": "cugb",
+    "name": "中国地质大学(北京)",
+    "shortName": "地大北京",
+    "is985": false,
+    "is211": true,
+    "rank": 44,
+    "province": "北京"
+  },
+  {
+    "id": "cumt",
+    "name": "中国矿业大学",
+    "shortName": "矿大",
+    "is985": false,
+    "is211": true,
+    "rank": 45,
+    "province": "江苏"
+  },
+  {
+    "id": "cumtb",
+    "name": "中国矿业大学(北京)",
+    "shortName": "矿大北京",
+    "is985": false,
+    "is211": true,
+    "rank": 46,
+    "province": "北京"
+  },
+  {
+    "id": "cug2",
+    "name": "中国石油大学(华东)",
+    "shortName": "石大",
+    "is985": false,
+    "is211": true,
+    "rank": 47,
+    "province": "山东"
+  },
+  {
+    "id": "cup",
+    "name": "中国石油大学(北京)",
+    "shortName": "石大北京",
+    "is985": false,
+    "is211": true,
+    "rank": 48,
+    "province": "北京"
+  },
+  {
+    "id": "cuc",
+    "name": "中国传媒大学",
+    "shortName": "中传",
+    "is985": false,
+    "is211": true,
+    "rank": 49,
+    "province": "北京"
+  },
+  {
+    "id": "cufe",
+    "name": "中央财经大学",
+    "shortName": "央财",
+    "is985": false,
+    "is211": true,
+    "rank": 50,
+    "province": "北京"
+  },
+  {
+    "id": "uibe",
+    "name": "对外经济贸易大学",
+    "shortName": "贸大",
+    "is985": false,
+    "is211": true,
+    "rank": 51,
+    "province": "北京"
+  },
+  {
+    "id": "bfsu",
+    "name": "北京外国语大学",
+    "shortName": "北外",
+    "is985": false,
+    "is211": true,
+    "rank": 52,
+    "province": "北京"
+  },
+  {
+    "id": "muc",
+    "name": "中央民族大学",
+    "shortName": "民大",
+    "is985": true,
+    "is211": true,
+    "rank": 53,
+    "province": "北京"
+  },
+  {
+    "id": "pkuhsc",
+    "name": "北京协和医学院",
+    "shortName": "协和",
+    "is985": false,
+    "is211": false,
+    "rank": 54,
+    "province": "北京"
+  },
+  {
+    "id": "nankai",
+    "name": "南开大学",
+    "shortName": "南开",
+    "is985": true,
+    "is211": true,
+    "rank": 55,
+    "province": "天津"
+  },
+  {
+    "id": "tianjin",
+    "name": "天津医科大学",
+    "shortName": "天医",
+    "is985": false,
+    "is211": true,
+    "rank": 56,
+    "province": "天津"
+  },
+  {
+    "id": "hebut",
+    "name": "河北工业大学",
+    "shortName": "河工大",
+    "is985": false,
+    "is211": true,
+    "rank": 57,
+    "province": "天津"
+  },
+  {
+    "id": "tyut",
+    "name": "太原理工大学",
+    "shortName": "太原理工",
+    "is985": false,
+    "is211": true,
+    "rank": 58,
+    "province": "山西"
+  },
+  {
+    "id": "imu",
+    "name": "内蒙古大学",
+    "shortName": "内大",
+    "is985": false,
+    "is211": true,
+    "rank": 59,
+    "province": "内蒙古"
+  },
+  {
+    "id": "lnu",
+    "name": "辽宁大学",
+    "shortName": "辽大",
+    "is985": false,
+    "is211": true,
+    "rank": 60,
+    "province": "辽宁"
+  },
+  {
+    "id": "dmu",
+    "name": "大连海事大学",
+    "shortName": "海大",
+    "is985": false,
+    "is211": true,
+    "rank": 61,
+    "province": "辽宁"
+  },
+  {
+    "id": "nenu",
+    "name": "东北师范大学",
+    "shortName": "东师",
+    "is985": false,
+    "is211": true,
+    "rank": 62,
+    "province": "吉林"
+  },
+  {
+    "id": "neu",
+    "name": "东北大学",
+    "shortName": "东大",
+    "is985": true,
+    "is211": true,
+    "rank": 63,
+    "province": "辽宁"
+  },
+  {
+    "id": "hrbeu",
+    "name": "哈尔滨工程大学",
+    "shortName": "哈工程",
+    "is985": false,
+    "is211": true,
+    "rank": 64,
+    "province": "黑龙江"
+  },
+  {
+    "id": "nefu",
+    "name": "东北林业大学",
+    "shortName": "东林",
+    "is985": false,
+    "is211": true,
+    "rank": 65,
+    "province": "黑龙江"
+  },
+  {
+    "id": "ecust",
+    "name": "华东理工大学",
+    "shortName": "华理",
+    "is985": false,
+    "is211": true,
+    "rank": 66,
+    "province": "上海"
+  },
+  {
+    "id": "shufe",
+    "name": "上海财经大学",
+    "shortName": "上财",
+    "is985": false,
+    "is211": true,
+    "rank": 67,
+    "province": "上海"
+  },
+  {
+    "id": "shisu",
+    "name": "上海外国语大学",
+    "shortName": "上外",
+    "is985": false,
+    "is211": true,
+    "rank": 68,
+    "province": "上海"
+  },
+  {
+    "id": "shu",
+    "name": "上海大学",
+    "shortName": "上大",
+    "is985": false,
+    "is211": true,
+    "rank": 69,
+    "province": "上海"
+  },
+  {
+    "id": "suda",
+    "name": "苏州大学",
+    "shortName": "苏大",
+    "is985": false,
+    "is211": true,
+    "rank": 70,
+    "province": "江苏"
+  },
+  {
+    "id": "hhu",
+    "name": "河海大学",
+    "shortName": "河海",
+    "is985": false,
+    "is211": true,
+    "rank": 71,
+    "province": "江苏"
+  },
+  {
+    "id": "jnu",
+    "name": "江南大学",
+    "shortName": "江南",
+    "is985": false,
+    "is211": true,
+    "rank": 72,
+    "province": "江苏"
+  },
+  {
+    "id": "njfu",
+    "name": "南京林业大学",
+    "shortName": "南林",
+    "is985": false,
+    "is211": false,
+    "rank": 73,
+    "province": "江苏"
+  },
+  {
+    "id": "njau",
+    "name": "南京农业大学",
+    "shortName": "南农",
+    "is985": false,
+    "is211": true,
+    "rank": 74,
+    "province": "江苏"
+  },
+  {
+    "id": "cpu",
+    "name": "中国药科大学",
+    "shortName": "药大",
+    "is985": false,
+    "is211": true,
+    "rank": 75,
+    "province": "江苏"
+  },
+  {
+    "id": "nwu",
+    "name": "西北大学",
+    "shortName": "西大",
+    "is985": false,
+    "is211": true,
+    "rank": 76,
+    "province": "陕西"
+  },
+  {
+    "id": "hznu",
+    "name": "杭州师范大学",
+    "shortName": "杭师大",
+    "is985": false,
+    "is211": false,
+    "rank": 77,
+    "province": "浙江"
+  },
+  {
+    "id": "zafu",
+    "name": "浙江农林大学",
+    "shortName": "浙农林",
+    "is985": false,
+    "is211": false,
+    "rank": 78,
+    "province": "浙江"
+  },
+  {
+    "id": "ahnu",
+    "name": "安徽大学",
+    "shortName": "安大",
+    "is985": false,
+    "is211": true,
+    "rank": 79,
+    "province": "安徽"
+  },
+  {
+    "id": "hfut",
+    "name": "合肥工业大学",
+    "shortName": "合工大",
+    "is985": false,
+    "is211": true,
+    "rank": 80,
+    "province": "安徽"
+  },
+  {
+    "id": "fzu",
+    "name": "福州大学",
+    "shortName": "福大",
+    "is985": false,
+    "is211": true,
+    "rank": 81,
+    "province": "福建"
+  },
+  {
+    "id": "ncu",
+    "name": "南昌大学",
+    "shortName": "南大",
+    "is985": false,
+    "is211": true,
+    "rank": 82,
+    "province": "江西"
+  },
+  {
+    "id": "sdnu",
+    "name": "山东师范大学",
+    "shortName": "山东师大",
+    "is985": false,
+    "is211": false,
+    "rank": 83,
+    "province": "山东"
+  },
+  {
+    "id": "zzu",
+    "name": "郑州大学",
+    "shortName": "郑大",
+    "is985": false,
+    "is211": true,
+    "rank": 84,
+    "province": "河南"
+  },
+  {
+    "id": "ccnu",
+    "name": "华中师范大学",
+    "shortName": "华师",
+    "is985": false,
+    "is211": true,
+    "rank": 85,
+    "province": "湖北"
+  },
+  {
+    "id": "hzau",
+    "name": "华中农业大学",
+    "shortName": "华农",
+    "is985": false,
+    "is211": true,
+    "rank": 86,
+    "province": "湖北"
+  },
+  {
+    "id": "hnnu",
+    "name": "湖南师范大学",
+    "shortName": "湖师大",
+    "is985": false,
+    "is211": true,
+    "rank": 87,
+    "province": "湖南"
+  },
+  {
+    "id": "jnu2",
+    "name": "暨南大学",
+    "shortName": "暨大",
+    "is985": false,
+    "is211": true,
+    "rank": 88,
+    "province": "广东"
+  },
+  {
+    "id": "scnu",
+    "name": "华南师范大学",
+    "shortName": "华师",
+    "is985": false,
+    "is211": true,
+    "rank": 89,
+    "province": "广东"
+  },
+  {
+    "id": "gxu",
+    "name": "广西大学",
+    "shortName": "西大",
+    "is985": false,
+    "is211": true,
+    "rank": 90,
+    "province": "广西"
+  },
+  {
+    "id": "hainanu",
+    "name": "海南大学",
+    "shortName": "海大",
+    "is985": false,
+    "is211": true,
+    "rank": 91,
+    "province": "海南"
+  },
+  {
+    "id": "swufe",
+    "name": "西南财经大学",
+    "shortName": "西财",
+    "is985": false,
+    "is211": true,
+    "rank": 92,
+    "province": "四川"
+  },
+  {
+    "id": "ynu",
+    "name": "云南大学",
+    "shortName": "云大",
+    "is985": false,
+    "is211": true,
+    "rank": 93,
+    "province": "云南"
+  },
+  {
+    "id": "gzu",
+    "name": "贵州大学",
+    "shortName": "贵大",
+    "is985": false,
+    "is211": true,
+    "rank": 94,
+    "province": "贵州"
+  },
+  {
+    "id": "nxu",
+    "name": "宁夏大学",
+    "shortName": "宁大",
+    "is985": false,
+    "is211": true,
+    "rank": 95,
+    "province": "宁夏"
+  },
+  {
+    "id": "qhu",
+    "name": "青海大学",
+    "shortName": "青大",
+    "is985": false,
+    "is211": true,
+    "rank": 96,
+    "province": "青海"
+  },
+  {
+    "id": "xju",
+    "name": "新疆大学",
+    "shortName": "新大",
+    "is985": false,
+    "is211": true,
+    "rank": 97,
+    "province": "新疆"
+  },
+  {
+    "id": "bistu",
+    "name": "北京科技大学",
+    "shortName": "北科大",
+    "is985": false,
+    "is211": true,
+    "rank": 98,
+    "province": "北京"
+  },
+  {
+    "id": "bupt",
+    "name": "北京邮电大学",
+    "shortName": "北邮",
+    "is985": false,
+    "is211": true,
+    "rank": 99,
+    "province": "北京"
+  },
+  {
+    "id": "bjtu",
+    "name": "北京交通大学",
+    "shortName": "北交",
+    "is985": false,
+    "is211": true,
+    "rank": 100,
+    "province": "北京"
+  }
+]

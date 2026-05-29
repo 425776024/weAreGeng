@@ -1,0 +1,22 @@
+{
+  "id": "北京大学普林斯顿大学",
+  "name": "北京大学、普林斯顿大学",
+  "universityId": "pku",
+  "experts": [
+    {
+      "id": "中科院院士-鄂维南",
+      "name": "鄂维南",
+      "title": "",
+      "university": "北京大学、普林斯顿大学",
+      "field": "数学物理学部",
+      "tags": [
+        "中科院院士",
+        "2011"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882108.html",
+      "sourceOrg": "中国科学院学部"
+    }
+  ],
+  "count": 1
+}

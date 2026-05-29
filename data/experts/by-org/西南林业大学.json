@@ -1,0 +1,23 @@
+{
+  "id": "西南林业大学",
+  "name": "西南林业大学",
+  "universityId": "njfu",
+  "experts": [
+    {
+      "id": "工程院院士-杜官本",
+      "name": "杜官本",
+      "title": "",
+      "university": "西南林业大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2023"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col2260/2023-11/23/20231123090216622511192_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/38303007.html"
+    }
+  ],
+  "count": 1
+}

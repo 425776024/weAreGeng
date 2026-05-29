@@ -1,0 +1,68 @@
+{
+  "id": "中国科学院西安光学精密机械研究所",
+  "name": "中国科学院西安光学精密机械研究所",
+  "experts": [
+    {
+      "id": "杰青-李学龙",
+      "name": "李学龙",
+      "title": "光学影像处理与模式识别",
+      "university": "中国科学院西安光学精密机械研究所",
+      "field": "光学影像处理与模式识别",
+      "tags": [
+        "杰青",
+        "2011"
+      ],
+      "honor": "杰青",
+      "year": 2011,
+      "source": "https://www.ncku1897.net/wiki/index.php/2011%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-刘雪明",
+      "name": "刘雪明",
+      "title": "光纤激光非线性理论及应用",
+      "university": "中国科学院西安光学精密机械研究所",
+      "field": "光纤激光非线性理论及应用",
+      "tags": [
+        "杰青",
+        "2015"
+      ],
+      "honor": "杰青",
+      "year": 2015,
+      "source": "https://www.ncku1897.net/wiki/index.php/2015%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-卢孝强",
+      "name": "卢孝强",
+      "title": "光学遥感影像数据智能分析",
+      "university": "中国科学院西安光学精密机械研究所",
+      "field": "光学遥感影像数据智能分析",
+      "tags": [
+        "杰青",
+        "2019"
+      ],
+      "honor": "杰青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-袁媛",
+      "name": "袁媛",
+      "title": "高光谱图像分析与处理",
+      "university": "中国科学院西安光学精密机械研究所",
+      "field": "高光谱图像分析与处理",
+      "tags": [
+        "杰青",
+        "2018",
+        "2023"
+      ],
+      "honor": "杰青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2023%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 4
+}

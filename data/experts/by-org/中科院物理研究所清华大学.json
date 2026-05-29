@@ -1,0 +1,22 @@
+{
+  "id": "中科院物理研究所清华大学",
+  "name": "中科院物理研究所、清华大学",
+  "universityId": "tsinghua",
+  "experts": [
+    {
+      "id": "中科院院士-薛其坤",
+      "name": "薛其坤",
+      "title": "",
+      "university": "中科院物理研究所、清华大学",
+      "field": "技术科学部",
+      "tags": [
+        "中科院院士",
+        "2005"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882105.html",
+      "sourceOrg": "中国科学院学部"
+    }
+  ],
+  "count": 1
+}

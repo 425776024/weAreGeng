@@ -1,0 +1,98 @@
+{
+  "id": "中国人民解放军军事科学院军事医学研究院",
+  "name": "中国人民解放军军事科学院军事医学研究院",
+  "experts": [
+    {
+      "id": "杰青-李涛",
+      "name": "李涛",
+      "title": "天然免疫",
+      "university": "中国人民解放军军事科学院军事医学研究院",
+      "field": "天然免疫",
+      "tags": [
+        "杰青",
+        "2019",
+        "2001"
+      ],
+      "honor": "杰青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-李腾",
+      "name": "李腾",
+      "title": "蛋白质相变调控肿瘤发生分子机制研究",
+      "university": "中国人民解放军军事科学院军事医学研究院",
+      "field": "蛋白质相变调控肿瘤发生分子机制研究",
+      "tags": [
+        "优青",
+        "2019"
+      ],
+      "honor": "优青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-刘玮",
+      "name": "刘玮",
+      "title": "新发虫媒传染病流行病学",
+      "university": "中国人民解放军军事科学院军事医学研究院",
+      "field": "新发虫媒传染病流行病学",
+      "tags": [
+        "杰青",
+        "2018"
+      ],
+      "honor": "杰青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-潘欣",
+      "name": "潘欣",
+      "title": "线粒体异常与肿瘤发生",
+      "university": "中国人民解放军军事科学院军事医学研究院",
+      "field": "线粒体异常与肿瘤发生",
+      "tags": [
+        "杰青",
+        "2020"
+      ],
+      "honor": "杰青",
+      "year": 2020,
+      "source": "https://www.ncku1897.net/wiki/index.php/2020%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-秦成峰",
+      "name": "秦成峰",
+      "title": "虫媒黄病毒感染与致病机制研究",
+      "university": "中国人民解放军军事科学院军事医学研究院",
+      "field": "虫媒黄病毒感染与致病机制研究",
+      "tags": [
+        "杰青",
+        "2019"
+      ],
+      "honor": "杰青",
+      "year": 2019,
+      "source": "https://www.ncku1897.net/wiki/index.php/2019%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "优青-徐小洁",
+      "name": "徐小洁",
+      "title": "肿瘤放疗与抵抗",
+      "university": "中国人民解放军军事科学院军事医学研究院",
+      "field": "肿瘤放疗与抵抗",
+      "tags": [
+        "优青",
+        "2018"
+      ],
+      "honor": "优青",
+      "year": 2018,
+      "source": "https://www.ncku1897.net/wiki/index.php/2018%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 6
+}

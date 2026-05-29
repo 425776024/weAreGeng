@@ -1,0 +1,22 @@
+{
+  "id": "国家基础地理信息中心",
+  "name": "国家基础地理信息中心",
+  "experts": [
+    {
+      "id": "工程院院士-陈军",
+      "name": "陈军",
+      "title": "",
+      "university": "国家基础地理信息中心",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2019"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col323/2019-11/22/20191122095745643268594_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/14313525.html"
+    }
+  ],
+  "count": 1
+}

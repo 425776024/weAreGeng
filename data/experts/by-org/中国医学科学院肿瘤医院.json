@@ -1,0 +1,66 @@
+{
+  "id": "中国医学科学院肿瘤医院",
+  "name": "中国医学科学院肿瘤医院",
+  "experts": [
+    {
+      "id": "中科院院士-赫捷",
+      "name": "赫捷",
+      "title": "",
+      "university": "中国医学科学院肿瘤医院",
+      "field": "生命科学和医学学部",
+      "tags": [
+        "中科院院士",
+        "2013"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882109.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "杰青-吴晨",
+      "name": "吴晨",
+      "title": "遗传学与基因组学",
+      "university": "中国医学科学院肿瘤医院",
+      "field": "遗传学与基因组学",
+      "tags": [
+        "杰青",
+        "2017"
+      ],
+      "honor": "杰青",
+      "year": 2017,
+      "source": "https://www.ncku1897.net/wiki/index.php/2017%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-徐兵河",
+      "name": "徐兵河",
+      "title": "",
+      "university": "中国医学科学院肿瘤医院",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2021"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col1/2021-11/18/20211118075007595415390_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/40730209.html"
+    },
+    {
+      "id": "优青-赵方辉",
+      "name": "赵方辉",
+      "title": "中国医学科学院肿瘤医院",
+      "university": "中国医学科学院肿瘤医院",
+      "field": "中国医学科学院肿瘤医院",
+      "tags": [
+        "优青",
+        "2013"
+      ],
+      "honor": "优青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 4
+}

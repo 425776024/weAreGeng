@@ -1,0 +1,22 @@
+{
+  "id": "西北有色金属研究院",
+  "name": "西北有色金属研究院",
+  "experts": [
+    {
+      "id": "工程院院士-张平祥",
+      "name": "张平祥",
+      "title": "",
+      "university": "西北有色金属研究院",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2019"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col323/2019-11/22/20191122095745643268594_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/65193638.html"
+    }
+  ],
+  "count": 1
+}

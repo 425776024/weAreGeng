@@ -1,0 +1,22 @@
+{
+  "id": "university-of-helsinki-赫尔辛基大学",
+  "name": "University of Helsinki 赫尔辛基大学",
+  "experts": [
+    {
+      "id": "中科院院士-芬兰",
+      "name": "芬兰",
+      "title": "",
+      "university": "University of Helsinki 赫尔辛基大学",
+      "field": "University of Helsinki 赫尔辛基大学",
+      "tags": [
+        "中科院院士",
+        "2015"
+      ],
+      "honor": "中科院院士",
+      "year": 2015,
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882110.html",
+      "sourceOrg": "中国科学院学部"
+    }
+  ],
+  "count": 1
+}

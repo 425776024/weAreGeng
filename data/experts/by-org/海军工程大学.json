@@ -1,0 +1,37 @@
+{
+  "id": "海军工程大学",
+  "name": "海军工程大学",
+  "experts": [
+    {
+      "id": "工程院院士-何琳",
+      "name": "何琳",
+      "title": "",
+      "university": "海军工程大学",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2017"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col280/2017-11/27/20171127085337936142127_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/84374699.html"
+    },
+    {
+      "id": "优青-孟进",
+      "name": "孟进",
+      "title": "海军工程大学",
+      "university": "海军工程大学",
+      "field": "海军工程大学",
+      "tags": [
+        "优青",
+        "2014"
+      ],
+      "honor": "优青",
+      "year": 2014,
+      "source": "https://www.ncku1897.net/wiki/index.php/2014%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    }
+  ],
+  "count": 2
+}

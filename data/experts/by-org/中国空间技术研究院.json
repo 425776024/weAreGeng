@@ -1,0 +1,35 @@
+{
+  "id": "中国空间技术研究院",
+  "name": "中国空间技术研究院",
+  "experts": [
+    {
+      "id": "中科院院士-杨孟飞",
+      "name": "杨孟飞",
+      "title": "",
+      "university": "中国空间技术研究院",
+      "field": "技术科学部",
+      "tags": [
+        "中科院院士",
+        "2017"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882118.html",
+      "sourceOrg": "中国科学院学部"
+    },
+    {
+      "id": "中科院院士-叶培建",
+      "name": "叶培建",
+      "title": "",
+      "university": "中国空间技术研究院",
+      "field": "技术科学部",
+      "tags": [
+        "中科院院士",
+        "2003"
+      ],
+      "honor": "中科院院士",
+      "source": "https://casad.cas.cn/yszx/lcmd/202303/t20230328_4882104.html",
+      "sourceOrg": "中国科学院学部"
+    }
+  ],
+  "count": 2
+}

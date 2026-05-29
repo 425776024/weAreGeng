@@ -1,0 +1,52 @@
+{
+  "id": "水利部交通运输部国家能源局南京水利科学研究院",
+  "name": "水利部交通运输部国家能源局南京水利科学研究院",
+  "experts": [
+    {
+      "id": "杰青-陈求稳",
+      "name": "陈求稳",
+      "title": "生态水力学",
+      "university": "水利部交通运输部国家能源局南京水利科学研究院",
+      "field": "生态水力学",
+      "tags": [
+        "杰青",
+        "2014"
+      ],
+      "honor": "杰青",
+      "year": 2014,
+      "source": "https://www.ncku1897.net/wiki/index.php/2014%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "杰青-胡少伟",
+      "name": "胡少伟",
+      "title": "水工混凝土结构工程",
+      "university": "水利部交通运输部国家能源局南京水利科学研究院",
+      "field": "水工混凝土结构工程",
+      "tags": [
+        "杰青",
+        "2013"
+      ],
+      "honor": "杰青",
+      "year": 2013,
+      "source": "https://www.ncku1897.net/wiki/index.php/2013%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85",
+      "sourceOrg": "国家自然科学基金委员会"
+    },
+    {
+      "id": "工程院院士-胡亚安",
+      "name": "胡亚安",
+      "title": "",
+      "university": "水利部交通运输部国家能源局南京水利科学研究院",
+      "field": "中国工程院",
+      "tags": [
+        "工程院院士",
+        "2021"
+      ],
+      "honor": "工程院院士",
+      "source": "https://www.cae.cn/cae/html/main/col1/2021-11/18/20211118075007595415390_1.html",
+      "sourceOrg": "中国工程院",
+      "profilePath": "/cae/html/main/colys/32007353.html"
+    }
+  ],
+  "count": 3
+}
