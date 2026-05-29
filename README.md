@@ -1,6 +1,7 @@
 # WeAreGeng — 学术打假搜索平台
 
-[![Latest Release](https://img.shields.io/github/v/release/OWNER/weAreGeng?label=release)](https://github.com/OWNER/weAreGeng/releases/latest)
+[![CI](https://github.com/425776024/weAreGeng/actions/workflows/ci.yml/badge.svg)](https://github.com/425776024/weAreGeng/actions/workflows/ci.yml)
+[![Latest Release](https://img.shields.io/github/v/release/425776024/weAreGeng?label=release)](https://github.com/425776024/weAreGeng/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 **WeAreGeng**（我们都是耿同学）—— 内置 **1 万+** 杰青等公开学者人名、数据，用 **Agent** 做多步论文检索与学术诚信分析。
@@ -9,22 +10,24 @@
 
 ## 下载
 
-**[→ 下载最新版](https://github.com/OWNER/weAreGeng/releases/latest)**（macOS / Windows / Linux，无需 Node / Rust）
+**[→ 下载最新版（Releases）](https://github.com/425776024/weAreGeng/releases/latest)** · **[全部版本](https://github.com/425776024/weAreGeng/releases)**
+
+预编译安装包（macOS / Windows / Linux），无需安装 Node / Rust。在 Release 页面的 **Assets** 中按系统选择：
 
 | 系统 | 选哪个 |
 |------|--------|
-| Mac（M 芯片） | 含 `aarch64` 的 `.dmg` |
-| Mac（Intel） | 含 `x64` 的 `.dmg` |
+| Mac（M 芯片） | 文件名含 `aarch64` 的 `.dmg` |
+| Mac（Intel） | 文件名含 `x64` 或 `x86_64` 的 `.dmg` |
 | Windows | `.msi` 或 `.exe` |
 | Linux | `.deb` 或 `.AppImage` |
 
 安装后：**设置 → 大模型** 填入 API Key，即可使用 Agent 与 AI 分析。
 
-> 将 `OWNER` 替换为你的 GitHub 用户名。
+> 若 [Releases](https://github.com/425776024/weAreGeng/releases) 尚无安装包，可在 [Actions → Release](https://github.com/425776024/weAreGeng/actions/workflows/release.yml) 查看构建进度；`main` 分支 push 也会在 [Build Tauri](https://github.com/425776024/weAreGeng/actions/workflows/build-tauri.yml) 产出临时 Artifacts。
 
 ## 演示
 
-<video src="https://github.com/OWNER/weAreGeng/raw/main/docs/use.mp4" controls width="100%"></video>
+<video src="https://github.com/425776024/weAreGeng/raw/main/docs/use.mp4" controls width="100%"></video>
 
 ## 核心能力
 
@@ -81,7 +84,7 @@ Agent 与前端搜索默认 **OpenAlex + Semantic Scholar 双源去重合并**�
 ## 开发者
 
 ```bash
-git clone --recurse-submodules https://github.com/OWNER/weAreGeng.git && cd weAreGeng
+git clone --recurse-submodules https://github.com/425776024/weAreGeng.git && cd weAreGeng
 # 已 clone 未拉 submodule：git submodule update --init --depth 1 vendor/mastra
 npm install && npm run setup:node && npm run build:tauri-agent
 npm run tauri:dev

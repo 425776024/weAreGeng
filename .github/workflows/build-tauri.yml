@@ -3,7 +3,6 @@ name: Build Tauri
 on:
   push:
     branches: [main, master]
-    tags: ['v*']
   pull_request:
     branches: [main, master]
   workflow_dispatch:
@@ -21,10 +20,13 @@ jobs:
       matrix:
         include:
           - platform: macos-latest
+            target: aarch64-apple-darwin
             args: '--target aarch64-apple-darwin'
-          - platform: macos-latest
+          - platform: macos-15-intel
+            target: x86_64-apple-darwin
             args: '--target x86_64-apple-darwin'
           - platform: windows-latest
+            target: x86_64-pc-windows-msvc
             args: ''
 
     runs-on: ${{ matrix.platform }}
@@ -43,7 +45,7 @@ jobs:
       - name: Install Rust stable
         uses: dtolnay/rust-toolchain@stable
         with:
-          targets: ${{ matrix.platform == 'macos-latest' && 'aarch64-apple-darwin,x86_64-apple-darwin' || '' }}
+          targets: ${{ matrix.target }}
 
       - name: Rust cache
         uses: swatinem/rust-cache@v2
@@ -53,33 +55,16 @@ jobs:
       - name: Install frontend dependencies
         run: npm ci
 
-      - name: Build and publish release
-        if: startsWith(github.ref, 'refs/tags/v')
-        uses: tauri-apps/tauri-action@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tagName: v__VERSION__
-          releaseName: WeAreGeng v__VERSION__
-          releaseBody: |
-            下载对应平台安装包安装使用。
-
-            | 平台 | 文件 |
-            | --- | --- |
-            | macOS (Apple Silicon) | `.dmg` (aarch64) |
-            | macOS (Intel) | `.dmg` (x86_64) |
-            | Windows | `.msi` / `.exe` |
-          releaseDraft: true
-          prerelease: false
-          uploadWorkflowArtifacts: true
-          workflowArtifactNamePattern: WeAreGeng-[platform]-[arch]-[bundle][ext]
-          args: ${{ matrix.args }}
+      - name: Prepare Mastra and agent runtime
+        run: |
+          npm run setup:mastra
+          npm run setup:node -- --target ${{ matrix.target }}
 
       - name: Build and upload artifacts
-        if: ${{ !startsWith(github.ref, 'refs/tags/v') }}
-        uses: tauri-apps/tauri-action@v1
+        uses: tauri-apps/tauri-action@action-v0.6.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TARGET: ${{ matrix.target }}
         with:
           uploadWorkflowArtifacts: true
           workflowArtifactNamePattern: WeAreGeng-[platform]-[arch]-[bundle][ext]
