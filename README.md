@@ -27,7 +27,15 @@
 
 ## 演示
 
-<video src="https://github.com/425776024/weAreGeng/raw/main/docs/use.mp4" controls width="100%"></video>
+<p align="center">
+  <a href="https://github.com/425776024/weAreGeng/raw/main/docs/use.mp4">
+    <img src="docs/use-preview.gif" alt="WeAreGeng 演示" width="720">
+  </a>
+  <br>
+  <sub>▶ <a href="https://github.com/425776024/weAreGeng/raw/main/docs/use.mp4">观看完整演示视频（MP4）</a></sub>
+</p>
+
+> GitHub README 不支持 `<video>` 标签内嵌播放，因此用 GIF 预览 + MP4 完整视频链接。
 
 ## 核心能力
 
